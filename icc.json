@@ -1,10 +1,10 @@
 {
   "Author": "Abid",
-  "Last_Updated": "05:43:08 PM 24-08-2025",
-  "total_events": 11,
+  "Last_Updated": "05:56:07 PM 24-08-2025",
+  "total_events": 10,
   "totals": {
     "live": 0,
-    "upcoming": 11
+    "upcoming": 10
   },
   "live_events": [],
   "upcoming_events": [
@@ -105,16 +105,6 @@
       "date_time": "14:00, 27/08/2025",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/hnz0p9ok3wdnnpjos7xj",
       "event_url": "#",
-      "stream_data_url": "",
-      "drm_key": ""
-    },
-    {
-      "isStart": "Upcoming",
-      "tournament": "ICC CWC Challenge League A, 2024-26",
-      "title": "Qatar v Kenya (2nd Innings)",
-      "date_time": "Date/Time Nahi Mila",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/c5dhlbsjfkvakbfh8iyn",
-      "event_url": "https://www.icc-cricket.com/tournaments/cwc-challenge-league/videos/qatar-v-kenya-2nd-innings",
       "stream_data_url": "",
       "drm_key": ""
     }
