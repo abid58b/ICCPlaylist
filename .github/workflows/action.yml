@@ -36,7 +36,7 @@ jobs:
           ICC_USERNAME: ${{ secrets.ICC_USERNAME }}
           ICC_PASSWORD: ${{ secrets.ICC_PASSWORD }}
         run: |
-          wget -O icc.py ${{ secrets.ICC_PYTHON_SCRIPT }}
+          curl -L -o icc.py ${{ secrets.ICC_PYTHON_SCRIPT }}
           python icc.py
 
       - name: Changes ko commit karen
