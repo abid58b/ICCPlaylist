@@ -1,10 +1,10 @@
 {
   "Author": "Abid",
-  "Last_Updated": "01:50:58 PM 24-08-2025",
-  "total_events": 12,
+  "Last_Updated": "02:23:46 PM 24-08-2025",
+  "total_events": 13,
   "totals": {
     "live": 3,
-    "upcoming": 9
+    "upcoming": 10
   },
   "live_events": [
     {
@@ -92,9 +92,9 @@
     {
       "isStart": "Upcoming",
       "tournament": "ICC CWC Challenge League A, 2024-26",
-      "title": "Papua New Guinea v Kenya (1st Innings)",
+      "title": "Qatar v Denmark (1st Innings)",
       "date_time": "10:00, 27/08/2025",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/cxfjos2rlhmof2grdx1i",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/ipdqevtpzzlb8wiwgjh1",
       "event_url": "#",
       "stream_data_url": "",
       "drm_key": ""
@@ -102,9 +102,9 @@
     {
       "isStart": "Upcoming",
       "tournament": "ICC CWC Challenge League A, 2024-26",
-      "title": "Qatar v Denmark (1st Innings)",
+      "title": "Papua New Guinea v Kenya (1st Innings)",
       "date_time": "10:00, 27/08/2025",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/ipdqevtpzzlb8wiwgjh1",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/cxfjos2rlhmof2grdx1i",
       "event_url": "#",
       "stream_data_url": "",
       "drm_key": ""
@@ -125,6 +125,16 @@
       "title": "Papua New Guinea v Kenya (2nd Innings)",
       "date_time": "14:00, 27/08/2025",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/b1romeh8ktk0vgxkqjcc",
+      "event_url": "#",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC CWC Challenge League A, 2024-26",
+      "title": "Qatar v Denmark (2nd Innings)",
+      "date_time": "14:00, 27/08/2025",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/hnz0p9ok3wdnnpjos7xj",
       "event_url": "#",
       "stream_data_url": "",
       "drm_key": ""
