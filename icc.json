@@ -1,22 +1,12 @@
 {
   "Author": "Abid",
-  "Last_Updated": "03:04:10 PM 24-08-2025",
-  "total_events": 13,
+  "Last_Updated": "03:42:39 PM 24-08-2025",
+  "total_events": 12,
   "totals": {
-    "live": 3,
+    "live": 2,
     "upcoming": 10
   },
   "live_events": [
-    {
-      "isStart": "Live",
-      "tournament": "ICC CWC Challenge League A, 2024-26",
-      "title": "Papua New Guinea v Kuwait (2nd Innings)",
-      "date_time": "NOW",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/gbei4dzn91x1taieavul",
-      "event_url": "https://www.icc-cricket.com/tournaments/cwc-challenge-league/videos/papua-new-guinea-v-kuwait-2nd-innings",
-      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1756059150~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~data=hdntl~hmac=053158f6a6e835a8cc0a80e727aa4d263766b5477e681467099bb237506c7782/manifest.mpd?|User-Agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36",
-      "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
-    },
     {
       "isStart": "Live",
       "tournament": "ICC Women’s T20 World Cup Europe Qualifier Division 1, 2025",
