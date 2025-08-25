@@ -1,6 +1,6 @@
 {
   "Author": "Abid",
-  "Last_Updated": "12:56:27 PM 25-08-2025",
+  "Last_Updated": "01:36:43 PM 25-08-2025",
   "total_events": 11,
   "totals": {
     "live": 1,
@@ -10,25 +10,15 @@
     {
       "isStart": "Live",
       "tournament": "ICC CWC Challenge League A, 2024-26",
-      "title": "Jersey v Denmark (1st Innings)",
+      "title": "Jersey v Denmark (2nd Innings)",
       "date_time": "NOW",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/frk4yxvfoi0hibbg5wgz",
-      "event_url": "https://www.icc-cricket.com/tournaments/cwc-challenge-league/videos/jersey-v-denmark-1st-innings",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/droo5yxgmwpwaqiev70k",
+      "event_url": "https://www.icc-cricket.com/tournaments/cwc-challenge-league/videos/jersey-v-denmark-2nd-innings",
       "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1756149569~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~data=hdntl~hmac=b46f8bd0b6edfa5359dad540a9d8283d014b6cbbfb4b9f4093e64e438244e88a/manifest.mpd?|User-Agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36",
       "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
     }
   ],
   "upcoming_events": [
-    {
-      "isStart": "Upcoming",
-      "tournament": "ICC CWC Challenge League A, 2024-26",
-      "title": "Jersey v Denmark (2nd Innings)",
-      "date_time": "13:00, 25/08/2025",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/droo5yxgmwpwaqiev70k",
-      "event_url": "#",
-      "stream_data_url": "",
-      "drm_key": ""
-    },
     {
       "isStart": "Upcoming",
       "tournament": "ICC Women’s T20 World Cup Europe Qualifier Division 1, 2025",
@@ -62,9 +52,9 @@
     {
       "isStart": "Upcoming",
       "tournament": "ICC CWC Challenge League A, 2024-26",
-      "title": "Qatar v Denmark (1st Innings)",
+      "title": "Papua New Guinea v Kenya (1st Innings)",
       "date_time": "10:00, 27/08/2025",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/ipdqevtpzzlb8wiwgjh1",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/cxfjos2rlhmof2grdx1i",
       "event_url": "#",
       "stream_data_url": "",
       "drm_key": ""
@@ -72,9 +62,9 @@
     {
       "isStart": "Upcoming",
       "tournament": "ICC CWC Challenge League A, 2024-26",
-      "title": "Papua New Guinea v Kenya (1st Innings)",
+      "title": "Qatar v Denmark (1st Innings)",
       "date_time": "10:00, 27/08/2025",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/cxfjos2rlhmof2grdx1i",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/ipdqevtpzzlb8wiwgjh1",
       "event_url": "#",
       "stream_data_url": "",
       "drm_key": ""
@@ -115,6 +105,16 @@
       "title": "Canada v Namibia (1st Innings)",
       "date_time": "14:30, 27/08/2025",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/t1g0qdvih4nnkiqivcee",
+      "event_url": "#",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC CWC League 2, 2023-27",
+      "title": "Canada v Namibia (2nd Innings)",
+      "date_time": "18:30, 27/08/2025",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/oz3tsdtnpvd9m5pzzldc",
       "event_url": "#",
       "stream_data_url": "",
       "drm_key": ""
