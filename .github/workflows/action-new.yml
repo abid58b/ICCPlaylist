@@ -2,7 +2,7 @@ name: Generate ICC M3U from JSON
 
 on:
   schedule:
-    - cron: '*/10 * * * *' # Har 20 minute baad run karega
+    - cron: '*/10 * * * *'
   push:
     branches:
       - main
@@ -17,7 +17,7 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v4
       with:
-        token: ${{ secrets.GITHUB_TOKEN }} # Same repository mein push karne ke liye
+        token: ${{ secrets.GITHUB_TOKEN }}
 
     - name: Remove existing files
       run: rm -f icc.m3u
@@ -45,13 +45,10 @@ jobs:
     - name: Generate M3U from JSON and Modify URLs
       if: steps.check_json_file.outputs.file_found == 'true'
       run: |
-        # 1. M3U file ka header shuru karna
         echo "#EXTM3U" > icc.m3u
         
-        # 2. JQ ki madad se har Live Event ko M3U format mein convert karna
         JQ_QUERY='
         .live_events[] |
-        # Filter: Sirf wo events jo streamable hon (stream_data_url aur drm_key ho)
         select(.stream_data_url != "" and .drm_key != "") |
         
         # M3U lines ka structure taiyar karna:
@@ -64,11 +61,9 @@ jobs:
         )
         '
         
-        # Run JQ: icc.json se data extract karo aur newline se separate karo
         cat icc.json | jq -r "$JQ_QUERY" >> icc.m3u
         
         echo "M3U generation completed. Output written to icc.m3u"
-
       
     - name: Commit and push generated M3U file
       if: steps.check_json_file.outputs.file_found == 'true'
