@@ -1,23 +1,24 @@
 {
   "Author": "Abid",
-  "Last_Updated": "08:38:17 AM 26-08-2025",
-  "total_events": 10,
+  "Last_Updated": "08:59:25 AM 26-08-2025",
+  "total_events": 11,
   "totals": {
-    "live": 0,
+    "live": 1,
     "upcoming": 10
   },
-  "live_events": [],
-  "upcoming_events": [
+  "live_events": [
     {
-      "isStart": "Upcoming",
+      "isStart": "Live",
       "tournament": "ICC Women’s T20 World Cup Europe Qualifier Division 1, 2025",
       "title": "Germany v Italy",
-      "date_time": "09:00, 26/08/2025",
+      "date_time": "NOW",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/bf8hi71mur91n53mntvf",
-      "event_url": "#",
-      "stream_data_url": "",
-      "drm_key": ""
-    },
+      "event_url": "https://www.icc-cricket.com/videos/germany-v-italy",
+      "stream_data_url": "https://live-d-02-icc-ne.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1756149569~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~data=hdntl~hmac=b46f8bd0b6edfa5359dad540a9d8283d014b6cbbfb4b9f4093e64e438244e88a/manifest.mpd?|User-Agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36",
+      "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
+    }
+  ],
+  "upcoming_events": [
     {
       "isStart": "Upcoming",
       "tournament": "ICC Women’s T20 World Cup Europe Qualifier Division 1, 2025",
@@ -71,9 +72,9 @@
     {
       "isStart": "Upcoming",
       "tournament": "ICC CWC Challenge League A, 2024-26",
-      "title": "Qatar v Denmark (2nd Innings)",
+      "title": "Papua New Guinea v Kenya (2nd Innings)",
       "date_time": "14:00, 27/08/2025",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/hnz0p9ok3wdnnpjos7xj",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/b1romeh8ktk0vgxkqjcc",
       "event_url": "#",
       "stream_data_url": "",
       "drm_key": ""
@@ -81,9 +82,9 @@
     {
       "isStart": "Upcoming",
       "tournament": "ICC CWC Challenge League A, 2024-26",
-      "title": "Papua New Guinea v Kenya (2nd Innings)",
+      "title": "Qatar v Denmark (2nd Innings)",
       "date_time": "14:00, 27/08/2025",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/b1romeh8ktk0vgxkqjcc",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/hnz0p9ok3wdnnpjos7xj",
       "event_url": "#",
       "stream_data_url": "",
       "drm_key": ""
@@ -104,6 +105,16 @@
       "title": "Canada v Namibia (2nd Innings)",
       "date_time": "18:30, 27/08/2025",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/oz3tsdtnpvd9m5pzzldc",
+      "event_url": "#",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC CWC Challenge League A, 2024-26",
+      "title": "Denmark v Kuwait (1st Innings)",
+      "date_time": "10:00, 28/08/2025",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/x0drtyzwry3i0ejfrpiq",
       "event_url": "#",
       "stream_data_url": "",
       "drm_key": ""
