@@ -1,23 +1,12 @@
 {
   "Author": "Abid",
-  "Last_Updated": "04:31:55 PM 26-08-2025",
-  "total_events": 11,
+  "Last_Updated": "05:24:58 PM 26-08-2025",
+  "total_events": 10,
   "totals": {
-    "live": 1,
+    "live": 0,
     "upcoming": 10
   },
-  "live_events": [
-    {
-      "isStart": "Live",
-      "tournament": "ICC Women’s T20 World Cup Europe Qualifier Division 1, 2025",
-      "title": "Ireland v Netherlands",
-      "date_time": "NOW",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/phq8yuhfdadmpnrp5zqc",
-      "event_url": "https://www.icc-cricket.com/videos/ireland-v-netherlands",
-      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1756234185~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~data=hdntl~hmac=836a450e95b92ecdb149da6024ad36f607780a46c786c10a61be820b5c124a1c/manifest.mpd?|User-Agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36",
-      "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
-    }
-  ],
+  "live_events": [],
   "upcoming_events": [
     {
       "isStart": "Upcoming",
