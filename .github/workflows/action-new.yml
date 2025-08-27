@@ -61,8 +61,8 @@ jobs:
         )
         '
         
-        cat icc.json | jq -r "$JQ_QUERY" >> icc.m3u
-        
+        m3u_content=$(cat icc.json | jq -r "$JQ_QUERY")
+        printf '%s\n' "$m3u_content" >> icc.m3u
         echo "M3U generation completed. Output written to icc.m3u"
       
     - name: Commit and push generated M3U file
