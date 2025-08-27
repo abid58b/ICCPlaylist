@@ -12,6 +12,9 @@ on:
 jobs:
   generate_playlist_from_json:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      workflows: write
 
     steps:
     - name: Checkout repository
