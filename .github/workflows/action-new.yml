@@ -78,7 +78,7 @@ jobs:
           git fetch origin main
           git reset --soft origin/main
           git commit -m "Auto-generated: ICC M3U playlist from JSON data"
-          git push origin main
+          git push --force
         fi
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
