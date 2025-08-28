@@ -1,9 +1,5 @@
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
-#EXTINF:-1 tvg-id="ts246" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/j158dvfkfcmm1oqnurqe" group-title="Cricket",Papua New Guinea v Jersey (1st Innings)
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1756404430~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~data=hdntl~hmac=99ea9dd338f6615ad7fb23f6143e10cf5a4bf5966cf243dcd9af2ac62df5526b/manifest.mpd?|User-Agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
 #EXTINF:-1 tvg-id="ts246" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/p1blxozrvu1hmo0jkfjf" group-title="Cricket",Denmark v Kuwait (2nd Innings)
 https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1756404430~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~data=hdntl~hmac=99ea9dd338f6615ad7fb23f6143e10cf5a4bf5966cf243dcd9af2ac62df5526b/manifest.mpd?|User-Agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36
