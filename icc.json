@@ -1,10 +1,10 @@
 {
   "Author": "Abid",
-  "Last_Updated": "11:40:59 AM 29-08-2025",
-  "total_events": 8,
+  "Last_Updated": "11:52:32 AM 29-08-2025",
+  "total_events": 9,
   "totals": {
     "live": 0,
-    "upcoming": 8
+    "upcoming": 9
   },
   "live_events": [],
   "upcoming_events": [
@@ -51,9 +51,9 @@
     {
       "isStart": "Upcoming",
       "tournament": "ICC CWC Challenge League A, 2024-26",
-      "title": "Papua New Guinea v Qatar (2nd Innings)",
+      "title": "Kenya v Kuwait (2nd Innings)",
       "date_time": "14:00, 30/08/2025",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/rzehx6agjghlir2ke0hy",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/zkbdic1lm4rezxxkcvei",
       "event_url": "#",
       "stream_data_url": "",
       "drm_key": ""
@@ -61,9 +61,9 @@
     {
       "isStart": "Upcoming",
       "tournament": "ICC CWC Challenge League A, 2024-26",
-      "title": "Kenya v Kuwait (2nd Innings)",
+      "title": "Papua New Guinea v Qatar (2nd Innings)",
       "date_time": "14:00, 30/08/2025",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/zkbdic1lm4rezxxkcvei",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/rzehx6agjghlir2ke0hy",
       "event_url": "#",
       "stream_data_url": "",
       "drm_key": ""
@@ -84,6 +84,16 @@
       "title": "Kenya v Rwanda",
       "date_time": "07:30, 31/08/2025",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/bjmtsz2ttewqs4cob8bk",
+      "event_url": "#",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC CWC Challenge League A, 2024-26",
+      "title": "Jersey v Qatar (1st Innings)",
+      "date_time": "10:00, 31/08/2025",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/w6nmgj5iih6vd2kcvlf1",
       "event_url": "#",
       "stream_data_url": "",
       "drm_key": ""
