@@ -1,10 +1,10 @@
 {
   "Author": "Abid",
-  "Last_Updated": "06:39:10 AM 29-08-2025",
-  "total_events": 7,
+  "Last_Updated": "06:56:32 AM 29-08-2025",
+  "total_events": 8,
   "totals": {
     "live": 0,
-    "upcoming": 7
+    "upcoming": 8
   },
   "live_events": [],
   "upcoming_events": [
@@ -74,6 +74,16 @@
       "title": "Nigeria v Sierra Leone",
       "date_time": "07:30, 31/08/2025",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/fttjjkofmcpjb0qttt3y",
+      "event_url": "#",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC Women's T20 World Cup Africa Qualifier Division 1, 2025",
+      "title": "Kenya v Rwanda",
+      "date_time": "07:30, 31/08/2025",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/bjmtsz2ttewqs4cob8bk",
       "event_url": "#",
       "stream_data_url": "",
       "drm_key": ""
