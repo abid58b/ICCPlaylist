@@ -1,30 +1,19 @@
 {
   "Author": "Abid",
-  "Last_Updated": "07:58:42 PM 29-08-2025",
-  "total_events": 10,
+  "Last_Updated": "08:28:26 PM 29-08-2025",
+  "total_events": 8,
   "totals": {
-    "live": 1,
-    "upcoming": 9
+    "live": 0,
+    "upcoming": 8
   },
-  "live_events": [
-    {
-      "isStart": "Live",
-      "tournament": "ICC CWC League 2, 2023-27",
-      "title": "Namibia v Scotland (1st Innings)",
-      "date_time": "NOW",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/pmxvuhcchikxqwhrhci3",
-      "event_url": "https://www.icc-cricket.com/tournaments/icc-cricket-world-cup-league-2/videos/namibia-v-scotland-1st-innings",
-      "stream_data_url": "https://dvr-d-01-icc-we.akamaized.net/Content/DASH/LLCU/83fd67d7-1a3b-4b6c-beeb-9666e0731ec3/hdntl=exp=1756481193~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~data=hdntl~hmac=e5ca320827f8597d62b5198b73334255f8097904c301b1cd711906541ff77030/manifest.mpd?|User-Agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36",
-      "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
-    }
-  ],
+  "live_events": [],
   "upcoming_events": [
     {
       "isStart": "Upcoming",
-      "tournament": "ICC CWC League 2, 2023-27",
-      "title": "Namibia v Scotland (2nd Innings)",
-      "date_time": "20:30, 29/08/2025",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/cbvtlacbech1i5hgnrmn",
+      "tournament": "ICC CWC Challenge League A, 2024-26",
+      "title": "Papua New Guinea v Qatar (1st Innings)",
+      "date_time": "10:00, 30/08/2025",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/joje3gjgv48zbk8xqqq4",
       "event_url": "#",
       "stream_data_url": "",
       "drm_key": ""
@@ -42,9 +31,9 @@
     {
       "isStart": "Upcoming",
       "tournament": "ICC CWC Challenge League A, 2024-26",
-      "title": "Papua New Guinea v Qatar (1st Innings)",
-      "date_time": "10:00, 30/08/2025",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/joje3gjgv48zbk8xqqq4",
+      "title": "Kenya v Kuwait (2nd Innings)",
+      "date_time": "14:00, 30/08/2025",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/zkbdic1lm4rezxxkcvei",
       "event_url": "#",
       "stream_data_url": "",
       "drm_key": ""
@@ -55,16 +44,6 @@
       "title": "Papua New Guinea v Qatar (2nd Innings)",
       "date_time": "14:00, 30/08/2025",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/rzehx6agjghlir2ke0hy",
-      "event_url": "#",
-      "stream_data_url": "",
-      "drm_key": ""
-    },
-    {
-      "isStart": "Upcoming",
-      "tournament": "ICC CWC Challenge League A, 2024-26",
-      "title": "Kenya v Kuwait (2nd Innings)",
-      "date_time": "14:00, 30/08/2025",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/zkbdic1lm4rezxxkcvei",
       "event_url": "#",
       "stream_data_url": "",
       "drm_key": ""
