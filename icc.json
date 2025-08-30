@@ -1,33 +1,34 @@
 {
   "Author": "Abid",
-  "Last_Updated": "09:23:56 AM 30-08-2025",
-  "total_events": 8,
+  "Last_Updated": "09:40:45 AM 30-08-2025",
+  "total_events": 10,
   "totals": {
-    "live": 0,
+    "live": 2,
     "upcoming": 8
   },
-  "live_events": [],
-  "upcoming_events": [
+  "live_events": [
     {
-      "isStart": "Upcoming",
-      "tournament": "ICC CWC Challenge League A, 2024-26",
-      "title": "Papua New Guinea v Qatar (1st Innings)",
-      "date_time": "10:00, 30/08/2025",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/joje3gjgv48zbk8xqqq4",
-      "event_url": "#",
-      "stream_data_url": "",
-      "drm_key": ""
-    },
-    {
-      "isStart": "Upcoming",
+      "isStart": "Live",
       "tournament": "ICC CWC Challenge League A, 2024-26",
       "title": "Kenya v Kuwait (1st Innings)",
-      "date_time": "10:00, 30/08/2025",
+      "date_time": "NOW",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/njkw0gd4dsuhionfq1bi",
-      "event_url": "#",
-      "stream_data_url": "",
-      "drm_key": ""
+      "event_url": "https://www.icc-cricket.com/tournaments/cwc-challenge-league/videos/kenya-v-kuwait-1st-innings",
+      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1756481193~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~data=hdntl~hmac=e5ca320827f8597d62b5198b73334255f8097904c301b1cd711906541ff77030/manifest.mpd?|User-Agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36",
+      "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
     },
+    {
+      "isStart": "Live",
+      "tournament": "ICC CWC Challenge League A, 2024-26",
+      "title": "Papua New Guinea v Qatar (1st Innings)",
+      "date_time": "NOW",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/joje3gjgv48zbk8xqqq4",
+      "event_url": "https://www.icc-cricket.com/tournaments/cwc-challenge-league/videos/papua-new-guinea-v-qatar-1st-innings",
+      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1756481193~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~data=hdntl~hmac=e5ca320827f8597d62b5198b73334255f8097904c301b1cd711906541ff77030/manifest.mpd?|User-Agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36",
+      "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
+    }
+  ],
+  "upcoming_events": [
     {
       "isStart": "Upcoming",
       "tournament": "ICC CWC Challenge League A, 2024-26",
@@ -51,6 +52,16 @@
     {
       "isStart": "Upcoming",
       "tournament": "ICC Women's T20 World Cup Africa Qualifier Division 1, 2025",
+      "title": "Kenya v Rwanda",
+      "date_time": "07:30, 31/08/2025",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/bjmtsz2ttewqs4cob8bk",
+      "event_url": "#",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC Women's T20 World Cup Africa Qualifier Division 1, 2025",
       "title": "Nigeria v Sierra Leone",
       "date_time": "07:30, 31/08/2025",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/fttjjkofmcpjb0qttt3y",
@@ -60,10 +71,10 @@
     },
     {
       "isStart": "Upcoming",
-      "tournament": "ICC Women's T20 World Cup Africa Qualifier Division 1, 2025",
-      "title": "Kenya v Rwanda",
-      "date_time": "07:30, 31/08/2025",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/bjmtsz2ttewqs4cob8bk",
+      "tournament": "ICC CWC Challenge League A, 2024-26",
+      "title": "Denmark v Kenya (1st Innings)",
+      "date_time": "10:00, 31/08/2025",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/wqwyljipajrpuqj44fy1",
       "event_url": "#",
       "stream_data_url": "",
       "drm_key": ""
@@ -80,10 +91,20 @@
     },
     {
       "isStart": "Upcoming",
-      "tournament": "ICC CWC Challenge League A, 2024-26",
-      "title": "Denmark v Kenya (1st Innings)",
-      "date_time": "10:00, 31/08/2025",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/wqwyljipajrpuqj44fy1",
+      "tournament": "ICC Women's T20 World Cup Africa Qualifier Division 1, 2025",
+      "title": "Zimbabwe v Namibia",
+      "date_time": "12:30, 31/08/2025",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/bt565grc3x2fwezjnmdp",
+      "event_url": "#",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC Women's T20 World Cup Africa Qualifier Division 1, 2025",
+      "title": "Uganda v Tanzania",
+      "date_time": "12:30, 31/08/2025",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/sdd8fbilmtsawymsslku",
       "event_url": "#",
       "stream_data_url": "",
       "drm_key": ""
