@@ -1,19 +1,19 @@
 {
   "Author": "Abid",
-  "Last_Updated": "05:41:01 PM 31-08-2025",
-  "total_events": 9,
+  "Last_Updated": "06:30:45 PM 31-08-2025",
+  "total_events": 10,
   "totals": {
     "live": 1,
-    "upcoming": 8
+    "upcoming": 9
   },
   "live_events": [
     {
       "isStart": "Live",
       "tournament": "ICC CWC League 2, 2023-27",
-      "title": "Canada v Scotland (1st Innings)",
+      "title": "Canada v Scotland (2nd Innings)",
       "date_time": "NOW",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/urintempaofdlsfpygpf",
-      "event_url": "https://www.icc-cricket.com/tournaments/icc-cricket-world-cup-league-2/videos/canada-v-scotland-1st-innings",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/m7x0zijvdkkj7mmkxjsh",
+      "event_url": "https://www.icc-cricket.com/tournaments/icc-cricket-world-cup-league-2/videos/canada-v-scotland-2nd-innings",
       "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1756481193~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~data=hdntl~hmac=e5ca320827f8597d62b5198b73334255f8097904c301b1cd711906541ff77030/manifest.mpd?|User-Agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36",
       "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
     }
@@ -21,10 +21,10 @@
   "upcoming_events": [
     {
       "isStart": "Upcoming",
-      "tournament": "ICC CWC League 2, 2023-27",
-      "title": "Canada v Scotland (2nd Innings)",
-      "date_time": "18:00, 31/08/2025",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/m7x0zijvdkkj7mmkxjsh",
+      "tournament": "ICC Women's T20 World Cup Africa Qualifier Division 1, 2025",
+      "title": "Zimbabwe v Sierra Leone",
+      "date_time": "07:30, 01/09/2025",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/sgfeaogv28e1h18yyrhn",
       "event_url": "#",
       "stream_data_url": "",
       "drm_key": ""
@@ -35,16 +35,6 @@
       "title": "Tanzania v Kenya",
       "date_time": "07:30, 01/09/2025",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/fswftgj3onxszzt7qdtx",
-      "event_url": "#",
-      "stream_data_url": "",
-      "drm_key": ""
-    },
-    {
-      "isStart": "Upcoming",
-      "tournament": "ICC Women's T20 World Cup Africa Qualifier Division 1, 2025",
-      "title": "Zimbabwe v Sierra Leone",
-      "date_time": "07:30, 01/09/2025",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/sgfeaogv28e1h18yyrhn",
       "event_url": "#",
       "stream_data_url": "",
       "drm_key": ""
@@ -96,6 +86,26 @@
       "date_time": "07:30, 03/09/2025",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/buau5zgdqf2pgxojfqbk",
       "event_url": "#",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC Women's T20 World Cup Africa Qualifier Division 1, 2025",
+      "title": "Namibia v Sierra Leone",
+      "date_time": "07:30, 03/09/2025",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/qbg7rricbcxjb8xi2q34",
+      "event_url": "#",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC CWC League 2, 2023-27",
+      "title": "Canada v Scotland (1st Innings)",
+      "date_time": "Date/Time Nahi Mila",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/urintempaofdlsfpygpf",
+      "event_url": "https://www.icc-cricket.com/tournaments/icc-cricket-world-cup-league-2/videos/canada-v-scotland-1st-innings",
       "stream_data_url": "",
       "drm_key": ""
     }
