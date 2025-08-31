@@ -1,10 +1,10 @@
 {
   "Author": "Abid",
-  "Last_Updated": "06:37:39 AM 31-08-2025",
-  "total_events": 8,
+  "Last_Updated": "06:53:41 AM 31-08-2025",
+  "total_events": 9,
   "totals": {
     "live": 0,
-    "upcoming": 8
+    "upcoming": 9
   },
   "live_events": [],
   "upcoming_events": [
@@ -84,6 +84,16 @@
       "title": "Jersey v Qatar (2nd Innings)",
       "date_time": "14:00, 31/08/2025",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/iecbt6twzz9cziuh1hgm",
+      "event_url": "#",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC CWC League 2, 2023-27",
+      "title": "Canada v Scotland (1st Innings)",
+      "date_time": "14:30, 31/08/2025",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/urintempaofdlsfpygpf",
       "event_url": "#",
       "stream_data_url": "",
       "drm_key": ""
