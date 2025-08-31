@@ -1,10 +1,10 @@
 {
   "Author": "Abid",
-  "Last_Updated": "06:30:45 PM 31-08-2025",
-  "total_events": 10,
+  "Last_Updated": "06:48:03 PM 31-08-2025",
+  "total_events": 9,
   "totals": {
     "live": 1,
-    "upcoming": 9
+    "upcoming": 8
   },
   "live_events": [
     {
@@ -96,16 +96,6 @@
       "date_time": "07:30, 03/09/2025",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/qbg7rricbcxjb8xi2q34",
       "event_url": "#",
-      "stream_data_url": "",
-      "drm_key": ""
-    },
-    {
-      "isStart": "Upcoming",
-      "tournament": "ICC CWC League 2, 2023-27",
-      "title": "Canada v Scotland (1st Innings)",
-      "date_time": "Date/Time Nahi Mila",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/urintempaofdlsfpygpf",
-      "event_url": "https://www.icc-cricket.com/tournaments/icc-cricket-world-cup-league-2/videos/canada-v-scotland-1st-innings",
       "stream_data_url": "",
       "drm_key": ""
     }
