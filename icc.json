@@ -1,22 +1,12 @@
 {
   "Author": "Abid",
-  "Last_Updated": "10:49:19 AM 31-08-2025",
-  "total_events": 12,
+  "Last_Updated": "11:00:36 AM 31-08-2025",
+  "total_events": 11,
   "totals": {
-    "live": 3,
+    "live": 2,
     "upcoming": 9
   },
   "live_events": [
-    {
-      "isStart": "Live",
-      "tournament": "ICC Women's T20 World Cup Africa Qualifier Division 1, 2025",
-      "title": "Nigeria v Sierra Leone",
-      "date_time": "NOW",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/fttjjkofmcpjb0qttt3y",
-      "event_url": "https://www.icc-cricket.com/videos/nigeria-v-sierra-leone",
-      "stream_data_url": "MPD Link Nahi Mila",
-      "drm_key": "DRM Key Nahi Mili"
-    },
     {
       "isStart": "Live",
       "tournament": "ICC CWC Challenge League A, 2024-26",
