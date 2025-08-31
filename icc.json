@@ -1,10 +1,10 @@
 {
   "Author": "Abid",
-  "Last_Updated": "11:22:40 AM 31-08-2025",
-  "total_events": 11,
+  "Last_Updated": "11:48:28 AM 31-08-2025",
+  "total_events": 12,
   "totals": {
     "live": 2,
-    "upcoming": 9
+    "upcoming": 10
   },
   "live_events": [
     {
@@ -115,6 +115,16 @@
       "title": "Uganda v Rwanda",
       "date_time": "12:30, 01/09/2025",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/t7ziqbcieuixixhsrmih",
+      "event_url": "#",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC Women's T20 World Cup Africa Qualifier Division 1, 2025",
+      "title": "Nigeria v Namibia",
+      "date_time": "12:30, 01/09/2025",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/ehbwdx2imiut3sjyzfjs",
       "event_url": "#",
       "stream_data_url": "",
       "drm_key": ""
