@@ -1,6 +1,6 @@
 {
   "Author": "Abid",
-  "Last_Updated": "02:45:49 PM 01-09-2025",
+  "Last_Updated": "02:58:53 PM 01-09-2025",
   "total_events": 8,
   "totals": {
     "live": 2,
@@ -14,7 +14,7 @@
       "date_time": "NOW",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/ehbwdx2imiut3sjyzfjs",
       "event_url": "https://www.icc-cricket.com/videos/nigeria-v-namibia",
-      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1756481193~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~data=hdntl~hmac=e5ca320827f8597d62b5198b73334255f8097904c301b1cd711906541ff77030/manifest.mpd?|User-Agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36",
+      "stream_data_url": "https://live-d-02-icc-ne.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1756481193~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~data=hdntl~hmac=e5ca320827f8597d62b5198b73334255f8097904c301b1cd711906541ff77030/manifest.mpd?|User-Agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36",
       "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
     },
     {
