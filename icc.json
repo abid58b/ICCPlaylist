@@ -1,22 +1,12 @@
 {
   "Author": "Abid",
-  "Last_Updated": "10:03:40 AM 01-09-2025",
-  "total_events": 9,
+  "Last_Updated": "10:39:45 AM 01-09-2025",
+  "total_events": 8,
   "totals": {
-    "live": 2,
+    "live": 1,
     "upcoming": 7
   },
   "live_events": [
-    {
-      "isStart": "Live",
-      "tournament": "ICC Women's T20 World Cup Africa Qualifier Division 1, 2025",
-      "title": "Zimbabwe v Sierra Leone",
-      "date_time": "NOW",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/sgfeaogv28e1h18yyrhn",
-      "event_url": "https://www.icc-cricket.com/videos/zimbabwe-v-sierra-leone",
-      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1756481193~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~data=hdntl~hmac=e5ca320827f8597d62b5198b73334255f8097904c301b1cd711906541ff77030/manifest.mpd?|User-Agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36",
-      "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
-    },
     {
       "isStart": "Live",
       "tournament": "ICC Women's T20 World Cup Africa Qualifier Division 1, 2025",
