@@ -1,33 +1,34 @@
 {
   "Author": "Abid",
-  "Last_Updated": "11:54:10 AM 01-09-2025",
-  "total_events": 7,
+  "Last_Updated": "12:50:14 PM 01-09-2025",
+  "total_events": 8,
   "totals": {
-    "live": 0,
-    "upcoming": 7
+    "live": 2,
+    "upcoming": 6
   },
-  "live_events": [],
-  "upcoming_events": [
+  "live_events": [
     {
-      "isStart": "Upcoming",
+      "isStart": "Live",
       "tournament": "ICC Women's T20 World Cup Africa Qualifier Division 1, 2025",
       "title": "Nigeria v Namibia",
-      "date_time": "12:30, 01/09/2025",
+      "date_time": "NOW",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/ehbwdx2imiut3sjyzfjs",
-      "event_url": "#",
-      "stream_data_url": "",
-      "drm_key": ""
+      "event_url": "https://www.icc-cricket.com/videos/nigeria-v-namibia",
+      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1756481193~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~data=hdntl~hmac=e5ca320827f8597d62b5198b73334255f8097904c301b1cd711906541ff77030/manifest.mpd?|User-Agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36",
+      "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
     },
     {
-      "isStart": "Upcoming",
+      "isStart": "Live",
       "tournament": "ICC Women's T20 World Cup Africa Qualifier Division 1, 2025",
       "title": "Uganda v Rwanda",
-      "date_time": "12:30, 01/09/2025",
+      "date_time": "NOW",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/t7ziqbcieuixixhsrmih",
-      "event_url": "#",
-      "stream_data_url": "",
-      "drm_key": ""
-    },
+      "event_url": "https://www.icc-cricket.com/videos/uganda-v-rwanda",
+      "stream_data_url": "https://live-d-02-icc-ne.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-10)/hdntl=exp=1756481193~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~data=hdntl~hmac=e5ca320827f8597d62b5198b73334255f8097904c301b1cd711906541ff77030/manifest.mpd?|User-Agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36",
+      "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
+    }
+  ],
+  "upcoming_events": [
     {
       "isStart": "Upcoming",
       "tournament": "ICC CWC League 2, 2023-27",
@@ -51,6 +52,16 @@
     {
       "isStart": "Upcoming",
       "tournament": "ICC Women's T20 World Cup Africa Qualifier Division 1, 2025",
+      "title": "Tanzania v Rwanda",
+      "date_time": "07:30, 03/09/2025",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/buau5zgdqf2pgxojfqbk",
+      "event_url": "#",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC Women's T20 World Cup Africa Qualifier Division 1, 2025",
       "title": "Namibia v Sierra Leone",
       "date_time": "07:30, 03/09/2025",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/qbg7rricbcxjb8xi2q34",
@@ -61,9 +72,9 @@
     {
       "isStart": "Upcoming",
       "tournament": "ICC Women's T20 World Cup Africa Qualifier Division 1, 2025",
-      "title": "Tanzania v Rwanda",
-      "date_time": "07:30, 03/09/2025",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/buau5zgdqf2pgxojfqbk",
+      "title": "Zimbabwe v Nigeria",
+      "date_time": "12:30, 03/09/2025",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/yqyecvd24jnychucymqr",
       "event_url": "#",
       "stream_data_url": "",
       "drm_key": ""
