@@ -1,10 +1,10 @@
 {
   "Author": "Abid",
-  "Last_Updated": "11:01:22 AM 02-09-2025",
-  "total_events": 6,
+  "Last_Updated": "11:26:55 AM 02-09-2025",
+  "total_events": 7,
   "totals": {
     "live": 0,
-    "upcoming": 6
+    "upcoming": 7
   },
   "live_events": [],
   "upcoming_events": [
@@ -64,6 +64,16 @@
       "title": "Uganda v Kenya",
       "date_time": "12:30, 03/09/2025",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/kwtxa1typw12lbvbjari",
+      "event_url": "#",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC CWC League 2, 2023-27",
+      "title": "Scotland v Namibia (1st Innings)",
+      "date_time": "14:30, 04/09/2025",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/bffrmyhnhrw2lmejj2pl",
       "event_url": "#",
       "stream_data_url": "",
       "drm_key": ""
