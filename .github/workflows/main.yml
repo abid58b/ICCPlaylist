@@ -57,7 +57,7 @@ jobs:
         (
             "#KODIPROP:inputstream.adaptive.license_type=clearkey",
             "#KODIPROP:inputstream.adaptive.license_key=" + (.drm_key // ""),
-            "#EXTINF:-1 tvg-id=\"ts246\" tvg-logo=\"" + (.image_url // "no_logo") + "\" group-title=\"Cricket\"," + (.title // "Untitled Event"),
+            "#EXTINF:-1 tvg-id=\"ts246\" tvg-logo=\"" + (.image_url // "no_logo") + "\" group-title=\"Live\"," + (.title // "Untitled Event"),
             .stream_data_url
             
         )
