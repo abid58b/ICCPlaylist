@@ -1,33 +1,12 @@
 {
   "Author": "Abid",
-  "Last_Updated": "02:58:35 PM 03-09-2025",
-  "total_events": 6,
+  "Last_Updated": "03:44:25 PM 03-09-2025",
+  "total_events": 4,
   "totals": {
-    "live": 2,
+    "live": 0,
     "upcoming": 4
   },
-  "live_events": [
-    {
-      "isStart": "Live",
-      "tournament": "ICC Women's T20 World Cup Africa Qualifier Division 1, 2025",
-      "title": "Zimbabwe v Nigeria",
-      "date_time": "NOW",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/yqyecvd24jnychucymqr",
-      "event_url": "https://www.icc-cricket.com/videos/zimbabwe-v-nigeria",
-      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-10)/hdntl=exp=1756925020~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~data=hdntl~hmac=59bcb3ab409da7f0f1f537b7c40e81988dd31e75645864240c6d651681a74993/manifest.mpd?|User-Agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36",
-      "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
-    },
-    {
-      "isStart": "Live",
-      "tournament": "ICC Women's T20 World Cup Africa Qualifier Division 1, 2025",
-      "title": "Uganda v Kenya",
-      "date_time": "NOW",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/pjctkapsxuczyonconcs",
-      "event_url": "https://www.icc-cricket.com/videos/uganda-v-kenya",
-      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1756925020~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~data=hdntl~hmac=59bcb3ab409da7f0f1f537b7c40e81988dd31e75645864240c6d651681a74993/manifest.mpd?|User-Agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36",
-      "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
-    }
-  ],
+  "live_events": [],
   "upcoming_events": [
     {
       "isStart": "Upcoming",
