@@ -1,10 +1,10 @@
 {
   "Author": "Abid",
-  "Last_Updated": "06:38:56 PM 04-09-2025",
-  "total_events": 4,
+  "Last_Updated": "06:54:01 PM 04-09-2025",
+  "total_events": 5,
   "totals": {
     "live": 1,
-    "upcoming": 3
+    "upcoming": 4
   },
   "live_events": [
     {
@@ -19,6 +19,16 @@
     }
   ],
   "upcoming_events": [
+    {
+      "isStart": "Upcoming",
+      "tournament": "Namibia vs Scotland - Match 84 - 9/4/2025",
+      "title": "Scotland v Namibia (1st Innings)",
+      "date_time": "18:30, 04/09/2025",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/e7rkjrbjtlovmxitndam",
+      "event_url": "#",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
     {
       "isStart": "Upcoming",
       "tournament": "ICC CWC League 2, 2023-27",
