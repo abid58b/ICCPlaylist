@@ -1,22 +1,12 @@
 {
   "Author": "Abid",
-  "Last_Updated": "03:59:07 PM 04-09-2025",
-  "total_events": 5,
+  "Last_Updated": "04:34:39 PM 04-09-2025",
+  "total_events": 4,
   "totals": {
-    "live": 2,
+    "live": 1,
     "upcoming": 3
   },
   "live_events": [
-    {
-      "isStart": "Live",
-      "tournament": "ICC Women's T20 World Cup Africa Qualifier Division 1, 2025",
-      "title": "Rwanda vs Sierra Leone",
-      "date_time": "NOW",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/szjzxo3qbsfwvn9eljdb",
-      "event_url": "https://www.icc-cricket.com/videos/rwanda-vs-sierra-leone",
-      "stream_data_url": "MPD Link Nahi Mila",
-      "drm_key": "DRM Key Nahi Mili"
-    },
     {
       "isStart": "Live",
       "tournament": "ICC CWC League 2, 2023-27",
