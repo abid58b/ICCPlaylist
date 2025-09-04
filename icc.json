@@ -1,29 +1,40 @@
 {
   "Author": "Abid",
-  "Last_Updated": "06:55:25 AM 04-09-2025",
-  "total_events": 7,
+  "Last_Updated": "07:22:26 AM 04-09-2025",
+  "total_events": 8,
   "totals": {
-    "live": 0,
-    "upcoming": 7
+    "live": 2,
+    "upcoming": 6
   },
-  "live_events": [],
+  "live_events": [
+    {
+      "isStart": "Live",
+      "tournament": "ICC Women's T20 World Cup Africa Qualifier Division 1, 2025",
+      "title": "Zimbabwe vs Uganda",
+      "date_time": "NOW",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/r2e7wifkgdbn9gidax3u",
+      "event_url": "https://www.icc-cricket.com/videos/zimbabwe-vs-uganda",
+      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1756925020~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~data=hdntl~hmac=59bcb3ab409da7f0f1f537b7c40e81988dd31e75645864240c6d651681a74993/manifest.mpd?|User-Agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36",
+      "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
+    },
+    {
+      "isStart": "Live",
+      "tournament": "ICC Women's T20 World Cup Africa Qualifier Division 1, 2025",
+      "title": "Nigeria vs Kenya",
+      "date_time": "NOW",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/oaw1rom70byi3xig9rpa",
+      "event_url": "https://www.icc-cricket.com/videos/nigeria-vs-kenya",
+      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-10)/hdntl=exp=1756925020~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~data=hdntl~hmac=59bcb3ab409da7f0f1f537b7c40e81988dd31e75645864240c6d651681a74993/manifest.mpd?|User-Agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36",
+      "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
+    }
+  ],
   "upcoming_events": [
     {
       "isStart": "Upcoming",
       "tournament": "ICC Women's T20 World Cup Africa Qualifier Division 1, 2025",
-      "title": "Zimbabwe vs Uganda",
-      "date_time": "07:30, 04/09/2025",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/r2e7wifkgdbn9gidax3u",
-      "event_url": "#",
-      "stream_data_url": "",
-      "drm_key": ""
-    },
-    {
-      "isStart": "Upcoming",
-      "tournament": "ICC Women's T20 World Cup Africa Qualifier Division 1, 2025",
-      "title": "Nigeria vs Kenya",
-      "date_time": "07:30, 04/09/2025",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/oaw1rom70byi3xig9rpa",
+      "title": "Rwanda vs Sierra Leone",
+      "date_time": "12:30, 04/09/2025",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/szjzxo3qbsfwvn9eljdb",
       "event_url": "#",
       "stream_data_url": "",
       "drm_key": ""
@@ -34,16 +45,6 @@
       "title": "Tanzania vs Namibia",
       "date_time": "12:30, 04/09/2025",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/uqmljc9sfkucky5mnbjk",
-      "event_url": "#",
-      "stream_data_url": "",
-      "drm_key": ""
-    },
-    {
-      "isStart": "Upcoming",
-      "tournament": "ICC Women's T20 World Cup Africa Qualifier Division 1, 2025",
-      "title": "Rwanda vs Sierra Leone",
-      "date_time": "12:30, 04/09/2025",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/szjzxo3qbsfwvn9eljdb",
       "event_url": "#",
       "stream_data_url": "",
       "drm_key": ""
@@ -74,6 +75,16 @@
       "title": "Scotland v Canada (1st Innings)",
       "date_time": "14:30, 06/09/2025",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/r9k3lkt2n4lbr8ybgdis",
+      "event_url": "#",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC CWC League 2, 2023-27",
+      "title": "Scotland v Canada (2nd Innings)",
+      "date_time": "18:30, 06/09/2025",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/qvoj9ikxh1oxctl6hyj6",
       "event_url": "#",
       "stream_data_url": "",
       "drm_key": ""
