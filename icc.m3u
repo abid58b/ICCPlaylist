@@ -1,9 +1,2 @@
 #EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
-#EXTINF:-1 tvg-id="ts246" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/t51cvm1esjlx9saluhy2" group-title="Live",Cook Islands v Indonesia
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1757202887~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~data=hdntl~hmac=669d77e835f6caecd3fba6e6d74bd6c45232f13a1b372aced6a02e5aac68eca0/manifest.mpd?|User-Agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
-#EXTINF:-1 tvg-id="ts246" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/ol5voipbylnsdunyqb6u" group-title="Live",Philippines v Japan
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1757202887~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~data=hdntl~hmac=669d77e835f6caecd3fba6e6d74bd6c45232f13a1b372aced6a02e5aac68eca0/manifest.mpd?|User-Agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36
+
