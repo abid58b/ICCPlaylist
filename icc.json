@@ -1,9 +1,9 @@
 {
   "Author": "Abid",
-  "Last_Updated": "11:40:53 PM 12-09-2025",
-  "total_events": 11,
+  "Last_Updated": "11:52:22 PM 12-09-2025",
+  "total_events": 10,
   "totals": {
-    "live": 2,
+    "live": 1,
     "upcoming": 9
   },
   "live_events": [
@@ -15,16 +15,6 @@
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/afuroj7c1hpku1yueawd",
       "event_url": "https://www.icc-cricket.com/videos/samoa-v-cook-islands",
       "stream_data_url": "https://live-d-02-icc-ne.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1757202887~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~data=hdntl~hmac=669d77e835f6caecd3fba6e6d74bd6c45232f13a1b372aced6a02e5aac68eca0/manifest.mpd?|User-Agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36",
-      "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
-    },
-    {
-      "isStart": "Live",
-      "tournament": "ICC Women's T20 World Cup East Asia Pacific Qualifier, 2025",
-      "title": "Fiji v Philippines",
-      "date_time": "NOW",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/irwtus7ip2vyfjwxnqql",
-      "event_url": "https://www.icc-cricket.com/videos/fiji-v-philippines",
-      "stream_data_url": "https://live-d-02-icc-ne.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1757202887~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~data=hdntl~hmac=669d77e835f6caecd3fba6e6d74bd6c45232f13a1b372aced6a02e5aac68eca0/manifest.mpd?|User-Agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36",
       "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
     }
   ],
