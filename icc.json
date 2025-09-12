@@ -1,10 +1,10 @@
 {
   "Author": "Abid",
-  "Last_Updated": "04:25:24 PM 12-09-2025",
-  "total_events": 8,
+  "Last_Updated": "04:44:42 PM 12-09-2025",
+  "total_events": 9,
   "totals": {
     "live": 0,
-    "upcoming": 8
+    "upcoming": 9
   },
   "live_events": [],
   "upcoming_events": [
@@ -84,6 +84,16 @@
       "title": "Uganda v Zimbabwe",
       "date_time": "11:50, 26/09/2025",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/w5rbkmqkm2lxedtdi8r3",
+      "event_url": "#",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC Men's T20 World Cup Africa Regional Final, 2025",
+      "title": "Uganda v Tanzania",
+      "date_time": "07:30, 28/09/2025",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/yto6fmhtimkwlatadkcx",
       "event_url": "#",
       "stream_data_url": "",
       "drm_key": ""
