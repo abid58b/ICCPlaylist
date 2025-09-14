@@ -1,33 +1,34 @@
 {
   "Author": "Abid",
-  "Last_Updated": "08:53:23 PM 14-09-2025",
-  "total_events": 10,
+  "Last_Updated": "09:20:24 PM 14-09-2025",
+  "total_events": 12,
   "totals": {
-    "live": 0,
+    "live": 2,
     "upcoming": 10
   },
-  "live_events": [],
-  "upcoming_events": [
+  "live_events": [
     {
-      "isStart": "Upcoming",
+      "isStart": "Live",
       "tournament": "ICC Women's T20 World Cup East Asia Pacific Qualifier, 2025",
       "title": "Samoa v Fiji",
-      "date_time": "21:30, 14/09/2025",
+      "date_time": "NOW",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/eyc4tuqw0e9jfbc8ubnc",
-      "event_url": "#",
-      "stream_data_url": "",
-      "drm_key": ""
+      "event_url": "https://www.icc-cricket.com/videos/samoa-v-fiji",
+      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1757202887~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~data=hdntl~hmac=669d77e835f6caecd3fba6e6d74bd6c45232f13a1b372aced6a02e5aac68eca0/manifest.mpd?|User-Agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36",
+      "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
     },
     {
-      "isStart": "Upcoming",
+      "isStart": "Live",
       "tournament": "ICC Women's T20 World Cup East Asia Pacific Qualifier, 2025",
       "title": "Cook Islands v Philippines",
-      "date_time": "21:30, 14/09/2025",
+      "date_time": "NOW",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/aq65rricnh7dcdph23iy",
-      "event_url": "#",
-      "stream_data_url": "",
-      "drm_key": ""
-    },
+      "event_url": "https://www.icc-cricket.com/videos/cook-islands-v-philippines",
+      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1757202887~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~data=hdntl~hmac=669d77e835f6caecd3fba6e6d74bd6c45232f13a1b372aced6a02e5aac68eca0/manifest.mpd?|User-Agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36",
+      "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
+    }
+  ],
+  "upcoming_events": [
     {
       "isStart": "Upcoming",
       "tournament": "ICC Women's T20 World Cup East Asia Pacific Qualifier, 2025",
@@ -104,6 +105,26 @@
       "title": "Uganda v Tanzania",
       "date_time": "07:30, 28/09/2025",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/yto6fmhtimkwlatadkcx",
+      "event_url": "#",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC Men's T20 World Cup Africa Regional Final, 2025",
+      "title": "Kenya v Malawi",
+      "date_time": "11:50, 28/09/2025",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/fqtg0dpupjfzlyxs1pj0",
+      "event_url": "#",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC Men's T20 World Cup Africa Regional Final, 2025",
+      "title": "Zimbabwe v Botswana",
+      "date_time": "11:50, 28/09/2025",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/sgukdydytcs0ddhspjbx",
       "event_url": "#",
       "stream_data_url": "",
       "drm_key": ""
