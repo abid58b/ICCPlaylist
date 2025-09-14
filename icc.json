@@ -1,6 +1,6 @@
 {
   "Author": "Abid",
-  "Last_Updated": "09:00:53 AM 14-09-2025",
+  "Last_Updated": "09:25:17 AM 14-09-2025",
   "total_events": 9,
   "totals": {
     "live": 0,
@@ -8,6 +8,46 @@
   },
   "live_events": [],
   "upcoming_events": [
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC Women's T20 World Cup East Asia Pacific Qualifier, 2025",
+      "title": "Cook Islands v Philippines",
+      "date_time": "21:30, 14/09/2025",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/aq65rricnh7dcdph23iy",
+      "event_url": "#",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC Women's T20 World Cup East Asia Pacific Qualifier, 2025",
+      "title": "Samoa v Fiji",
+      "date_time": "21:30, 14/09/2025",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/eyc4tuqw0e9jfbc8ubnc",
+      "event_url": "#",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC Women's T20 World Cup East Asia Pacific Qualifier, 2025",
+      "title": "Indonesia v Japan",
+      "date_time": "01:30, 15/09/2025",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/xsxvdqp11ddoofz1whhj",
+      "event_url": "#",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC Women's T20 World Cup East Asia Pacific Qualifier, 2025",
+      "title": "Papua New Guinea v Vanuatu",
+      "date_time": "01:30, 15/09/2025",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/i50oklwjgjqn1tzcdvbm",
+      "event_url": "#",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
     {
       "isStart": "Upcoming",
       "tournament": "ICC Men's T20 World Cup Africa Regional Final, 2025",
@@ -54,46 +94,6 @@
       "title": "Namibia v Nigeria",
       "date_time": "07:30, 28/09/2025",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/jwguehg5j99yfre2kpjx",
-      "event_url": "#",
-      "stream_data_url": "",
-      "drm_key": ""
-    },
-    {
-      "isStart": "Upcoming",
-      "tournament": "ICC Men's T20 World Cup Africa Regional Final, 2025",
-      "title": "Uganda v Tanzania",
-      "date_time": "07:30, 28/09/2025",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/yto6fmhtimkwlatadkcx",
-      "event_url": "#",
-      "stream_data_url": "",
-      "drm_key": ""
-    },
-    {
-      "isStart": "Upcoming",
-      "tournament": "ICC Men's T20 World Cup Africa Regional Final, 2025",
-      "title": "Kenya v Malawi",
-      "date_time": "11:50, 28/09/2025",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/fqtg0dpupjfzlyxs1pj0",
-      "event_url": "#",
-      "stream_data_url": "",
-      "drm_key": ""
-    },
-    {
-      "isStart": "Upcoming",
-      "tournament": "ICC Men's T20 World Cup Africa Regional Final, 2025",
-      "title": "Zimbabwe v Botswana",
-      "date_time": "11:50, 28/09/2025",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/sgukdydytcs0ddhspjbx",
-      "event_url": "#",
-      "stream_data_url": "",
-      "drm_key": ""
-    },
-    {
-      "isStart": "Upcoming",
-      "tournament": "ICC Men's T20 World Cup Africa Regional Final, 2025",
-      "title": "Uganda v Botswana",
-      "date_time": "07:30, 30/09/2025",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/k0zvhfdp0eyrt0slfomw",
       "event_url": "#",
       "stream_data_url": "",
       "drm_key": ""
