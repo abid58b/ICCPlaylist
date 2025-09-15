@@ -1,9 +1,9 @@
 {
   "Author": "Abid",
-  "Last_Updated": "04:02:12 AM 15-09-2025",
-  "total_events": 12,
+  "Last_Updated": "04:35:47 AM 15-09-2025",
+  "total_events": 11,
   "totals": {
-    "live": 2,
+    "live": 1,
     "upcoming": 10
   },
   "live_events": [
@@ -14,17 +14,7 @@
       "date_time": "NOW",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/i50oklwjgjqn1tzcdvbm",
       "event_url": "https://www.icc-cricket.com/videos/papua-new-guinea-v-vanuatu",
-      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1757202887~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~data=hdntl~hmac=669d77e835f6caecd3fba6e6d74bd6c45232f13a1b372aced6a02e5aac68eca0/manifest.mpd?|User-Agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36",
-      "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
-    },
-    {
-      "isStart": "Live",
-      "tournament": "ICC Women's T20 World Cup East Asia Pacific Qualifier, 2025",
-      "title": "Indonesia v Japan",
-      "date_time": "NOW",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/xsxvdqp11ddoofz1whhj",
-      "event_url": "https://www.icc-cricket.com/videos/indonesia-v-japan",
-      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1757202887~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~data=hdntl~hmac=669d77e835f6caecd3fba6e6d74bd6c45232f13a1b372aced6a02e5aac68eca0/manifest.mpd?|User-Agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36",
+      "stream_data_url": "https://live-d-02-icc-ne.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1757202887~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~data=hdntl~hmac=669d77e835f6caecd3fba6e6d74bd6c45232f13a1b372aced6a02e5aac68eca0/manifest.mpd?|User-Agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36",
       "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
     }
   ],
