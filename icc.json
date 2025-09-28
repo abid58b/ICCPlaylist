@@ -1,109 +1,90 @@
 {
   "Author": "Abid",
-  "Last_Updated": "07:52:04 AM 17-09-2025",
-  "total_events": 10,
+  "Last_Updated": "09:23:53 AM 28-09-2025",
+  "total_events": 8,
   "totals": {
-    "live": 0,
-    "upcoming": 10
+    "live": 2,
+    "upcoming": 6
   },
-  "live_events": [],
+  "live_events": [
+    {
+      "isStart": "Live",
+      "tournament": "ICC Men's T20 World Cup Africa Qualifier, 2025",
+      "title": "Namibia v Nigeria",
+      "date_time": "NOW",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/nmpwtbjfl2xdsqcf2nth",
+      "event_url": "https://www.icc-cricket.com/videos/namibia-v-nigeria",
+      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1757202887~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~data=hdntl~hmac=669d77e835f6caecd3fba6e6d74bd6c45232f13a1b372aced6a02e5aac68eca0/manifest.mpd?|User-Agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36",
+      "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
+    },
+    {
+      "isStart": "Live",
+      "tournament": "ICC Men's T20 World Cup Africa Qualifier, 2025",
+      "title": "Uganda v Tanzania",
+      "date_time": "NOW",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/jyxrgkawiaexlqpchvgw",
+      "event_url": "https://www.icc-cricket.com/videos/uganda-v-tanzania",
+      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1757202887~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~data=hdntl~hmac=669d77e835f6caecd3fba6e6d74bd6c45232f13a1b372aced6a02e5aac68eca0/manifest.mpd?|User-Agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36",
+      "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
+    }
+  ],
   "upcoming_events": [
     {
       "isStart": "Upcoming",
-      "tournament": "ICC Men's T20 World Cup Africa Regional Final, 2025",
-      "title": "Nigeria v Malawi",
-      "date_time": "07:30, 26/09/2025",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/haxgemlgz2sds0fv9scf",
-      "event_url": "#",
-      "stream_data_url": "",
-      "drm_key": ""
-    },
-    {
-      "isStart": "Upcoming",
-      "tournament": "ICC Men's T20 World Cup Africa Regional Final, 2025",
-      "title": "Namibia v Kenya",
-      "date_time": "07:30, 26/09/2025",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/zssgcmr2hv73puvns7hb",
-      "event_url": "#",
-      "stream_data_url": "",
-      "drm_key": ""
-    },
-    {
-      "isStart": "Upcoming",
-      "tournament": "ICC Men's T20 World Cup Africa Regional Final, 2025",
-      "title": "Tanzania v Botswana",
-      "date_time": "11:50, 26/09/2025",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/qeydfl9quewq1n0q4fex",
-      "event_url": "#",
-      "stream_data_url": "",
-      "drm_key": ""
-    },
-    {
-      "isStart": "Upcoming",
-      "tournament": "ICC Men's T20 World Cup Africa Regional Final, 2025",
-      "title": "Uganda v Zimbabwe",
-      "date_time": "11:50, 26/09/2025",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/w5rbkmqkm2lxedtdi8r3",
-      "event_url": "#",
-      "stream_data_url": "",
-      "drm_key": ""
-    },
-    {
-      "isStart": "Upcoming",
-      "tournament": "ICC Men's T20 World Cup Africa Regional Final, 2025",
-      "title": "Namibia v Nigeria",
-      "date_time": "07:30, 28/09/2025",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/jwguehg5j99yfre2kpjx",
-      "event_url": "#",
-      "stream_data_url": "",
-      "drm_key": ""
-    },
-    {
-      "isStart": "Upcoming",
-      "tournament": "ICC Men's T20 World Cup Africa Regional Final, 2025",
-      "title": "Uganda v Tanzania",
-      "date_time": "07:30, 28/09/2025",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/yto6fmhtimkwlatadkcx",
-      "event_url": "#",
-      "stream_data_url": "",
-      "drm_key": ""
-    },
-    {
-      "isStart": "Upcoming",
-      "tournament": "ICC Men's T20 World Cup Africa Regional Final, 2025",
-      "title": "Kenya v Malawi",
-      "date_time": "11:50, 28/09/2025",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/fqtg0dpupjfzlyxs1pj0",
-      "event_url": "#",
-      "stream_data_url": "",
-      "drm_key": ""
-    },
-    {
-      "isStart": "Upcoming",
-      "tournament": "ICC Men's T20 World Cup Africa Regional Final, 2025",
+      "tournament": "ICC Men's T20 World Cup Africa Qualifier, 2025",
       "title": "Zimbabwe v Botswana",
       "date_time": "11:50, 28/09/2025",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/sgukdydytcs0ddhspjbx",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/ei1fpigjlx1wfnuuwnyq",
       "event_url": "#",
       "stream_data_url": "",
       "drm_key": ""
     },
     {
       "isStart": "Upcoming",
-      "tournament": "ICC Men's T20 World Cup Africa Regional Final, 2025",
-      "title": "Uganda v Botswana",
-      "date_time": "07:30, 30/09/2025",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/k0zvhfdp0eyrt0slfomw",
+      "tournament": "ICC Men's T20 World Cup Africa Qualifier, 2025",
+      "title": "Kenya v Malawi",
+      "date_time": "11:50, 28/09/2025",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/xxy4jkrpsr5vv1sjxl8a",
       "event_url": "#",
       "stream_data_url": "",
       "drm_key": ""
     },
     {
       "isStart": "Upcoming",
-      "tournament": "ICC Men's T20 World Cup Africa Regional Final, 2025",
+      "tournament": "ICC Men's T20 World Cup Africa Qualifier, 2025",
       "title": "Zimbabwe v Tanzania",
       "date_time": "07:30, 30/09/2025",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/ubfunfggiwwjn2utbwbm",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/xzzxsirz62ayautg30ou",
+      "event_url": "#",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC Men's T20 World Cup Africa Qualifier, 2025",
+      "title": "Uganda v Botswana",
+      "date_time": "07:30, 30/09/2025",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/pdftv06izocxezflolic",
+      "event_url": "#",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC Men's T20 World Cup Africa Qualifier, 2025",
+      "title": "Namibia v Malawi",
+      "date_time": "11:50, 30/09/2025",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/rlpu0xkio7dhmkqf8tgc",
+      "event_url": "#",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC Men's T20 World Cup Africa Qualifier, 2025",
+      "title": "Kenya v Nigeria",
+      "date_time": "11:50, 30/09/2025",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/ndtnonef8g8efxaaord6",
       "event_url": "#",
       "stream_data_url": "",
       "drm_key": ""
