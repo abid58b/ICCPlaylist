@@ -1,10 +1,10 @@
 {
   "Author": "Abid",
-  "Last_Updated": "08:37:43 AM 30-09-2025",
-  "total_events": 7,
+  "Last_Updated": "08:58:02 AM 30-09-2025",
+  "total_events": 8,
   "totals": {
     "live": 2,
-    "upcoming": 5
+    "upcoming": 6
   },
   "live_events": [
     {
@@ -32,9 +32,9 @@
     {
       "isStart": "Upcoming",
       "tournament": "ICC Men's T20 World Cup Africa Qualifier, 2025",
-      "title": "Kenya v Nigeria",
+      "title": "Namibia v Malawi",
       "date_time": "11:50, 30/09/2025",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/ndtnonef8g8efxaaord6",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/rlpu0xkio7dhmkqf8tgc",
       "event_url": "#",
       "stream_data_url": "",
       "drm_key": ""
@@ -42,9 +42,9 @@
     {
       "isStart": "Upcoming",
       "tournament": "ICC Men's T20 World Cup Africa Qualifier, 2025",
-      "title": "Namibia v Malawi",
+      "title": "Kenya v Nigeria",
       "date_time": "11:50, 30/09/2025",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/rlpu0xkio7dhmkqf8tgc",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/ndtnonef8g8efxaaord6",
       "event_url": "#",
       "stream_data_url": "",
       "drm_key": ""
@@ -73,6 +73,16 @@
       "isStart": "Upcoming",
       "tournament": "ICC Men's T20 World Cup Africa Qualifier, 2025",
       "title": "3rd Group B v 4th Group A (SF 4)",
+      "date_time": "11:50, 02/10/2025",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/mlkawyxnhhr2bjhs6usg",
+      "event_url": "#",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC Men's T20 World Cup Africa Qualifier, 2025",
+      "title": "1st Group B v 2 Group A (SF2)",
       "date_time": "11:50, 02/10/2025",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/mlkawyxnhhr2bjhs6usg",
       "event_url": "#",
