@@ -1,23 +1,12 @@
 {
   "Author": "Abid",
-  "Last_Updated": "11:01:12 AM 30-09-2025",
-  "total_events": 7,
+  "Last_Updated": "11:24:43 AM 30-09-2025",
+  "total_events": 6,
   "totals": {
-    "live": 1,
+    "live": 0,
     "upcoming": 6
   },
-  "live_events": [
-    {
-      "isStart": "Live",
-      "tournament": "ICC Men's T20 World Cup Africa Qualifier, 2025",
-      "title": "Zimbabwe v Tanzania",
-      "date_time": "NOW",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/xzzxsirz62ayautg30ou",
-      "event_url": "https://www.icc-cricket.com/videos/zimbabwe-v-tanzania",
-      "stream_data_url": "MPD Link Nahi Mila",
-      "drm_key": "DRM Key Nahi Mili"
-    }
-  ],
+  "live_events": [],
   "upcoming_events": [
     {
       "isStart": "Upcoming",
