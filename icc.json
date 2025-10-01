@@ -1,23 +1,13 @@
 {
   "Author": "Abid",
-  "Last_Updated": "12:50:17 PM 01-10-2025",
-  "total_events": 5,
+  "Last_Updated": "01:48:25 PM 01-10-2025",
+  "total_events": 6,
   "totals": {
     "live": 0,
-    "upcoming": 5
+    "upcoming": 6
   },
   "live_events": [],
   "upcoming_events": [
-    {
-      "isStart": "Upcoming",
-      "tournament": "ICC Men's T20 World Cup Africa Qualifier, 2025",
-      "title": "Namibia v Tanzania",
-      "date_time": "07:30, 02/10/2025",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/ICC25_MT20-AfricaQual_M13",
-      "event_url": "#",
-      "stream_data_url": "",
-      "drm_key": ""
-    },
     {
       "isStart": "Upcoming",
       "tournament": "ICC Men's T20 World Cup Africa Qualifier, 2025",
@@ -31,9 +21,9 @@
     {
       "isStart": "Upcoming",
       "tournament": "ICC Men's T20 World Cup Africa Qualifier, 2025",
-      "title": "Uganda v Malawi",
-      "date_time": "11:50, 02/10/2025",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/ICC25_MT20-AfricaQual_M16",
+      "title": "Namibia v Tanzania",
+      "date_time": "07:30, 02/10/2025",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/ICC25_MT20-AfricaQual_M13",
       "event_url": "#",
       "stream_data_url": "",
       "drm_key": ""
@@ -51,7 +41,27 @@
     {
       "isStart": "Upcoming",
       "tournament": "ICC Men's T20 World Cup Africa Qualifier, 2025",
+      "title": "Uganda v Malawi",
+      "date_time": "11:50, 02/10/2025",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/ICC25_MT20-AfricaQual_M16",
+      "event_url": "#",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC Men's T20 World Cup Africa Qualifier, 2025",
       "title": "3rd play off (Loser SF1 v Loser SF2)",
+      "date_time": "07:30, 04/10/2025",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/mlkawyxnhhr2bjhs6usg",
+      "event_url": "#",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC Men's T20 World Cup Africa Qualifier, 2025",
+      "title": "7th play off (Loser SF 3 v Loser SF4)",
       "date_time": "07:30, 04/10/2025",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/mlkawyxnhhr2bjhs6usg",
       "event_url": "#",
