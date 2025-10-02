@@ -1,22 +1,12 @@
 {
   "Author": "Abid",
-  "Last_Updated": "03:00:40 PM 02-10-2025",
-  "total_events": 6,
+  "Last_Updated": "03:29:39 PM 02-10-2025",
+  "total_events": 5,
   "totals": {
-    "live": 2,
+    "live": 1,
     "upcoming": 4
   },
   "live_events": [
-    {
-      "isStart": "Live",
-      "tournament": "ICC Men's T20 World Cup Africa Qualifier, 2025",
-      "title": "Uganda v Malawi",
-      "date_time": "NOW",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/ICC25_MT20-AfricaQual_M16",
-      "event_url": "https://www.icc-cricket.com/videos/uganda-v-malawi",
-      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1759420021~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~data=hdntl~hmac=e59690d6d295a5b44d9ffc7966a540199f7183911cfe8b540f8051f930b5a16f/manifest.mpd?|User-Agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36",
-      "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
-    },
     {
       "isStart": "Live",
       "tournament": "Afghanistan and Bangladesh in UAE, 3 T20I Series, 2025",
@@ -32,7 +22,7 @@
     {
       "isStart": "Upcoming",
       "tournament": "ICC Men's T20 World Cup Africa Qualifier, 2025",
-      "title": "3rd play off (Loser SF1 v Loser SF2)",
+      "title": "Tanzania v Kenya",
       "date_time": "07:30, 04/10/2025",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/mlkawyxnhhr2bjhs6usg",
       "event_url": "#",
@@ -42,7 +32,7 @@
     {
       "isStart": "Upcoming",
       "tournament": "ICC Men's T20 World Cup Africa Qualifier, 2025",
-      "title": "7th play off (Loser SF 3 v Loser SF4)",
+      "title": "Botswana v Malawi",
       "date_time": "07:30, 04/10/2025",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/mlkawyxnhhr2bjhs6usg",
       "event_url": "#",
@@ -52,7 +42,7 @@
     {
       "isStart": "Upcoming",
       "tournament": "ICC Men's T20 World Cup Africa Qualifier, 2025",
-      "title": "FINAL (Winner SF 1 v Winner SF2)",
+      "title": "Zimbabwe v Namibia",
       "date_time": "11:50, 04/10/2025",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/mlkawyxnhhr2bjhs6usg",
       "event_url": "#",
@@ -62,7 +52,7 @@
     {
       "isStart": "Upcoming",
       "tournament": "ICC Men's T20 World Cup Africa Qualifier, 2025",
-      "title": "5th play off (Winner SF3 v Winner (SF4)",
+      "title": "Nigeria v Uganda",
       "date_time": "11:50, 04/10/2025",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/mlkawyxnhhr2bjhs6usg",
       "event_url": "#",
