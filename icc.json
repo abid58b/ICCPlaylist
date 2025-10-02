@@ -1,10 +1,10 @@
 {
   "Author": "Abid",
-  "Last_Updated": "08:31:29 AM 02-10-2025",
-  "total_events": 7,
+  "Last_Updated": "08:50:32 AM 02-10-2025",
+  "total_events": 8,
   "totals": {
     "live": 2,
-    "upcoming": 5
+    "upcoming": 6
   },
   "live_events": [
     {
@@ -64,6 +64,16 @@
       "tournament": "ICC Men's T20 World Cup Africa Qualifier, 2025",
       "title": "7th play off (Loser SF 3 v Loser SF4)",
       "date_time": "07:30, 04/10/2025",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/mlkawyxnhhr2bjhs6usg",
+      "event_url": "#",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC Men's T20 World Cup Africa Qualifier, 2025",
+      "title": "FINAL (Winner SF 1 v Winner SF2)",
+      "date_time": "11:50, 04/10/2025",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/mlkawyxnhhr2bjhs6usg",
       "event_url": "#",
       "stream_data_url": "",
