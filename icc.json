@@ -1,22 +1,12 @@
 {
   "Author": "Abid",
-  "Last_Updated": "10:44:31 AM 02-10-2025",
-  "total_events": 8,
+  "Last_Updated": "10:58:28 AM 02-10-2025",
+  "total_events": 7,
   "totals": {
-    "live": 2,
+    "live": 1,
     "upcoming": 6
   },
   "live_events": [
-    {
-      "isStart": "Live",
-      "tournament": "ICC Men's T20 World Cup Africa Qualifier, 2025",
-      "title": "Namibia v Tanzania",
-      "date_time": "NOW",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/ICC25_MT20-AfricaQual_M13",
-      "event_url": "https://www.icc-cricket.com/videos/namibia-v-tanzania",
-      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1759420021~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~data=hdntl~hmac=e59690d6d295a5b44d9ffc7966a540199f7183911cfe8b540f8051f930b5a16f/manifest.mpd?|User-Agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36",
-      "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
-    },
     {
       "isStart": "Live",
       "tournament": "ICC Men's T20 World Cup Africa Qualifier, 2025",
