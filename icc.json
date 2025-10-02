@@ -1,29 +1,40 @@
 {
   "Author": "Abid",
-  "Last_Updated": "06:55:14 AM 02-10-2025",
-  "total_events": 6,
+  "Last_Updated": "07:22:10 AM 02-10-2025",
+  "total_events": 7,
   "totals": {
-    "live": 0,
-    "upcoming": 6
+    "live": 2,
+    "upcoming": 5
   },
-  "live_events": [],
+  "live_events": [
+    {
+      "isStart": "Live",
+      "tournament": "ICC Men's T20 World Cup Africa Qualifier, 2025",
+      "title": "Namibia v Tanzania",
+      "date_time": "NOW",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/ICC25_MT20-AfricaQual_M13",
+      "event_url": "https://www.icc-cricket.com/videos/namibia-v-tanzania",
+      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1757202887~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~data=hdntl~hmac=669d77e835f6caecd3fba6e6d74bd6c45232f13a1b372aced6a02e5aac68eca0/manifest.mpd?|User-Agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36",
+      "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
+    },
+    {
+      "isStart": "Live",
+      "tournament": "ICC Men's T20 World Cup Africa Qualifier, 2025",
+      "title": "Nigeria v Botswana",
+      "date_time": "NOW",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/ICC25_MT20-AfricaQual_M14",
+      "event_url": "https://www.icc-cricket.com/videos/nigeria-v-botswana",
+      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1757202887~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~data=hdntl~hmac=669d77e835f6caecd3fba6e6d74bd6c45232f13a1b372aced6a02e5aac68eca0/manifest.mpd?|User-Agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36",
+      "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
+    }
+  ],
   "upcoming_events": [
     {
       "isStart": "Upcoming",
       "tournament": "ICC Men's T20 World Cup Africa Qualifier, 2025",
-      "title": "Nigeria v Botswana",
-      "date_time": "07:30, 02/10/2025",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/ICC25_MT20-AfricaQual_M14",
-      "event_url": "#",
-      "stream_data_url": "",
-      "drm_key": ""
-    },
-    {
-      "isStart": "Upcoming",
-      "tournament": "ICC Men's T20 World Cup Africa Qualifier, 2025",
-      "title": "Namibia v Tanzania",
-      "date_time": "07:30, 02/10/2025",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/ICC25_MT20-AfricaQual_M13",
+      "title": "Uganda v Malawi",
+      "date_time": "11:50, 02/10/2025",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/ICC25_MT20-AfricaQual_M16",
       "event_url": "#",
       "stream_data_url": "",
       "drm_key": ""
@@ -34,16 +45,6 @@
       "title": "Zimbabwe v Kenya",
       "date_time": "11:50, 02/10/2025",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/ICC25_MT20-AfricaQual_M15",
-      "event_url": "#",
-      "stream_data_url": "",
-      "drm_key": ""
-    },
-    {
-      "isStart": "Upcoming",
-      "tournament": "ICC Men's T20 World Cup Africa Qualifier, 2025",
-      "title": "Uganda v Malawi",
-      "date_time": "11:50, 02/10/2025",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/ICC25_MT20-AfricaQual_M16",
       "event_url": "#",
       "stream_data_url": "",
       "drm_key": ""
@@ -63,6 +64,16 @@
       "tournament": "ICC Men's T20 World Cup Africa Qualifier, 2025",
       "title": "7th play off (Loser SF 3 v Loser SF4)",
       "date_time": "07:30, 04/10/2025",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/mlkawyxnhhr2bjhs6usg",
+      "event_url": "#",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC Men's T20 World Cup Africa Qualifier, 2025",
+      "title": "5th play off (Winner SF3 v Winner (SF4)",
+      "date_time": "11:50, 04/10/2025",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/mlkawyxnhhr2bjhs6usg",
       "event_url": "#",
       "stream_data_url": "",
