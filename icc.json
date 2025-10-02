@@ -1,23 +1,12 @@
 {
   "Author": "Abid",
-  "Last_Updated": "06:02:04 PM 02-10-2025",
-  "total_events": 5,
+  "Last_Updated": "06:38:09 PM 02-10-2025",
+  "total_events": 4,
   "totals": {
-    "live": 1,
+    "live": 0,
     "upcoming": 4
   },
-  "live_events": [
-    {
-      "isStart": "Live",
-      "tournament": "Afghanistan and Bangladesh in UAE, 3 T20I Series, 2025",
-      "title": "1st T20I: Afghanistan v Bangladesh",
-      "date_time": "NOW",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/s5avlqxvmwtpodtkm2zq",
-      "event_url": "https://www.icc-cricket.com/videos/1st-t20i-afghanistan-v-bangladesh",
-      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1759420021~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~data=hdntl~hmac=e59690d6d295a5b44d9ffc7966a540199f7183911cfe8b540f8051f930b5a16f/manifest.mpd?|User-Agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36",
-      "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
-    }
-  ],
+  "live_events": [],
   "upcoming_events": [
     {
       "isStart": "Upcoming",
