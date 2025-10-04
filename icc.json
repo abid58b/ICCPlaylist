@@ -1,10 +1,10 @@
 {
   "Author": "Abid",
-  "Last_Updated": "12:02:02 PM 04-10-2025",
-  "total_events": 4,
+  "Last_Updated": "12:49:32 PM 04-10-2025",
+  "total_events": 5,
   "totals": {
     "live": 2,
-    "upcoming": 2
+    "upcoming": 3
   },
   "live_events": [
     {
@@ -45,6 +45,16 @@
       "title": "Oman v Samoa",
       "date_time": "06:00, 08/10/2025",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/dxwjyp3csagbopcy4ig4",
+      "event_url": "#",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC Men’s T20 World Cup Asia & EAP Qualifier, 2025",
+      "title": "United Arab Emirates v Qatar",
+      "date_time": "10:30, 08/10/2025",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/nkg7uw41zbhrs9q2mcax",
       "event_url": "#",
       "stream_data_url": "",
       "drm_key": ""
