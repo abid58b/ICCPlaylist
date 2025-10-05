@@ -1,10 +1,10 @@
 {
   "Author": "Abid",
-  "Last_Updated": "08:36:43 AM 05-10-2025",
-  "total_events": 3,
+  "Last_Updated": "08:49:11 AM 05-10-2025",
+  "total_events": 4,
   "totals": {
     "live": 0,
-    "upcoming": 3
+    "upcoming": 4
   },
   "live_events": [],
   "upcoming_events": [
@@ -34,6 +34,16 @@
       "title": "United Arab Emirates v Qatar",
       "date_time": "10:30, 08/10/2025",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/nkg7uw41zbhrs9q2mcax",
+      "event_url": "#",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "Afghanistan and Bangladesh in UAE, 3 ODI Series, 2025",
+      "title": "1st ODI: Afghanistan v Bangladesh (1st Innings)",
+      "date_time": "12:00, 08/10/2025",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/ecyrymgdczzb28dhrqnb",
       "event_url": "#",
       "stream_data_url": "",
       "drm_key": ""
