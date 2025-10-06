@@ -1,10 +1,10 @@
 {
   "Author": "Abid",
-  "Last_Updated": "12:52:00 PM 06-10-2025",
-  "total_events": 5,
+  "Last_Updated": "01:22:21 PM 06-10-2025",
+  "total_events": 6,
   "totals": {
     "live": 0,
-    "upcoming": 5
+    "upcoming": 6
   },
   "live_events": [],
   "upcoming_events": [
@@ -54,6 +54,16 @@
       "title": "1st ODI: Afghanistan v Bangladesh (2nd Innings)",
       "date_time": "16:00, 08/10/2025",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/sw96vddrs91vwwnkxscv",
+      "event_url": "#",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC Men’s T20 World Cup Asia & EAP Qualifier, 2025",
+      "title": "Malaysia v Qatar",
+      "date_time": "06:00, 09/10/2025",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/bzjxkrkpxaekzwdcn595",
       "event_url": "#",
       "stream_data_url": "",
       "drm_key": ""
