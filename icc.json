@@ -1,10 +1,10 @@
 {
   "Author": "Abid",
-  "Last_Updated": "01:22:48 PM 08-10-2025",
-  "total_events": 8,
+  "Last_Updated": "01:47:32 PM 08-10-2025",
+  "total_events": 9,
   "totals": {
     "live": 2,
-    "upcoming": 6
+    "upcoming": 7
   },
   "live_events": [
     {
@@ -85,6 +85,16 @@
       "title": "United Arab Emirates v Malaysia",
       "date_time": "06:00, 10/10/2025",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/oogbvrzdmaxaaeal7ffi",
+      "event_url": "#",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC Men’s T20 World Cup Asia & EAP Qualifier, 2025",
+      "title": "Nepal v Japan",
+      "date_time": "10:30, 10/10/2025",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/qep20as4qxbhsikwi8db",
       "event_url": "#",
       "stream_data_url": "",
       "drm_key": ""
