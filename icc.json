@@ -1,10 +1,10 @@
 {
   "Author": "Abid",
-  "Last_Updated": "04:33:17 PM 10-10-2025",
-  "total_events": 6,
+  "Last_Updated": "05:46:29 PM 10-10-2025",
+  "total_events": 7,
   "totals": {
     "live": 1,
-    "upcoming": 5
+    "upcoming": 6
   },
   "live_events": [
     {
@@ -25,6 +25,16 @@
       "title": "2nd ODI: Afghanistan v Bangladesh (1st Innings)",
       "date_time": "12:00, 11/10/2025",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/gvujggu7vpwitcefqvsg",
+      "event_url": "#",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "South Africa in Namibia, One-off T20I, 2025",
+      "title": "One-off T20I, Namibia v South Africa",
+      "date_time": "12:00, 11/10/2025",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/l8efkcpcswpcw0c2bbw7",
       "event_url": "#",
       "stream_data_url": "",
       "drm_key": ""
