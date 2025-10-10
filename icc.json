@@ -1,23 +1,12 @@
 {
   "Author": "Abid",
-  "Last_Updated": "05:46:29 PM 10-10-2025",
-  "total_events": 7,
+  "Last_Updated": "06:40:14 PM 10-10-2025",
+  "total_events": 6,
   "totals": {
-    "live": 1,
+    "live": 0,
     "upcoming": 6
   },
-  "live_events": [
-    {
-      "isStart": "Live",
-      "tournament": "ICC Men’s T20 World Cup Asia & EAP Qualifier, 2025",
-      "title": "Oman v Papua New Guinea",
-      "date_time": "NOW",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/b9iqfvno86hez5ffp79p",
-      "event_url": "https://www.icc-cricket.com/videos/oman-v-papua-new-guinea",
-      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1760029985~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~data=hdntl~hmac=f3aad0b9239547473ef3d3ea17156fd2a02af9bbf5404bf4bdf752600c81d2fc/manifest.mpd?|User-Agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36",
-      "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
-    }
-  ],
+  "live_events": [],
   "upcoming_events": [
     {
       "isStart": "Upcoming",
