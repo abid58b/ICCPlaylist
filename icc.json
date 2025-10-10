@@ -1,23 +1,12 @@
 {
   "Author": "Abid",
-  "Last_Updated": "09:38:15 AM 10-10-2025",
-  "total_events": 7,
+  "Last_Updated": "09:48:19 AM 10-10-2025",
+  "total_events": 6,
   "totals": {
-    "live": 1,
+    "live": 0,
     "upcoming": 6
   },
-  "live_events": [
-    {
-      "isStart": "Live",
-      "tournament": "ICC Men’s T20 World Cup Asia & EAP Qualifier, 2025",
-      "title": "United Arab Emirates v Malaysia",
-      "date_time": "NOW",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/oogbvrzdmaxaaeal7ffi",
-      "event_url": "https://www.icc-cricket.com/videos/united-arab-emirates-v-malaysia",
-      "stream_data_url": "MPD Link Nahi Mila",
-      "drm_key": "DRM Key Nahi Mili"
-    }
-  ],
+  "live_events": [],
   "upcoming_events": [
     {
       "isStart": "Upcoming",
