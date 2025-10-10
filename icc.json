@@ -1,10 +1,10 @@
 {
   "Author": "Abid",
-  "Last_Updated": "07:53:51 AM 10-10-2025",
-  "total_events": 6,
+  "Last_Updated": "09:15:01 AM 10-10-2025",
+  "total_events": 7,
   "totals": {
     "live": 1,
-    "upcoming": 5
+    "upcoming": 6
   },
   "live_events": [
     {
@@ -64,6 +64,16 @@
       "tournament": "ICC Men’s T20 World Cup Asia & EAP Qualifier, 2025",
       "title": "G3Q1 v G1Q2",
       "date_time": "06:00, 12/10/2025",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/ubvvjd3jre9fi3d824gd",
+      "event_url": "#",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC Men’s T20 World Cup Asia & EAP Qualifier, 2025",
+      "title": "G1Q1 v G2Q1",
+      "date_time": "10:30, 12/10/2025",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/ubvvjd3jre9fi3d824gd",
       "event_url": "#",
       "stream_data_url": "",
