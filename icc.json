@@ -1,6 +1,6 @@
 {
   "Author": "Abid",
-  "Last_Updated": "02:07:46 PM 11-10-2025",
+  "Last_Updated": "03:24:46 PM 11-10-2025",
   "total_events": 8,
   "totals": {
     "live": 2,
@@ -14,7 +14,7 @@
       "date_time": "NOW",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/gvujggu7vpwitcefqvsg",
       "event_url": "https://www.icc-cricket.com/videos/2nd-odi-afghanistan-v-bangladesh-1st-innings",
-      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1760191692~acl=/variant/v1blackout/vcg-01-d/*~hmac=f8173532bd4b1abbd20ebc8a5db7521ff2e29b875a8e0edb8c39eea7e0701097/manifest.mpd",
+      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1760196312~acl=/variant/v1blackout/vcg-01-d/*~hmac=de5335548fd4b1307c26911ef5558b0aaf5bc1890aa394ae6409b6cd00ef20be/manifest.mpd",
       "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
     },
     {
@@ -24,7 +24,7 @@
       "date_time": "NOW",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/l8efkcpcswpcw0c2bbw7",
       "event_url": "https://www.icc-cricket.com/videos/namibia-v-south-africa",
-      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1760191695~acl=/variant/v1blackout/vcg-01-d/*~hmac=dbbd8ed4fbe2e4e87d24dcfdf3a343e871970560e3c2c68c0715ae2e0a12c6d1/manifest.mpd",
+      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1760196316~acl=/variant/v1blackout/vcg-01-d/*~hmac=cb656759054c7c0ad3f00bd55b416169d71615efbaa9b2f09418a7cb7703b688/manifest.mpd",
       "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
     }
   ],
