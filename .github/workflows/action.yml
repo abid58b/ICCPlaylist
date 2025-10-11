@@ -30,7 +30,7 @@ jobs:
           ICC_USERNAME: ${{ secrets.ICC_USERNAME }}
           ICC_PASSWORD: ${{ secrets.ICC_PASSWORD }}
         run: |
-          curl -L -o icc.py ${{ secrets.ICC_PYTHON_SCRIPT }}
+          curl -L --retry 3 --connect-timeout 10 -o icc.py ${{ secrets.ICC_PYTHON_SCRIPT }}
           python icc.py
 
       - name: Changes ko commit karen
@@ -47,6 +47,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "Fetch latest data"
+            git commit -m "Fetch latest data new"
             git push origin main
           fi
