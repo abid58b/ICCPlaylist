@@ -1,9 +1,7 @@
 #EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
-#EXTINF:-1 tvg-id="ts246" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/l8efkcpcswpcw0c2bbw7" group-title="Live",One-off T20I, Namibia v South Africa
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1760197306~acl=/variant/v1blackout/vcg-01-d/*~hmac=6874bcf5a4d7d014d2beafd381c5f5f22853b17d672ad6e215854f23336cede6/manifest.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
 #EXTINF:-1 tvg-id="ts246" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/ton4be9u0n2k6z0o2xg6" group-title="Live",2nd ODI: Afghanistan v Bangladesh (2nd Innings)
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1760197309~acl=/variant/v1blackout/vcg-01-d/*~hmac=6dc594109483801d598ac949cb9ac29ad21219cd0030bbbfdf3a61ab0a693733/manifest.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1760199311~acl=/variant/v1blackout/vcg-01-d/*~hmac=aeaf9e0a7f5e6e553c3608f1df26f2ffdd15297a5a8f8327ccb57210bc6d753f/manifest.mpd
+
