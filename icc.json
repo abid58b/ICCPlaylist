@@ -1,6 +1,6 @@
 {
   "Author": "Abid",
-  "Last_Updated": "05:24:23 PM 11-10-2025",
+  "Last_Updated": "05:39:27 PM 11-10-2025",
   "total_events": 6,
   "totals": {
     "live": 1,
@@ -14,7 +14,7 @@
       "date_time": "NOW",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/ton4be9u0n2k6z0o2xg6",
       "event_url": "https://www.icc-cricket.com/videos/2nd-odi-afghanistan-v-bangladesh-2nd-innings",
-      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1760203493~acl=/variant/v1blackout/vcg-01-d/*~hmac=a731e0045c720ab41535f847d19a24cae0cc2c863f1e82b9cf2b2c965b88dd0a/manifest.mpd",
+      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1760204397~acl=/variant/v1blackout/vcg-01-d/*~hmac=950d2da79330f1caf27e594a8a6e993a6ec7c240c3916e10fe5ed94d2f70c3ed/manifest.mpd",
       "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
     }
   ],
