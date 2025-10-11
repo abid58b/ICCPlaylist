@@ -1,5 +1,1 @@
 #EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
-#EXTINF:-1 tvg-id="ts246" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/ton4be9u0n2k6z0o2xg6" group-title="Live",2nd ODI: Afghanistan v Bangladesh (2nd Innings)
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1760204397~acl=/variant/v1blackout/vcg-01-d/*~hmac=950d2da79330f1caf27e594a8a6e993a6ec7c240c3916e10fe5ed94d2f70c3ed/manifest.mpd
