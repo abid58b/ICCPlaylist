@@ -1,10 +1,10 @@
 {
   "Author": "Abid",
-  "Last_Updated": "01:25:32 PM 11-10-2025",
-  "total_events": 7,
+  "Last_Updated": "02:07:46 PM 11-10-2025",
+  "total_events": 8,
   "totals": {
     "live": 2,
-    "upcoming": 5
+    "upcoming": 6
   },
   "live_events": [
     {
@@ -14,7 +14,7 @@
       "date_time": "NOW",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/gvujggu7vpwitcefqvsg",
       "event_url": "https://www.icc-cricket.com/videos/2nd-odi-afghanistan-v-bangladesh-1st-innings",
-      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1760029985~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~data=hdntl~hmac=f3aad0b9239547473ef3d3ea17156fd2a02af9bbf5404bf4bdf752600c81d2fc/manifest.mpd?|User-Agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36",
+      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1760191692~acl=/variant/v1blackout/vcg-01-d/*~hmac=f8173532bd4b1abbd20ebc8a5db7521ff2e29b875a8e0edb8c39eea7e0701097/manifest.mpd",
       "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
     },
     {
@@ -24,7 +24,7 @@
       "date_time": "NOW",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/l8efkcpcswpcw0c2bbw7",
       "event_url": "https://www.icc-cricket.com/videos/namibia-v-south-africa",
-      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1760029985~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~data=hdntl~hmac=f3aad0b9239547473ef3d3ea17156fd2a02af9bbf5404bf4bdf752600c81d2fc/manifest.mpd?|User-Agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36",
+      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1760191695~acl=/variant/v1blackout/vcg-01-d/*~hmac=dbbd8ed4fbe2e4e87d24dcfdf3a343e871970560e3c2c68c0715ae2e0a12c6d1/manifest.mpd",
       "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
     }
   ],
@@ -75,6 +75,16 @@
       "title": "Oman v United Arab Emirates",
       "date_time": "10:30, 13/10/2025",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/hbbajrikty7cuzznhiwn",
+      "event_url": "#",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC Men’s T20 World Cup Asia & EAP Qualifier, 2025",
+      "title": "Nepal v Qatar",
+      "date_time": "15:00, 13/10/2025",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/rl5fn5stydeweqrloojz",
       "event_url": "#",
       "stream_data_url": "",
       "drm_key": ""
