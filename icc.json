@@ -1,23 +1,12 @@
 {
   "Author": "Abid",
-  "Last_Updated": "02:00:59 PM 12-10-2025",
-  "total_events": 7,
+  "Last_Updated": "02:26:18 PM 12-10-2025",
+  "total_events": 6,
   "totals": {
-    "live": 1,
+    "live": 0,
     "upcoming": 6
   },
-  "live_events": [
-    {
-      "isStart": "Live",
-      "tournament": "ICC Men’s T20 World Cup Asia & EAP Qualifier, 2025",
-      "title": "United Arab Emirates v Nepal",
-      "date_time": "NOW",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/ilzdkzzcvqirynnsyftf",
-      "event_url": "https://www.icc-cricket.com/videos/g1q1-v-g2q1",
-      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1760277689~acl=/variant/v1blackout/vcg-01-d/*~hmac=d9ba3d3bf4309e3e525fa9fc78890ad503577e60767719ab9074171c8b834d9a/manifest.mpd",
-      "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
-    }
-  ],
+  "live_events": [],
   "upcoming_events": [
     {
       "isStart": "Upcoming",
