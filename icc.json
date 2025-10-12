@@ -1,23 +1,24 @@
 {
   "Author": "Abid",
-  "Last_Updated": "02:26:18 PM 12-10-2025",
+  "Last_Updated": "03:34:14 PM 12-10-2025",
   "total_events": 6,
   "totals": {
-    "live": 0,
-    "upcoming": 6
+    "live": 1,
+    "upcoming": 5
   },
-  "live_events": [],
-  "upcoming_events": [
+  "live_events": [
     {
-      "isStart": "Upcoming",
+      "isStart": "Live",
       "tournament": "ICC Men’s T20 World Cup Asia & EAP Qualifier, 2025",
       "title": "Samoa v Japan",
-      "date_time": "15:00, 12/10/2025",
+      "date_time": "NOW",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/ud5ky0hi0uoj6pdvtuem",
-      "event_url": "#",
-      "stream_data_url": "",
-      "drm_key": ""
-    },
+      "event_url": "https://www.icc-cricket.com/videos/g3q2-v-g2q2",
+      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1760283284~acl=/variant/v1blackout/vcg-01-d/*~hmac=13b59a46fd55080ba3afabc787918aac0534374b5c91d15a7ab790ab0a7f6c24/manifest.mpd",
+      "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
+    }
+  ],
+  "upcoming_events": [
     {
       "isStart": "Upcoming",
       "tournament": "ICC Men’s T20 World Cup Asia & EAP Qualifier, 2025",
