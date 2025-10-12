@@ -1,5 +1,2 @@
 #EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
-#EXTINF:-1 tvg-id="ts246" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/ilzdkzzcvqirynnsyftf" group-title="Live",United Arab Emirates v Nepal
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1760277689~acl=/variant/v1blackout/vcg-01-d/*~hmac=d9ba3d3bf4309e3e525fa9fc78890ad503577e60767719ab9074171c8b834d9a/manifest.mpd
+
