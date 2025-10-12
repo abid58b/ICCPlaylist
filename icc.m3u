@@ -1,5 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ts246" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/hr1zsiluxhzczyltq5db" group-title="Live",Oman v Qatar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
-#EXTINF:-1 tvg-id="ts246" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/hr1zsiluxhzczyltq5db" group-title="Live",Oman v Qatar
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1760258422~acl=/variant/v1blackout/vcg-01-d/*~hmac=dd4912446e5a9b422becb6fb819e4c2bbd08a24dabfdd30e774c2bb9b7bc41b1/manifest.mpd
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1760259067~acl=/variant/v1blackout/vcg-01-d/*~hmac=77552c32f61dc5efae251686eb0cef22c034f14f581e8fab67e563e423f58839/manifest.mpd
+
