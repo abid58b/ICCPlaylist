@@ -1,5 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ts246" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/rl5fn5stydeweqrloojz" group-title="Live",Nepal v Qatar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
-#EXTINF:-1 tvg-id="ts246" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/rl5fn5stydeweqrloojz" group-title="Live",Nepal v Qatar
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1760366872~acl=/variant/v1blackout/vcg-01-d/*~hmac=7b1c291ed494f469947a93102d9518589e7016b337d1e633094c8ebce97cbc18/manifest.mpd
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1760369431~acl=/variant/v1blackout/vcg-01-d/*~hmac=35a08e282dff10a14649fe136dcfa66eda72569e3c57a74e23baf21a6791bf94/manifest.mpd
+
