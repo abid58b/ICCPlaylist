@@ -1,4 +1,4 @@
-name: Update JSON M3U File
+name: Update Event M3U File
 
 on:
   schedule:
