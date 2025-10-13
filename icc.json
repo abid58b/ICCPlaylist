@@ -1,10 +1,10 @@
 {
   "Author": "Abid",
-  "Last_Updated": "12:00:05 PM 13-10-2025",
-  "total_events": 6,
+  "Last_Updated": "01:35:41 PM 13-10-2025",
+  "total_events": 7,
   "totals": {
     "live": 1,
-    "upcoming": 5
+    "upcoming": 6
   },
   "live_events": [
     {
@@ -14,7 +14,7 @@
       "date_time": "NOW",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/hbbajrikty7cuzznhiwn",
       "event_url": "https://www.icc-cricket.com/videos/g3q1-v-g1q1",
-      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1760356835~acl=/variant/v1blackout/vcg-01-d/*~hmac=5422faa6c3e1c0c9cb27470a866d1c990e94ed4cc3a2897e73b9d2678a1e1a6c/manifest.mpd",
+      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1760362571~acl=/variant/v1blackout/vcg-01-d/*~hmac=225b79068ee2a4380b4d666482df652883792132d8fb2bef09043b7e328744b8/manifest.mpd",
       "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
     }
   ],
@@ -65,6 +65,16 @@
       "title": "Samoa v United Arab Emirates",
       "date_time": "10:30, 15/10/2025",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/spaiowntxoglnuveumsn",
+      "event_url": "#",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC Men’s T20 World Cup Asia & EAP Qualifier, 2025",
+      "title": "Oman v Nepal",
+      "date_time": "15:00, 15/10/2025",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/mm1mfibi7syaluktjwpg",
       "event_url": "#",
       "stream_data_url": "",
       "drm_key": ""
