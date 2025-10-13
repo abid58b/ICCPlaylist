@@ -1,10 +1,10 @@
 {
   "Author": "Abid",
-  "Last_Updated": "08:41:56 AM 13-10-2025",
-  "total_events": 5,
+  "Last_Updated": "08:57:41 AM 13-10-2025",
+  "total_events": 6,
   "totals": {
     "live": 0,
-    "upcoming": 5
+    "upcoming": 6
   },
   "live_events": [],
   "upcoming_events": [
@@ -54,6 +54,16 @@
       "title": "Japan v Qatar",
       "date_time": "06:00, 15/10/2025",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/yqy4o7o7zbykthzrnwuu",
+      "event_url": "#",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC Men’s T20 World Cup Asia & EAP Qualifier, 2025",
+      "title": "Samoa v United Arab Emirates",
+      "date_time": "10:30, 15/10/2025",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/spaiowntxoglnuveumsn",
       "event_url": "#",
       "stream_data_url": "",
       "drm_key": ""
