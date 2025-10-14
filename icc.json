@@ -1,10 +1,10 @@
 {
   "Author": "Abid",
-  "Last_Updated": "11:40:17 AM 14-10-2025",
-  "total_events": 6,
+  "Last_Updated": "01:52:36 PM 14-10-2025",
+  "total_events": 7,
   "totals": {
     "live": 1,
-    "upcoming": 5
+    "upcoming": 6
   },
   "live_events": [
     {
@@ -14,7 +14,7 @@
       "date_time": "NOW",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/ul3dpqmsk6mukzae56ed",
       "event_url": "https://www.icc-cricket.com/videos/3rd-odi-afghanistan-v-bangladesh-1st-innings",
-      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1760442047~acl=/variant/v1blackout/vcg-01-d/*~hmac=663f28e3cfdd6dcb3c61296874313dd0f1f6999cbfec0a2fbbeb2640ba8e9b8a/manifest.mpd",
+      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1760449986~acl=/variant/v1blackout/vcg-01-d/*~hmac=68eff0d93ed629e9c3e1565912213bba2a8740268b8645fe6fea9c8beb6a6f2d/manifest.mpd",
       "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
     }
   ],
@@ -65,6 +65,16 @@
       "title": "United Arab Emirates v Japan",
       "date_time": "10:30, 16/10/2025",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/yad0vh3xkrjznjzxswit",
+      "event_url": "#",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC Men’s T20 World Cup Asia & EAP Qualifier, 2025",
+      "title": "Qatar v Samoa",
+      "date_time": "15:00, 16/10/2025",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/n1u14votmiby4dbmhpuv",
       "event_url": "#",
       "stream_data_url": "",
       "drm_key": ""
