@@ -1,10 +1,10 @@
 {
   "Author": "Abid",
-  "Last_Updated": "08:31:32 AM 14-10-2025",
-  "total_events": 5,
+  "Last_Updated": "08:51:41 AM 14-10-2025",
+  "total_events": 6,
   "totals": {
     "live": 0,
-    "upcoming": 5
+    "upcoming": 6
   },
   "live_events": [],
   "upcoming_events": [
@@ -54,6 +54,16 @@
       "title": "Oman v Nepal",
       "date_time": "15:00, 15/10/2025",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/mm1mfibi7syaluktjwpg",
+      "event_url": "#",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC Men’s T20 World Cup Asia & EAP Qualifier, 2025",
+      "title": "United Arab Emirates v Japan",
+      "date_time": "10:30, 16/10/2025",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/yad0vh3xkrjznjzxswit",
       "event_url": "#",
       "stream_data_url": "",
       "drm_key": ""
