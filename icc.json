@@ -1,23 +1,24 @@
 {
   "Author": "Abid",
-  "Last_Updated": "09:27:59 AM 15-10-2025",
+  "Last_Updated": "10:31:54 AM 15-10-2025",
   "total_events": 6,
   "totals": {
-    "live": 0,
-    "upcoming": 6
+    "live": 1,
+    "upcoming": 5
   },
-  "live_events": [],
-  "upcoming_events": [
+  "live_events": [
     {
-      "isStart": "Upcoming",
+      "isStart": "Live",
       "tournament": "ICC Men’s T20 World Cup Asia & EAP Qualifier, 2025",
       "title": "Samoa v United Arab Emirates",
-      "date_time": "10:30, 15/10/2025",
+      "date_time": "NOW",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/spaiowntxoglnuveumsn",
-      "event_url": "#",
-      "stream_data_url": "",
-      "drm_key": ""
-    },
+      "event_url": "https://www.icc-cricket.com/videos/g3q2-v-g1q1",
+      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1760524343~acl=/variant/v1blackout/vcg-01-d/*~hmac=604b2af17aa082df1ac267f9ef1dfb15c4715515acbe7faf635fe6eba8323288/manifest.mpd",
+      "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
+    }
+  ],
+  "upcoming_events": [
     {
       "isStart": "Upcoming",
       "tournament": "ICC Men’s T20 World Cup Asia & EAP Qualifier, 2025",
