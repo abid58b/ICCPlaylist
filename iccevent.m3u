@@ -1,6 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/prd/fdhkki3btbr2s9wsjmrp" group-title="Live",CWC25: England v Pakistan (1st Innings) 2/2
+#EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/prd/spaiowntxoglnuveumsn" group-title="Live",Samoa vs UAE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/hdntl=exp=1760565622~acl=/variant/v1blackout/vcg-01-d/*~data=hdntl~hmac=7195bd66d8f33ef60956a56ac368219215e3764430494885ded4a69287f2309d/manifest.mpd
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1760564101~acl=/variant/v1blackout/vcg-01-d/*~data=hdntl~hmac=0dfabc0a3517989f7f5237799b9f291e787aa4ed3ac1fae1119409f6411bb52a/manifest.mpd
+#EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/v1760510370/prd/pxpsvxszdmsdrio5zdgw" group-title="Live",ENG vs PAK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/hdntl=exp=1760564101~acl=/variant/v1blackout/vcg-01-d/*~data=hdntl~hmac=0dfabc0a3517989f7f5237799b9f291e787aa4ed3ac1fae1119409f6411bb52a/manifest.mpd
