@@ -1,23 +1,12 @@
 {
   "Author": "Abid",
-  "Last_Updated": "05:43:44 PM 15-10-2025",
-  "total_events": 7,
+  "Last_Updated": "06:50:20 PM 15-10-2025",
+  "total_events": 6,
   "totals": {
-    "live": 1,
+    "live": 0,
     "upcoming": 6
   },
-  "live_events": [
-    {
-      "isStart": "Live",
-      "tournament": "ICC Men’s T20 World Cup Asia & EAP Qualifier, 2025",
-      "title": "Oman v Nepal",
-      "date_time": "NOW",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/mm1mfibi7syaluktjwpg",
-      "event_url": "https://www.icc-cricket.com/videos/g3q1-v-g1q1-x1986",
-      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1760550254~acl=/variant/v1blackout/vcg-01-d/*~hmac=44655378ab7d6559c314f783628823bd9c2ef42ea484d18b673200e2f89ef5cf/manifest.mpd",
-      "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
-    }
-  ],
+  "live_events": [],
   "upcoming_events": [
     {
       "isStart": "Upcoming",
