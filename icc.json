@@ -1,6 +1,6 @@
 {
   "Author": "Abid",
-  "Last_Updated": "07:24:42 AM 15-10-2025",
+  "Last_Updated": "08:00:14 AM 15-10-2025",
   "total_events": 6,
   "totals": {
     "live": 1,
@@ -14,7 +14,7 @@
       "date_time": "NOW",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/yqy4o7o7zbykthzrnwuu",
       "event_url": "https://www.icc-cricket.com/videos/g2q2-v-g1q2",
-      "stream_data_url": "https://live-d-02-icc-ne.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1760513111~acl=/variant/v1blackout/vcg-01-d/*~hmac=5b326a564921e13ddf6684b2e1341e36477a26e0568f5e9299a72fd87ac0c012/manifest.mpd",
+      "stream_data_url": "https://live-d-02-icc-ne.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1760515244~acl=/variant/v1blackout/vcg-01-d/*~hmac=43b910973d7d01185af682804bf7cff88f921e8bf5d48c51e4337fd488f1789d/manifest.mpd",
       "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
     }
   ],
