@@ -1,5 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ts246" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/yqy4o7o7zbykthzrnwuu" group-title="Live",Japan v Qatar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
-#EXTINF:-1 tvg-id="ts246" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/yqy4o7o7zbykthzrnwuu" group-title="Live",Japan v Qatar
-https://live-d-02-icc-ne.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1760507160~acl=/variant/v1blackout/vcg-01-d/*~hmac=45eea7857502c3eb73107efc288b7f75144dcf525b023866b8dd01dc595c495a/manifest.mpd
+https://live-d-02-icc-ne.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1760510503~acl=/variant/v1blackout/vcg-01-d/*~hmac=15ca6c98166363c5bde4ddebd08306e227f16f6f7701ffd9e1ede89ea4229e54/manifest.mpd
+
