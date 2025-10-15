@@ -3,9 +3,9 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1760554826~acl=/variant/v1blackout/vcg-01-d/*~data=hdntl~hmac=2c39802ada0e44613c5ddf0fb9bf6dd84772fab35d7f1ca6c466ea1597c15b18/manifest.mpd
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1760555989~acl=/variant/v1blackout/vcg-01-d/*~data=hdntl~hmac=817d82593da2724f8e3902f46d4bf377585560b0466e21e33726273dc68890ac/manifest.mpd
 #EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/v1760510370/prd/pxpsvxszdmsdrio5zdgw" group-title="Live",ENG vs PAK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/hdntl=exp=1760554827~acl=/variant/v1blackout/vcg-01-d/*~data=hdntl~hmac=6e87576c736d452fb7a0200f297642013225f67d0680817b42f53f78a836c7ce/manifest.mpd
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/hdntl=exp=1760555990~acl=/variant/v1blackout/vcg-01-d/*~data=hdntl~hmac=01bd5c0eb5f77925272f5fc875aa30ae45eee2179d2ba04872bb03f3dc262df1/manifest.mpd
