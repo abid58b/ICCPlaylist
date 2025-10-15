@@ -1,23 +1,24 @@
 {
   "Author": "Abid",
-  "Last_Updated": "04:58:42 AM 15-10-2025",
+  "Last_Updated": "05:45:30 AM 15-10-2025",
   "total_events": 6,
   "totals": {
-    "live": 0,
-    "upcoming": 6
+    "live": 1,
+    "upcoming": 5
   },
-  "live_events": [],
-  "upcoming_events": [
+  "live_events": [
     {
-      "isStart": "Upcoming",
+      "isStart": "Live",
       "tournament": "ICC Men’s T20 World Cup Asia & EAP Qualifier, 2025",
       "title": "Japan v Qatar",
-      "date_time": "06:00, 15/10/2025",
+      "date_time": "NOW",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/yqy4o7o7zbykthzrnwuu",
-      "event_url": "#",
-      "stream_data_url": "",
-      "drm_key": ""
-    },
+      "event_url": "https://www.icc-cricket.com/videos/g2q2-v-g1q2",
+      "stream_data_url": "https://live-d-02-icc-ne.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1760507160~acl=/variant/v1blackout/vcg-01-d/*~hmac=45eea7857502c3eb73107efc288b7f75144dcf525b023866b8dd01dc595c495a/manifest.mpd",
+      "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
+    }
+  ],
+  "upcoming_events": [
     {
       "isStart": "Upcoming",
       "tournament": "ICC Men’s T20 World Cup Asia & EAP Qualifier, 2025",
