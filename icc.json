@@ -1,10 +1,10 @@
 {
   "Author": "Abid",
-  "Last_Updated": "03:43:03 PM 15-10-2025",
-  "total_events": 5,
+  "Last_Updated": "05:26:36 PM 15-10-2025",
+  "total_events": 7,
   "totals": {
     "live": 1,
-    "upcoming": 4
+    "upcoming": 6
   },
   "live_events": [
     {
@@ -14,7 +14,7 @@
       "date_time": "NOW",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/mm1mfibi7syaluktjwpg",
       "event_url": "https://www.icc-cricket.com/videos/g3q1-v-g1q1-x1986",
-      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1760543013~acl=/variant/v1blackout/vcg-01-d/*~hmac=7abcad393b7e0f00c25e21756805f4476dedc738e6f21aecd0af790ec505ca56/manifest.mpd",
+      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1760549226~acl=/variant/v1blackout/vcg-01-d/*~hmac=76f60fba3ac80749e0f932f89b1cc7bc69d586ba06e7fb511559c3488f6f05aa/manifest.mpd",
       "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
     }
   ],
@@ -56,6 +56,26 @@
       "date_time": "10:30, 17/10/2025",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/e17jdtvi9xwhcpfezu8p",
       "event_url": "#",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC Women's Cricket World Cup, 2025",
+      "title": "CWC25: England v Pakistan (2nd Innings)",
+      "date_time": "Date/Time Nahi Mila",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/lwttmauw8ozjwminrnal",
+      "event_url": "https://www.icc-cricket.com/tournaments/womens-cricket-worldcup-2025/videos/cwc25-england-v-pakistan-2nd-innings",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC Women's Cricket World Cup, 2025",
+      "title": "CWC25: England v Pakistan (1st Innings) 2/2",
+      "date_time": "Date/Time Nahi Mila",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/lwttmauw8ozjwminrnal",
+      "event_url": "https://www.icc-cricket.com/tournaments/womens-cricket-worldcup-2025/videos/cwc-england-v-pakistan-2nd-innings",
       "stream_data_url": "",
       "drm_key": ""
     }
