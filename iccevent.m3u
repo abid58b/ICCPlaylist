@@ -1,11 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/prd/yqy4o7o7zbykthzrnwuu" group-title="Live",Japan vs Qatar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
-https://live-d-02-icc-ne.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1760547622~acl=/variant/v1blackout/vcg-01-d/*~data=hdntl~hmac=18c19e75ed907060c4ca5aee0d599a486921e072620930439367d23c303cfeb9/manifest.mpd
 #EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/v1760510370/prd/pxpsvxszdmsdrio5zdgw" group-title="Live",ENG vs PAK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
-https://live-d-02-icc-ne.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/hdntl=exp=1760547623~acl=/variant/v1blackout/vcg-01-d/*~data=hdntl~hmac=97936bda7cf348a35aeb3182d867727509ede71bbb88fc91fbb21bacc6a624b1/manifest.mpd
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/hdntl=exp=1760549421~acl=/variant/v1blackout/vcg-01-d/*~data=hdntl~hmac=52c3c38631278a66e55527e2e5ea741873df6597e4a9ebd8a5f418131844543e/manifest.mpd
