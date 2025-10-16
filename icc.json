@@ -1,32 +1,22 @@
 {
   "Author": "Abid",
-  "Last_Updated": "02:03:41 PM 16-10-2025",
-  "total_events": 2,
+  "Last_Updated": "06:18:29 PM 16-10-2025",
+  "total_events": 1,
   "totals": {
-    "live": 0,
-    "upcoming": 2
+    "live": 1,
+    "upcoming": 0
   },
-  "live_events": [],
-  "upcoming_events": [
+  "live_events": [
     {
-      "isStart": "Upcoming",
-      "tournament": "ICC Women's Cricket World Cup, 2025",
-      "title": "CWC25: England v Pakistan (2nd Innings)",
-      "date_time": "Date/Time Nahi Mila",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/lwttmauw8ozjwminrnal",
-      "event_url": "https://www.icc-cricket.com/tournaments/womens-cricket-worldcup-2025/videos/cwc25-england-v-pakistan-2nd-innings",
-      "stream_data_url": "",
-      "drm_key": ""
-    },
-    {
-      "isStart": "Upcoming",
-      "tournament": "ICC Women's Cricket World Cup, 2025",
-      "title": "CWC25: England v Pakistan (1st Innings) 2/2",
-      "date_time": "Date/Time Nahi Mila",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/lwttmauw8ozjwminrnal",
-      "event_url": "https://www.icc-cricket.com/tournaments/womens-cricket-worldcup-2025/videos/cwc-england-v-pakistan-2nd-innings",
-      "stream_data_url": "",
-      "drm_key": ""
+      "isStart": "Live",
+      "tournament": "ICC Men’s T20 World Cup Asia & EAP Qualifier, 2025",
+      "title": "Qatar v Samoa",
+      "date_time": "NOW",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/n1u14votmiby4dbmhpuv",
+      "event_url": "https://www.icc-cricket.com/videos/g1q2-v-g3q2",
+      "stream_data_url": "MPD Link Nahi Mila",
+      "drm_key": "DRM Key Nahi Mili"
     }
-  ]
+  ],
+  "upcoming_events": []
 }
