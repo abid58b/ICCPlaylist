@@ -1,53 +1,13 @@
 {
   "Author": "Abid",
-  "Last_Updated": "08:39:04 AM 16-10-2025",
-  "total_events": 6,
+  "Last_Updated": "09:59:49 AM 16-10-2025",
+  "total_events": 2,
   "totals": {
     "live": 0,
-    "upcoming": 6
+    "upcoming": 2
   },
   "live_events": [],
   "upcoming_events": [
-    {
-      "isStart": "Upcoming",
-      "tournament": "ICC Men’s T20 World Cup Asia & EAP Qualifier, 2025",
-      "title": "United Arab Emirates v Japan",
-      "date_time": "10:30, 16/10/2025",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/yad0vh3xkrjznjzxswit",
-      "event_url": "#",
-      "stream_data_url": "",
-      "drm_key": ""
-    },
-    {
-      "isStart": "Upcoming",
-      "tournament": "ICC Men’s T20 World Cup Asia & EAP Qualifier, 2025",
-      "title": "Qatar v Samoa",
-      "date_time": "15:00, 16/10/2025",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/n1u14votmiby4dbmhpuv",
-      "event_url": "#",
-      "stream_data_url": "",
-      "drm_key": ""
-    },
-    {
-      "isStart": "Upcoming",
-      "tournament": "ICC Men’s T20 World Cup Asia & EAP Qualifier, 2025",
-      "title": "Japan v Oman",
-      "date_time": "06:00, 17/10/2025",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/njs6ggfhaqttzlopr1zx",
-      "event_url": "#",
-      "stream_data_url": "",
-      "drm_key": ""
-    },
-    {
-      "isStart": "Upcoming",
-      "tournament": "ICC Men’s T20 World Cup Asia & EAP Qualifier, 2025",
-      "title": "Samoa v Nepal",
-      "date_time": "10:30, 17/10/2025",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/e17jdtvi9xwhcpfezu8p",
-      "event_url": "#",
-      "stream_data_url": "",
-      "drm_key": ""
-    },
     {
       "isStart": "Upcoming",
       "tournament": "ICC Women's Cricket World Cup, 2025",
