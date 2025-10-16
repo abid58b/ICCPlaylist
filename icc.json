@@ -1,12 +1,23 @@
 {
   "Author": "Abid",
-  "Last_Updated": "09:59:49 AM 16-10-2025",
-  "total_events": 2,
+  "Last_Updated": "11:27:06 AM 16-10-2025",
+  "total_events": 3,
   "totals": {
-    "live": 0,
+    "live": 1,
     "upcoming": 2
   },
-  "live_events": [],
+  "live_events": [
+    {
+      "isStart": "Live",
+      "tournament": "ICC Men’s T20 World Cup Asia & EAP Qualifier, 2025",
+      "title": "United Arab Emirates v Japan",
+      "date_time": "NOW",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/yad0vh3xkrjznjzxswit",
+      "event_url": "https://www.icc-cricket.com/videos/g1q1-v-g2q2",
+      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1760614056~acl=/variant/v1blackout/vcg-01-d/*~hmac=13807b2d2102607eeaa63b04cc4a54b8b6a0345e87ff54c488779b7d334c4aba/manifest.mpd",
+      "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
+    }
+  ],
   "upcoming_events": [
     {
       "isStart": "Upcoming",
