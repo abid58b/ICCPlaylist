@@ -3,9 +3,4 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1760655097~acl=/variant/v1blackout/vcg-01-d/*~data=hdntl~hmac=d8625ebaf98242329b5b454c48a9b0cefff0d63e9d4c3d265b181d029e7f9a66/manifest.mpd
-#EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/prd/biuxs4erfqbhykhoy5gd" group-title="Live",AUS vs BAN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/hdntl=exp=1760655098~acl=/variant/v1blackout/vcg-01-d/*~data=hdntl~hmac=228e6b64049f0c3d667fed955b093e7abd8050d3e7ce0247675abc56fd1f7569/manifest.mpd
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1760662831~acl=/variant/v1blackout/vcg-01-d/*~data=hdntl~hmac=2b89db123a6d04e25e499460389a4763418cffa9d70c585c425bd73a3e760a18/manifest.mpd
