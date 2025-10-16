@@ -1,11 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/prd/yad0vh3xkrjznjzxswit" group-title="Live",UAE vs Japan
+#EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/prd/biuxs4erfqbhykhoy5gd" group-title="Live",AUS vs BAN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1760643246~acl=/variant/v1blackout/vcg-01-d/*~data=hdntl~hmac=5851d2ffa83545336a047cf3b81a86b0c252063f4bdb1bf75bcb0c4e5b10453d/manifest.mpd
-#EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/v1760602641/prd/sasr52bfh3rda2y9fy3g" group-title="Live",AUS vs BAN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/hdntl=exp=1760643247~acl=/variant/v1blackout/vcg-01-d/*~data=hdntl~hmac=f6f103a7fc3d95cc97a34ae34bfbfbe547de31a95adf56c015a081ac3afcc89f/manifest.mpd
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/hdntl=exp=1760653483~acl=/variant/v1blackout/vcg-01-d/*~data=hdntl~hmac=60046f858ed60a7ea37e186fa1b017dedacb0be53c0b1cd506ebec7a92e1d2a3/manifest.mpd
