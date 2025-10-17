@@ -1,5 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ts246" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/njs6ggfhaqttzlopr1zx" group-title="Live",Japan v Oman
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
-#EXTINF:-1 tvg-id="ts246" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/njs6ggfhaqttzlopr1zx" group-title="Live",Japan v Oman
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1760680865~acl=/variant/v1blackout/vcg-01-d/*~hmac=72ccf12531953156f0f1aeb0b66e1d0ae327fdb3174ec9e8904e2b8d331ec470/manifest.mpd
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1760683252~acl=/variant/v1blackout/vcg-01-d/*~hmac=7f74e1409cb5bbafba1553e226ffc4e63ddfd27b513fa483ca2497516c0e2220/manifest.mpd
+
