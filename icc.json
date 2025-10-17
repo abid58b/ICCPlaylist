@@ -1,6 +1,6 @@
 {
   "Author": "Abid",
-  "Last_Updated": "06:18:29 PM 16-10-2025",
+  "Last_Updated": "06:00:35 AM 17-10-2025",
   "total_events": 1,
   "totals": {
     "live": 1,
@@ -10,12 +10,12 @@
     {
       "isStart": "Live",
       "tournament": "ICC Men’s T20 World Cup Asia & EAP Qualifier, 2025",
-      "title": "Qatar v Samoa",
+      "title": "Japan v Oman",
       "date_time": "NOW",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/n1u14votmiby4dbmhpuv",
-      "event_url": "https://www.icc-cricket.com/videos/g1q2-v-g3q2",
-      "stream_data_url": "MPD Link Nahi Mila",
-      "drm_key": "DRM Key Nahi Mili"
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/njs6ggfhaqttzlopr1zx",
+      "event_url": "https://www.icc-cricket.com/videos/g2q2-v-g3q1",
+      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1760680865~acl=/variant/v1blackout/vcg-01-d/*~hmac=72ccf12531953156f0f1aeb0b66e1d0ae327fdb3174ec9e8904e2b8d331ec470/manifest.mpd",
+      "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
     }
   ],
   "upcoming_events": []
