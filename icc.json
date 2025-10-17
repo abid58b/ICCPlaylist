@@ -1,6 +1,6 @@
 {
   "Author": "Abid",
-  "Last_Updated": "08:57:32 AM 17-10-2025",
+  "Last_Updated": "10:31:19 AM 17-10-2025",
   "total_events": 1,
   "totals": {
     "live": 1,
@@ -10,11 +10,11 @@
     {
       "isStart": "Live",
       "tournament": "ICC Men’s T20 World Cup Asia & EAP Qualifier, 2025",
-      "title": "Japan v Oman",
+      "title": "Samoa v Nepal",
       "date_time": "NOW",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/njs6ggfhaqttzlopr1zx",
-      "event_url": "https://www.icc-cricket.com/videos/g2q2-v-g3q1",
-      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1760691482~acl=/variant/v1blackout/vcg-01-d/*~hmac=6d190867e64f7902a033efd009120b8ea17ad2228dfbc092a3826a825f6cf929/manifest.mpd",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/e17jdtvi9xwhcpfezu8p",
+      "event_url": "https://www.icc-cricket.com/videos/g3q2-v-g2q1",
+      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1760697109~acl=/variant/v1blackout/vcg-01-d/*~hmac=0234e1d0b6a451be2e4411ec789dc44266f565edbaeebe46c9ea9821a122cba3/manifest.mpd",
       "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
     }
   ],
