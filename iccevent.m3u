@@ -1,11 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/prd/e17jdtvi9xwhcpfezu8p" group-title="Live",Samoa vs NEP
+#EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/prd/eotmjwodn2vslsb0oxr7" group-title="Live",SA vs SL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1760736678~acl=/variant/v1blackout/vcg-01-d/*~data=hdntl~hmac=c5203653607e92c901ae3dbad2aa8f53ce81ba0e3e3f7e38cad34c8261131b14/manifest.mpd
-#EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/v1760687065/prd/lrgvjdv1c93cq2ne9vu8" group-title="Live",SA vs SL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/hdntl=exp=1760736679~acl=/variant/v1blackout/vcg-01-d/*~data=hdntl~hmac=a4c76ebd8ee9780e2fb5399c0c3f13e0f1872b9f0f3b655f7ef49a36c9a93272/manifest.mpd
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/hdntl=exp=1760742025~acl=/variant/v1blackout/vcg-01-d/*~data=hdntl~hmac=b6406e3e000fa075ff427e25c159135d219d5a78717e4df3af110ee5f6544095/manifest.mpd
