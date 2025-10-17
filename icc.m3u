@@ -1,5 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ts246" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/e17jdtvi9xwhcpfezu8p" group-title="Live",Samoa v Nepal
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
-#EXTINF:-1 tvg-id="ts246" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/e17jdtvi9xwhcpfezu8p" group-title="Live",Samoa v Nepal
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1760700192~acl=/variant/v1blackout/vcg-01-d/*~hmac=fb8e4a4f46846562bfc3adef66364b0d9f569389b993eb0307f633dabc41a273/manifest.mpd
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1760701257~acl=/variant/v1blackout/vcg-01-d/*~hmac=dfebead89e5f5ef83a02608d59eb4f9f821b93c7f37ce0562737602b4e2c82bf/manifest.mpd
+
