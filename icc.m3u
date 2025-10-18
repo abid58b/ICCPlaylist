@@ -1,5 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ts246" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/nhgo5ihjjigsmmu2k1if" group-title="Live",1st ODI, Bangladesh v West Indies (2nd Innings)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
-#EXTINF:-1 tvg-id="ts246" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/nhgo5ihjjigsmmu2k1if" group-title="Live",1st ODI, Bangladesh v West Indies (2nd Innings)
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1760795433~acl=/variant/v1blackout/vcg-01-d/*~hmac=7673532cee1b31933b62f06f24c0ab7d116567c84a2bdf8606e87798117d46e4/manifest.mpd
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1760796159~acl=/variant/v1blackout/vcg-01-d/*~hmac=8fa8069ae32100ed9be3a448be70ef278ab18730adee31062a63deed8c7da9e3/manifest.mpd
+
