@@ -1,6 +1,6 @@
 {
   "Author": "Abid",
-  "Last_Updated": "01:21:30 PM 17-10-2025",
+  "Last_Updated": "07:21:47 AM 18-10-2025",
   "total_events": 1,
   "totals": {
     "live": 1,
@@ -9,12 +9,12 @@
   "live_events": [
     {
       "isStart": "Live",
-      "tournament": "ICC Men’s T20 World Cup Asia & EAP Qualifier, 2025",
-      "title": "Samoa v Nepal",
+      "tournament": "West Indies in Bangladesh, 3 ODI Series, 2025",
+      "title": "1st ODI, Bangladesh v West Indies (1st Innings)",
       "date_time": "NOW",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/e17jdtvi9xwhcpfezu8p",
-      "event_url": "https://www.icc-cricket.com/videos/g3q2-v-g2q1",
-      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1760707319~acl=/variant/v1blackout/vcg-01-d/*~hmac=e9f4545e387fc213eb3b7a256df69e741692a0953e7888f826c4adb2b49cc421/manifest.mpd",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/jc7uq1kfrq3uinmvv2ll",
+      "event_url": "https://www.icc-cricket.com/videos/1st-odi-bangladesh-v-west-indies-1st-innings",
+      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1760772137~acl=/variant/v1blackout/vcg-01-d/*~hmac=176431d8fbd88bf878a8692533e4a32c92fb4b2f08f9a9f301de32c44d2b1e8d/manifest.mpd",
       "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
     }
   ],
