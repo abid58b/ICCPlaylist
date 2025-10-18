@@ -1,6 +1,6 @@
 {
   "Author": "Abid",
-  "Last_Updated": "11:21:58 AM 18-10-2025",
+  "Last_Updated": "11:34:16 AM 18-10-2025",
   "total_events": 1,
   "totals": {
     "live": 1,
@@ -10,11 +10,11 @@
     {
       "isStart": "Live",
       "tournament": "West Indies in Bangladesh, 3 ODI Series, 2025",
-      "title": "1st ODI, Bangladesh v West Indies (1st Innings)",
+      "title": "1st ODI, Bangladesh v West Indies (2nd Innings)",
       "date_time": "NOW",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/jc7uq1kfrq3uinmvv2ll",
-      "event_url": "https://www.icc-cricket.com/videos/1st-odi-bangladesh-v-west-indies-1st-innings",
-      "stream_data_url": "https://live-d-02-icc-ne.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1760786548~acl=/variant/v1blackout/vcg-01-d/*~hmac=3430addf541999292cab4387c0866ef8aef3f6b035dd7b8206b8411b007735f8/manifest.mpd",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/nhgo5ihjjigsmmu2k1if",
+      "event_url": "https://www.icc-cricket.com/videos/1st-odi-bangladesh-v-west-indies-2nd-innings",
+      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1760787286~acl=/variant/v1blackout/vcg-01-d/*~hmac=30a38ecd84e591ec32004056c812273487483a737c2ee32589003d93c930f2ce/manifest.mpd",
       "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
     }
   ],
