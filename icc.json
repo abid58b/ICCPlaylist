@@ -1,22 +1,32 @@
 {
   "Author": "Abid",
-  "Last_Updated": "02:53:52 PM 18-10-2025",
-  "total_events": 1,
+  "Last_Updated": "09:29:24 AM 20-10-2025",
+  "total_events": 2,
   "totals": {
-    "live": 1,
-    "upcoming": 0
+    "live": 0,
+    "upcoming": 2
   },
-  "live_events": [
+  "live_events": [],
+  "upcoming_events": [
     {
-      "isStart": "Live",
+      "isStart": "Upcoming",
       "tournament": "West Indies in Bangladesh, 3 ODI Series, 2025",
-      "title": "1st ODI, Bangladesh v West Indies (2nd Innings)",
-      "date_time": "NOW",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/nhgo5ihjjigsmmu2k1if",
-      "event_url": "https://www.icc-cricket.com/videos/1st-odi-bangladesh-v-west-indies-2nd-innings",
-      "stream_data_url": "https://dvr-d-01-icc-we.akamaized.net/Content/DASH/LLCU/1d75db72-1c07-4ee5-8e1f-40bdec6de657/manifest.mpdhdntl=exp=1760799261~acl=/Content/DASH/LLCU/1d75db72-1c07-4ee5-8e1f-40bdec6de657/*~hmac=ed8514b88ff169a7783c322f698d58f3639af64952b645e1e3a9947dd58eb0c6/manifest.mpd",
-      "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
+      "title": "2nd ODI, Bangladesh v West Indies (1st Innings)",
+      "date_time": "07:00, 21/10/2025",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/mosffoouegyilpqigulj",
+      "event_url": "#",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "West Indies in Bangladesh, 3 ODI Series, 2025",
+      "title": "2nd ODI, Bangladesh v West Indies (2nd Innings)",
+      "date_time": "11:00, 21/10/2025",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/hb0onpcwxjd3trqzadi8",
+      "event_url": "#",
+      "stream_data_url": "",
+      "drm_key": ""
     }
-  ],
-  "upcoming_events": []
+  ]
 }
