@@ -1,2 +1,5 @@
 #EXTM3U
-
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
+#EXTINF:-1 tvg-id="ts246" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/nhgo5ihjjigsmmu2k1if" group-title="Live",1st ODI, Bangladesh v West Indies (2nd Innings)
+https://dvr-d-01-icc-we.akamaized.net/Content/DASH/LLCU/1d75db72-1c07-4ee5-8e1f-40bdec6de657/manifest.mpdhdntl=exp=1760799261~acl=/Content/DASH/LLCU/1d75db72-1c07-4ee5-8e1f-40bdec6de657/*~hmac=ed8514b88ff169a7783c322f698d58f3639af64952b645e1e3a9947dd58eb0c6/manifest.mpd
