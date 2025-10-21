@@ -1,30 +1,590 @@
 {
   "Author": "Abid",
-  "Last_Updated": "05:35:53 AM 21-10-2025",
-  "total_events": 2,
+  "Last_Updated": "05:50:57 AM 21-10-2025",
+  "total_events": 58,
   "totals": {
     "live": 0,
-    "upcoming": 2
+    "upcoming": 58
   },
   "live_events": [],
   "upcoming_events": [
     {
       "isStart": "Upcoming",
-      "tournament": "West Indies in Bangladesh, 3 ODI Series, 2025",
-      "title": "2nd ODI, Bangladesh v West Indies (1st Innings)",
-      "date_time": "07:00, 21/10/2025",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/mosffoouegyilpqigulj",
-      "event_url": "#",
+      "tournament": "ICC Women's Cricket World Cup, 2025",
+      "title": "Sri Lanka clinch sensational CWC25 win against Bangladesh",
+      "date_time": "Date/Time Nahi Mila",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/wqw76igicpf6gooy879u",
+      "event_url": "https://www.icc-cricket.com/tournaments/womens-cricket-worldcup-2025/news/live-must-win-cwc25-battle-between-sri-lanka-and-bangladesh",
       "stream_data_url": "",
       "drm_key": ""
     },
     {
       "isStart": "Upcoming",
-      "tournament": "West Indies in Bangladesh, 3 ODI Series, 2025",
-      "title": "2nd ODI, Bangladesh v West Indies (2nd Innings)",
-      "date_time": "11:00, 21/10/2025",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/hb0onpcwxjd3trqzadi8",
-      "event_url": "#",
+      "tournament": "ICC Women's Cricket World Cup, 2025",
+      "title": "Hasini Perera's resolute knock | Aramco POTM Highlights | CWC25",
+      "date_time": "Date/Time Nahi Mila",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/pag5qwkbfsz9upvjvurf",
+      "event_url": "https://www.icc-cricket.com/tournaments/womens-cricket-worldcup-2025/videos/hasini-perera-s-resolute-knock-aramco-potm-highlights-cwc25",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC Women's Cricket World Cup, 2025",
+      "title": "Athapaththu wins it for Sri Lanka in the final over | CWC25",
+      "date_time": "Date/Time Nahi Mila",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/vcyep16kvpzkxc0crbao",
+      "event_url": "https://www.icc-cricket.com/tournaments/womens-cricket-worldcup-2025/videos/athapaththu-wins-it-for-sri-lanka-in-the-final-over-cwc25",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC Women's Cricket World Cup, 2025",
+      "title": "State of Play: Three CWC25 semi-final spots locked in",
+      "date_time": "Date/Time Nahi Mila",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/pqmd4auebae1pdq8ybwb",
+      "event_url": "https://www.icc-cricket.com/tournaments/womens-cricket-worldcup-2025/news/state-of-play-race-for-semi-finals-hots-up-at-world-cup",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC Women's Cricket World Cup, 2025",
+      "title": "Nigar Sultana Joty's valiant innings | Player Highlights | CWC25",
+      "date_time": "Date/Time Nahi Mila",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/qsjifly3ywmd7bxbn8le",
+      "event_url": "https://www.icc-cricket.com/tournaments/womens-cricket-worldcup-2025/videos/cwc25-sl-ban-nigar-batting-playerhls",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC Women's Cricket World Cup, 2025",
+      "title": "Sri Lanka pull off a sensational win | CWC25",
+      "date_time": "Date/Time Nahi Mila",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/wqw76igicpf6gooy879u",
+      "event_url": "https://www.icc-cricket.com/tournaments/womens-cricket-worldcup-2025/videos/sri-lanka-pull-off-a-sensational-win-cwc25",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC Women's Cricket World Cup, 2025",
+      "title": "Injury scare for Bangladesh in CWC25 contest against Sri Lanka",
+      "date_time": "Date/Time Nahi Mila",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/neig5h3bfocunkto1sqr",
+      "event_url": "https://www.icc-cricket.com/tournaments/womens-cricket-worldcup-2025/news/injury-scare-for-bangladesh-in-cwc25-contest-against-sri-lanka",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC Women's Cricket World Cup, 2025",
+      "title": "A freak stumping for Bangladesh | CWC25",
+      "date_time": "Date/Time Nahi Mila",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/z2jslkcpjknbwos7krxl",
+      "event_url": "https://www.icc-cricket.com/tournaments/womens-cricket-worldcup-2025/videos/a-freak-stumping-for-bangladesh-cwc25",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC Women's Cricket World Cup, 2025",
+      "title": "Smriti takes blame for loss, India turn focus to New Zealand",
+      "date_time": "Date/Time Nahi Mila",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/xxii3n3t7x9hbul8t9mj",
+      "event_url": "https://www.icc-cricket.com/tournaments/womens-cricket-worldcup-2025/news/smriti-takes-blame-for-loss-india-turn-focus-to-new-zealand",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC Women's Cricket World Cup, 2025",
+      "title": "Sri Lanka script blockbuster win over Bangladesh | Match Highlights | CWC25",
+      "date_time": "Date/Time Nahi Mila",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/l2uuduzxe8mjscykciny",
+      "event_url": "https://www.icc-cricket.com/tournaments/womens-cricket-worldcup-2025/videos/sri-lanka-script-blockbuster-win-over-bangladesh-match-highlights-cwc25",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC Women's Cricket World Cup, 2025",
+      "title": "England hold nerve to beat India in thriller | Match Highlights | CWC25",
+      "date_time": "Date/Time Nahi Mila",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/cim5a9xvufzzuraytnbp",
+      "event_url": "https://www.icc-cricket.com/tournaments/womens-cricket-worldcup-2025/videos/england-hold-nerve-to-beat-india-in-thriller-match-highlights-cwc25",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC Women's Cricket World Cup, 2025",
+      "title": "An impressive White Ferns display before rain abandons play | Match Highlights | CWC25",
+      "date_time": "Date/Time Nahi Mila",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/rfn9ogz6a95yi6uj42dp",
+      "event_url": "https://www.icc-cricket.com/tournaments/womens-cricket-worldcup-2025/videos/cwc25-nz-pak-match-highlights",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC Women's Cricket World Cup, 2025",
+      "title": "South Africa breeze past Sri Lanka | Match Highlights | CWC25",
+      "date_time": "Date/Time Nahi Mila",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/v6zkvp1rtynb9fx6vavx",
+      "event_url": "https://www.icc-cricket.com/tournaments/womens-cricket-worldcup-2025/videos/south-africa-breeze-past-sri-lanka-match-highlights-cwc25",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC Women's Cricket World Cup, 2025",
+      "title": "Australia storm into semi-finals with a huge win | Match Highlights | CWC25",
+      "date_time": "Date/Time Nahi Mila",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/ofwrcaenyn8d2wjdtkgx",
+      "event_url": "https://www.icc-cricket.com/tournaments/womens-cricket-worldcup-2025/videos/australia-storm-to-the-semi-final-match-highlights-cwc25",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC Women's Cricket World Cup, 2025",
+      "title": "Prolific Pakistan display but rain has final say | Match Highlights | CWC25",
+      "date_time": "Date/Time Nahi Mila",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/gjmdssagcsis7zguz1gh",
+      "event_url": "https://www.icc-cricket.com/tournaments/womens-cricket-worldcup-2025/videos/prolific-pakistan-display-but-rain-has-final-say-match-highlights-cwc25",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC Women's Cricket World Cup, 2025",
+      "title": "Sri Lanka's batting display marred by rain | Match Highlights | CWC25",
+      "date_time": "Date/Time Nahi Mila",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/gxlgekq0ubztn8c54xp1",
+      "event_url": "https://www.icc-cricket.com/tournaments/womens-cricket-worldcup-2025/videos/sri-lanka-batting-display-marred-by-rain-match-highlights-cwc25",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC Women's Cricket World Cup, 2025",
+      "title": "South Africa clinch nail-biter against Bangladesh | Match Highlights | CWC25",
+      "date_time": "Date/Time Nahi Mila",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/bqzqb3hrxqjrsjoopkhx",
+      "event_url": "https://www.icc-cricket.com/tournaments/womens-cricket-worldcup-2025/videos/south-africa-clinch-nail-biter-against-bangladesh-match-highlights-cwc25",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC Women's Cricket World Cup, 2025",
+      "title": "Australia clinch record chase to overcome India | Match Highlights | CWC25",
+      "date_time": "Date/Time Nahi Mila",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/ncqtx8hjhismzof3yvah",
+      "event_url": "https://www.icc-cricket.com/tournaments/womens-cricket-worldcup-2025/videos/australia-clinch-record-chase-to-overcome-india-match-highlights-cwc25",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC Women's Cricket World Cup, 2025",
+      "title": "England power past Sri Lanka | Match Highlights | CWC25",
+      "date_time": "Date/Time Nahi Mila",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/pm9t2dieelumwthqfyoc",
+      "event_url": "https://www.icc-cricket.com/tournaments/womens-cricket-worldcup-2025/videos/england-power-past-sri-lanka-match-highlights-cwc25",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "Dominic Hendricks 11/07/1990",
+      "title": "Relive the dramatic final over from Sri Lanka's victory over Bangladesh | CWC25",
+      "date_time": "Date/Time Nahi Mila",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/fhtnyuysbxrhwnik2bk1",
+      "event_url": "https://www.icc-cricket.com/tournaments/womens-cricket-worldcup-2025/videos/final-over-thriller-slvban",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC Women's Cricket World Cup, 2025",
+      "title": "Chamari details plan behind match-winning over | Post-match Press Conference | CWC25",
+      "date_time": "Date/Time Nahi Mila",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/o9kiv1nwdx0puxwunn8p",
+      "event_url": "https://www.icc-cricket.com/tournaments/womens-cricket-worldcup-2025/videos/chamari-details-plan-behind-match-winning-over-post-match-press-conference-cwc25",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC Women's Cricket World Cup, 2025",
+      "title": "Sultana Joty rues late Bangladesh collapse | Post-match Press Conference | CWC25",
+      "date_time": "Date/Time Nahi Mila",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/mrufmywjdxh9vva1zdbp",
+      "event_url": "https://www.icc-cricket.com/tournaments/womens-cricket-worldcup-2025/videos/sultana-joty-rues-late-bangladesh-collapse-post-match-press-conference-cwc25",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC Women's Cricket World Cup, 2025",
+      "title": "Pakistan well-prepared for Proteas encounter, says Shamim | Pre-Match Press Conference | CWC25",
+      "date_time": "Date/Time Nahi Mila",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/fynxeahg0wbi5ewl0hea",
+      "event_url": "https://www.icc-cricket.com/tournaments/womens-cricket-worldcup-2025/videos/pakistan-well-prepared-for-proteas-encounter-says-shamim-pre-match-press-conference-cwc25",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC Women's Cricket World Cup, 2025",
+      "title": "Hasini Perera's resolute knock | Aramco POTM Highlights | CWC25",
+      "date_time": "Date/Time Nahi Mila",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/pag5qwkbfsz9upvjvurf",
+      "event_url": "https://www.icc-cricket.com/tournaments/womens-cricket-worldcup-2025/videos/hasini-perera-s-resolute-knock-aramco-potm-highlights-cwc25",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC Women's Cricket World Cup, 2025",
+      "title": "Nigar Sultana Joty's valiant innings | Player Highlights | CWC25",
+      "date_time": "Date/Time Nahi Mila",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/qsjifly3ywmd7bxbn8le",
+      "event_url": "https://www.icc-cricket.com/tournaments/womens-cricket-worldcup-2025/videos/cwc25-sl-ban-nigar-batting-playerhls",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC Women's Cricket World Cup, 2025",
+      "title": "Sri Lanka script blockbuster win over Bangladesh | Match Highlights | CWC25",
+      "date_time": "Date/Time Nahi Mila",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/l2uuduzxe8mjscykciny",
+      "event_url": "https://www.icc-cricket.com/tournaments/womens-cricket-worldcup-2025/videos/sri-lanka-script-blockbuster-win-over-bangladesh-match-highlights-cwc25",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC Women's Cricket World Cup, 2025",
+      "title": "Athapaththu wins it for Sri Lanka in the final over | CWC25",
+      "date_time": "Date/Time Nahi Mila",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/vcyep16kvpzkxc0crbao",
+      "event_url": "https://www.icc-cricket.com/tournaments/womens-cricket-worldcup-2025/videos/athapaththu-wins-it-for-sri-lanka-in-the-final-over-cwc25",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC Women's Cricket World Cup, 2025",
+      "title": "Sri Lanka pull off a sensational win | CWC25",
+      "date_time": "Date/Time Nahi Mila",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/wqw76igicpf6gooy879u",
+      "event_url": "https://www.icc-cricket.com/tournaments/womens-cricket-worldcup-2025/videos/sri-lanka-pull-off-a-sensational-win-cwc25",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC Women's Cricket World Cup, 2025",
+      "title": "Another twist in the Sri Lanka - Bangladesh encounter | CWC25",
+      "date_time": "Date/Time Nahi Mila",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/cixjvl2yoqxq0sdzn1ze",
+      "event_url": "https://www.icc-cricket.com/tournaments/womens-cricket-worldcup-2025/videos/another-twist-in-the-sri-lanka-bangladesh-encounter-cwc25",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC Women's Cricket World Cup, 2025",
+      "title": "Chamari details plan behind match-winning over | Post-match Press Conference | CWC25",
+      "date_time": "Date/Time Nahi Mila",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/o9kiv1nwdx0puxwunn8p",
+      "event_url": "https://www.icc-cricket.com/tournaments/womens-cricket-worldcup-2025/videos/chamari-details-plan-behind-match-winning-over-post-match-press-conference-cwc25",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC Women's Cricket World Cup, 2025",
+      "title": "Sultana Joty rues late Bangladesh collapse | Post-match Press Conference | CWC25",
+      "date_time": "Date/Time Nahi Mila",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/mrufmywjdxh9vva1zdbp",
+      "event_url": "https://www.icc-cricket.com/tournaments/womens-cricket-worldcup-2025/videos/sultana-joty-rues-late-bangladesh-collapse-post-match-press-conference-cwc25",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC Women's Cricket World Cup, 2025",
+      "title": "Pakistan well-prepared for Proteas encounter, says Shamim | Pre-Match Press Conference | CWC25",
+      "date_time": "Date/Time Nahi Mila",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/fynxeahg0wbi5ewl0hea",
+      "event_url": "https://www.icc-cricket.com/tournaments/womens-cricket-worldcup-2025/videos/pakistan-well-prepared-for-proteas-encounter-says-shamim-pre-match-press-conference-cwc25",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC Women's Cricket World Cup, 2025",
+      "title": "South Africa looking to stick to basics against Pakistan | Pre-match Press Conference | CWC25",
+      "date_time": "Date/Time Nahi Mila",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/e19mwarmy9ac7pdtlgev",
+      "event_url": "https://www.icc-cricket.com/tournaments/womens-cricket-worldcup-2025/videos/south-africa-looking-to-stick-to-basics-against-pakistan-pre-match-press-conference-cwc25",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC Women's Cricket World Cup, 2025",
+      "title": "Shot selection a concern for Smriti Mandhana | Post-match Press Conference | CWC25",
+      "date_time": "Date/Time Nahi Mila",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/ces1lztrx6ygbivayrc2",
+      "event_url": "https://www.icc-cricket.com/tournaments/womens-cricket-worldcup-2025/videos/shot-selection-a-concern-for-smriti-mandhana-post-match-press-conference-cwc25",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC Women's Cricket World Cup, 2025",
+      "title": "Knight thrilled at England performance | Post-match Press Conference | CWC25",
+      "date_time": "Date/Time Nahi Mila",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/yvxwvd8jlmuntpumfdef",
+      "event_url": "https://www.icc-cricket.com/tournaments/womens-cricket-worldcup-2025/videos/knight-thrilled-at-england-performance-post-match-press-conference-cwc25",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC Women's Cricket World Cup, 2025",
+      "title": "Bangladesh optimistic ahead of Sri Lanka challenge, says Fahima Khatun | Pre-Match Press Conference | CWC25",
+      "date_time": "Date/Time Nahi Mila",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/aeofojfwplzci4iid6uc",
+      "event_url": "https://www.icc-cricket.com/tournaments/womens-cricket-worldcup-2025/videos/bangladesh-optimistic-ahead-of-sri-lanka-challenge-says-fahima-khatun-pre-match-press-conference-cwc25",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC Women's Cricket World Cup, 2025",
+      "title": "Sri Lanka prepared both mentally and tactically against Bangladesh | Pre-match Press Conference | CWC25",
+      "date_time": "Date/Time Nahi Mila",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/hnkshczcqodivw65f249",
+      "event_url": "https://www.icc-cricket.com/tournaments/womens-cricket-worldcup-2025/videos/sri-lanka-prepared-both-mentally-and-tactically-against-bangladesh-pre-match-press-conference-cwc25",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC Women's Cricket World Cup, 2025",
+      "title": "Deepti and India eye bounce back against England | Pre-Match Press Conference | CWC25",
+      "date_time": "Date/Time Nahi Mila",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/nckgmflla3kwns78cmsq",
+      "event_url": "https://www.icc-cricket.com/tournaments/womens-cricket-worldcup-2025/videos/deepti-and-india-eye-bounce-back-against-england-pre-match-press-conference-cwc25",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC Women's Cricket World Cup, 2025",
+      "title": "England prepared for the massive clash against India | Pre-Match Press Conference | CWC25",
+      "date_time": "Date/Time Nahi Mila",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/qgkhic8tx5kpodp6f6rq",
+      "event_url": "https://www.icc-cricket.com/tournaments/womens-cricket-worldcup-2025/videos/england-prepared-for-the-massive-clash-against-india-pre-match-press-conference-cwc25",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC Women's Cricket World Cup, 2025",
+      "title": "Pakistan face South Africa in a must-win encounter | Will To Win Preview Show | CWC25",
+      "date_time": "Date/Time Nahi Mila",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/jlhitve1m4ex6pa4sdyj",
+      "event_url": "https://www.icc-cricket.com/tournaments/womens-cricket-worldcup-2025/videos/pakistan-face-south-africa-in-a-must-win-encounter-will-to-win-preview-show-cwc25",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC Women's Cricket World Cup, 2025",
+      "title": "Sri Lanka and Bangladesh clash in a crunch encounter | Will To Win Preview Show | CWC25",
+      "date_time": "Date/Time Nahi Mila",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/dqm7mtaedchntdbrpbm2",
+      "event_url": "https://www.icc-cricket.com/tournaments/womens-cricket-worldcup-2025/videos/sri-lanka-and-bangladesh-clash-in-a-crunch-encounter-will-to-win-preview-show-cwc25",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC Women's Cricket World Cup, 2025",
+      "title": "India looking to keep semi-final hopes alive | Will To Win Preview Show | CWC25",
+      "date_time": "Date/Time Nahi Mila",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/ynjb4td4puqfziinsn27",
+      "event_url": "https://www.icc-cricket.com/tournaments/womens-cricket-worldcup-2025/videos/india-looking-to-keep-semi-final-hopes-alive-will-to-win-preview-show-cwc25",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC Women's Cricket World Cup, 2025",
+      "title": "An enthralling contest in store between New Zealand and Pakistan | Will To Win Preview Show | CWC25",
+      "date_time": "Date/Time Nahi Mila",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/tq7qgcocq6of22s1xjod",
+      "event_url": "https://www.icc-cricket.com/tournaments/womens-cricket-worldcup-2025/videos/an-enthralling-contest-in-store-between-new-zealand-and-pakistan-cwc25",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC Women's Cricket World Cup, 2025",
+      "title": "Sri Lanka lock horns with South Africa | Will To Win Preview Show | CWC25",
+      "date_time": "Date/Time Nahi Mila",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/canzksvimu634kjkgmee",
+      "event_url": "https://www.icc-cricket.com/tournaments/womens-cricket-worldcup-2025/videos/sri-lanka-lock-horns-with-south-africa-will-to-win-preview-show-cwc25",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC Women's Cricket World Cup, 2025",
+      "title": "Unbeaten Australia face the Bangladesh challenge  | Will To Win Preview Show | CWC25",
+      "date_time": "Date/Time Nahi Mila",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/eppfmiqhjkq3tquus6ko",
+      "event_url": "https://www.icc-cricket.com/tournaments/womens-cricket-worldcup-2025/videos/unbeaten-australia-face-the-bangladesh-challenge-will-to-win-preview-show-cwc25",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC Women's Cricket World Cup, 2025",
+      "title": "Pakistan brace for England juggernaut | Will To Win Preview Show | CWC25",
+      "date_time": "Date/Time Nahi Mila",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/hvxmrytbromrjyk4841o",
+      "event_url": "https://www.icc-cricket.com/tournaments/womens-cricket-worldcup-2025/videos/pakistan-brace-for-england-juggernaut-will-to-win-preview-show-cwc25",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC Women's Cricket World Cup, 2025",
+      "title": "A gripping tussle awaits between New Zealand and Sri Lanka  | Will To Win Preview Show | CWC25",
+      "date_time": "Date/Time Nahi Mila",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/goroxwps1x7uzwpequwk",
+      "event_url": "https://www.icc-cricket.com/tournaments/womens-cricket-worldcup-2025/videos/new-zealand-lock-horns-with-sri-lanka-will-to-win-preview-show-cwc25",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC Women's Cricket World Cup, 2025",
+      "title": "South Africa and Bangladesh lock horns | Will To Win Preview Show | CWC25",
+      "date_time": "Date/Time Nahi Mila",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/dsd0ro1iidkuqitsuuin",
+      "event_url": "https://www.icc-cricket.com/tournaments/womens-cricket-worldcup-2025/videos/south-africa-and-bangladesh-set-lock-horns-will-to-win-preview-show-cwc25",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC Women's Cricket World Cup, 2025",
+      "title": "A mouth-watering clash between India and Australia awaits | Will To Win Preview Show | CWC25",
+      "date_time": "Date/Time Nahi Mila",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/cshuo6m4ukqghxuotltb",
+      "event_url": "https://www.icc-cricket.com/tournaments/womens-cricket-worldcup-2025/videos/a-mouth-watering-clash-between-india-and-australia-awaits-will-to-win-preview-show-cwc25",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC Women's Cricket World Cup, 2025",
+      "title": "Injury scare for Bangladesh in CWC25 contest against Sri Lanka",
+      "date_time": "Date/Time Nahi Mila",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio1_1-size40-webp/prd/neig5h3bfocunkto1sqr",
+      "event_url": "https://www.icc-cricket.com/tournaments/womens-cricket-worldcup-2025/news/injury-scare-for-bangladesh-in-cwc25-contest-against-sri-lanka",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC Women's Cricket World Cup, 2025",
+      "title": "Sri Lanka clinch sensational CWC25 win against Bangladesh",
+      "date_time": "Date/Time Nahi Mila",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio1_1-size40-webp/prd/wqw76igicpf6gooy879u",
+      "event_url": "https://www.icc-cricket.com/tournaments/womens-cricket-worldcup-2025/news/live-must-win-cwc25-battle-between-sri-lanka-and-bangladesh",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC Women's Cricket World Cup, 2025",
+      "title": "'Rubbish year' a thing of the past as Knight rises once more",
+      "date_time": "Date/Time Nahi Mila",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio1_1-size40-webp/prd/w2yyczpgxwffcni3cfgk",
+      "event_url": "https://www.icc-cricket.com/tournaments/womens-cricket-worldcup-2025/news/rubbish-year-a-thing-of-the-past-as-knight-rises-once-more",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC Women's Cricket World Cup, 2025",
+      "title": "Smriti takes blame for loss, India turn focus to New Zealand",
+      "date_time": "Date/Time Nahi Mila",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio1_1-size40-webp/prd/xxii3n3t7x9hbul8t9mj",
+      "event_url": "https://www.icc-cricket.com/tournaments/womens-cricket-worldcup-2025/news/smriti-takes-blame-for-loss-india-turn-focus-to-new-zealand",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC Women's Cricket World Cup, 2025",
+      "title": "England seal CWC25 semi-finals spot with win over India",
+      "date_time": "Date/Time Nahi Mila",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio1_1-size40-webp/prd/cmrctyx48dljqamwhx2k",
+      "event_url": "https://www.icc-cricket.com/tournaments/womens-cricket-worldcup-2025/news/live-star-batter-makes-way-as-india-play-england-in-cwc25",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC Women's Cricket World Cup, 2025",
+      "title": "Morale remains high as India plots England victory in Indore",
+      "date_time": "Date/Time Nahi Mila",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio1_1-size40-webp/prd/p8mlag8yw6keeigbaoxn",
+      "event_url": "https://www.icc-cricket.com/tournaments/womens-cricket-worldcup-2025/news/morale-remains-high-as-india-plot-england-victory-in-indore",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC Women's Cricket World Cup, 2025",
+      "title": "Sri Lanka script blockbuster win over Bangladesh | Match Highlights | CWC25",
+      "date_time": "Date/Time Nahi Mila",
+      "image_url": "Tasveer Nahi Mili",
+      "event_url": "https://www.icc-cricket.com/tournaments/womens-cricket-worldcup-2025/videos/sri-lanka-script-blockbuster-win-over-bangladesh-match-highlights-cwc25",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC Women's Cricket World Cup, 2025",
+      "title": "Sri Lanka clinch sensational CWC25 win against Bangladesh",
+      "date_time": "Date/Time Nahi Mila",
+      "image_url": "Tasveer Nahi Mili",
+      "event_url": "https://www.icc-cricket.com/tournaments/womens-cricket-worldcup-2025/news/live-must-win-cwc25-battle-between-sri-lanka-and-bangladesh",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC Women's Cricket World Cup, 2025",
+      "title": "Hasini Perera's resolute knock | Aramco POTM Highlights | CWC25",
+      "date_time": "Date/Time Nahi Mila",
+      "image_url": "Tasveer Nahi Mili",
+      "event_url": "https://www.icc-cricket.com/tournaments/womens-cricket-worldcup-2025/videos/hasini-perera-s-resolute-knock-aramco-potm-highlights-cwc25",
       "stream_data_url": "",
       "drm_key": ""
     }
