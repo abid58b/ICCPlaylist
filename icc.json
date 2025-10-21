@@ -1,23 +1,12 @@
 {
   "Author": "Abid",
-  "Last_Updated": "03:46:43 PM 21-10-2025",
-  "total_events": 3,
+  "Last_Updated": "03:59:28 PM 21-10-2025",
+  "total_events": 2,
   "totals": {
-    "live": 1,
+    "live": 0,
     "upcoming": 2
   },
-  "live_events": [
-    {
-      "isStart": "Live",
-      "tournament": "West Indies in Bangladesh, 3 ODI Series, 2025",
-      "title": "2nd ODI, Bangladesh v West Indies (2nd Innings)",
-      "date_time": "NOW",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/hb0onpcwxjd3trqzadi8",
-      "event_url": "https://www.icc-cricket.com/videos/2nd-odi-bangladesh-v-west-indies-2nd-innings",
-      "stream_data_url": "MPD Link Nahi Mila",
-      "drm_key": "DRM Key Nahi Mili"
-    }
-  ],
+  "live_events": [],
   "upcoming_events": [
     {
       "isStart": "Upcoming",
