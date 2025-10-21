@@ -1,6 +1,6 @@
 {
   "Author": "Abid",
-  "Last_Updated": "01:53:06 PM 21-10-2025",
+  "Last_Updated": "02:24:05 PM 21-10-2025",
   "total_events": 3,
   "totals": {
     "live": 1,
@@ -14,7 +14,7 @@
       "date_time": "NOW",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/hb0onpcwxjd3trqzadi8",
       "event_url": "https://www.icc-cricket.com/videos/2nd-odi-bangladesh-v-west-indies-2nd-innings",
-      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1761054816~acl=/variant/v1blackout/vcg-01-d/*~hmac=ec9317fe047dd6e54aae9019630dbb27d2ccb5c0028ae0f72a28467de2ce0ecb/manifest.mpd",
+      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1761056675~acl=/variant/v1blackout/vcg-01-d/*~hmac=919ff157d0333d111846cd5fb772900b477cf4918fa8f9cc0d19fb57ab7e0ab9/manifest.mpd",
       "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
     }
   ],
