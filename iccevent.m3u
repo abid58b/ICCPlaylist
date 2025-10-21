@@ -3,14 +3,14 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-04)/manifest.mpd?hdnts=st=1761048022~exp=1761048062~acl=/variant/v1blackout/vcg-01-d/*~hmac=d1a89ac7623586c1bfea27d5876940cbf7bb59d7959845f8fc54af773ecd240b&hdcore=2.11.3
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-04)/manifest.mpd?hdnts=st=1761049815~exp=1761049855~acl=/variant/v1blackout/vcg-01-d/*~hmac=de544620045a3a785dee097c54a2f351310c9ff861e392074011056f4d6b4151&hdcore=2.11.3
 #EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/prd/hb0onpcwxjd3trqzadi8" group-title="Live",BAN vs WI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/manifest.mpd?hdnts=st=1761048023~exp=1761048063~acl=/variant/v1blackout/vcg-01-d/*~hmac=a71d5338da84469b3335081aa6f5389e6a968393969738062b608edad923e9f8&hdcore=2.11.3
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/manifest.mpd?hdnts=st=1761049815~exp=1761049855~acl=/variant/v1blackout/vcg-01-d/*~hmac=de544620045a3a785dee097c54a2f351310c9ff861e392074011056f4d6b4151&hdcore=2.11.3
 #EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/v1761034899/prd/jwcxcyyowxlb5dpt7dqi" group-title="Live",SA vs PAK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/manifest.mpd?hdnts=st=1761048023~exp=1761048063~acl=/variant/v1blackout/vcg-01-d/*~hmac=a71d5338da84469b3335081aa6f5389e6a968393969738062b608edad923e9f8&hdcore=2.11.3
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/manifest.mpd?hdnts=st=1761049816~exp=1761049856~acl=/variant/v1blackout/vcg-01-d/*~hmac=301d3b2d19f3c9763539c6e3a25d104738e7923c864ef0700ec99eea6c8c375e&hdcore=2.11.3
