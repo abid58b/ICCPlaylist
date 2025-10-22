@@ -1,10 +1,10 @@
 {
   "Author": "Abid",
-  "Last_Updated": "01:00:55 PM 22-10-2025",
-  "total_events": 2,
+  "Last_Updated": "01:41:56 PM 22-10-2025",
+  "total_events": 3,
   "totals": {
     "live": 0,
-    "upcoming": 2
+    "upcoming": 3
   },
   "live_events": [],
   "upcoming_events": [
@@ -24,6 +24,16 @@
       "title": "3rd ODI, Bangladesh v West Indies (2nd Innings)",
       "date_time": "11:00, 23/10/2025",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/uiaq8zartodrep6ofmwp",
+      "event_url": "#",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC CWC League 2, 2023-27",
+      "title": "Nepal v USA (1st Innings)",
+      "date_time": "05:30, 26/10/2025",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/lvmcsccqcn3mhnksdltv",
       "event_url": "#",
       "stream_data_url": "",
       "drm_key": ""
