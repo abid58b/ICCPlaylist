@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/v1761116964/prd/tmk3gsh4e2nxs5afxnpv" group-title="Live",AUS vs ENG
+#EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/prd/onrlil1yz4qcibfwfhbf" group-title="Live",AUS vs ENG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/hdntl=exp=1761166323~acl=/variant/v1blackout/vcg-01-d/*~data=hdntl~hmac=ab4f5b2e2525e532fb031cfc687f32fea0454c3b1a884ce030a3edcd64a461e4/manifest.mpd
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/manifest.mpd?hdnts=st=1761139825~exp=1761139865~acl=/variant/v1blackout/vcg-01-d/*~hmac=8b4b106cd091832af71ed231dd339e219e21d89fdf8747dda3d7e36dee7859a9&hdcore=2.11.3
