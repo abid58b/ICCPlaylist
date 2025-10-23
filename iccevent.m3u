@@ -3,9 +3,9 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/manifest.mpd?hdnts=st=1761215413~exp=1761215453~acl=/variant/v1blackout/vcg-01-d/*~hmac=de2734f5e16e4b43638d8e836b48c00bdf9f88847bfcded416e17c165fc98f30&hdcore=2.11.3
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/manifest.mpd?hdnts=st=1761215145~exp=1761215185~acl=/variant/v1blackout/vcg-01-d/*~hmac=368c8290c9e3941f88513a2c4dbd65effeb7e0204db2cdd7037e1b3a4894dab2&hdcore=2.11.3
 #EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/v1761207182/prd/zr21afrjbihsqudjnmvj" group-title="Live",IND vs NZ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/manifest.mpd?hdnts=st=1761215413~exp=1761215453~acl=/variant/v1blackout/vcg-01-d/*~hmac=de2734f5e16e4b43638d8e836b48c00bdf9f88847bfcded416e17c165fc98f30&hdcore=2.11.3
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/manifest.mpd?hdnts=st=1761215145~exp=1761215185~acl=/variant/v1blackout/vcg-01-d/*~hmac=368c8290c9e3941f88513a2c4dbd65effeb7e0204db2cdd7037e1b3a4894dab2&hdcore=2.11.3
