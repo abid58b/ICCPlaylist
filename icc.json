@@ -1,6 +1,6 @@
 {
   "Author": "Abid",
-  "Last_Updated": "10:47:50 AM 23-10-2025",
+  "Last_Updated": "11:00:44 AM 23-10-2025",
   "total_events": 4,
   "totals": {
     "live": 1,
@@ -14,7 +14,7 @@
       "date_time": "NOW",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/kry0ziqxril1cw1k7r4j",
       "event_url": "https://www.icc-cricket.com/videos/3rd-odi-bangladesh-v-west-indies-1st-innings",
-      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1761216500~acl=/variant/v1blackout/vcg-01-d/*~hmac=82d6be9f3e409845b68cf6d44ec244e65d063de2109482d309472bb566d66ecd/manifest.mpd",
+      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1761217274~acl=/variant/v1blackout/vcg-01-d/*~hmac=d116f6d93e94a206fe43a6b66c0abc1db15743ff970d29ae23e309a9b52bf1d5/manifest.mpd",
       "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
     }
   ],
