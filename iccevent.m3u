@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/prd/uiaq8zartodrep6ofmwp" group-title="Live",BAN vs WI
+#EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/prd/an4z9bhfwawtcyo1zz3w" group-title="Live",IND vs NZ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/manifest.mpd?hdnts=st=1761228024~exp=1761228064~acl=/variant/v1blackout/vcg-01-d/*~hmac=7f3ec68bdfe0f69dd7ae50cf142dd7e316a02aff08b4da978b64e0117bb9f7cd&hdcore=2.11.3
-#EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/v1761207182/prd/zr21afrjbihsqudjnmvj" group-title="Live",IND vs NZ
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/manifest.mpd?hdnts=st=1761229817~exp=1761229857~acl=/variant/v1blackout/vcg-01-d/*~hmac=b0db60ea80814cda0f11f454450841cc1b634ba08a4591b1094a95397366789a&hdcore=2.11.3
+#EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/prd/an4z9bhfwawtcyo1zz3w" group-title="Live",IND vs NZ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/manifest.mpd?hdnts=st=1761228024~exp=1761228064~acl=/variant/v1blackout/vcg-01-d/*~hmac=7f3ec68bdfe0f69dd7ae50cf142dd7e316a02aff08b4da978b64e0117bb9f7cd&hdcore=2.11.3
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/manifest.mpd?hdnts=st=1761229817~exp=1761229857~acl=/variant/v1blackout/vcg-01-d/*~hmac=b0db60ea80814cda0f11f454450841cc1b634ba08a4591b1094a95397366789a&hdcore=2.11.3
