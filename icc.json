@@ -1,34 +1,24 @@
 {
   "Author": "Abid",
-  "Last_Updated": "11:24:41 AM 23-10-2025",
-  "total_events": 4,
+  "Last_Updated": "11:41:45 AM 23-10-2025",
+  "total_events": 3,
   "totals": {
     "live": 1,
-    "upcoming": 3
+    "upcoming": 2
   },
   "live_events": [
     {
       "isStart": "Live",
       "tournament": "West Indies in Bangladesh, 3 ODI Series, 2025",
-      "title": "3rd ODI, Bangladesh v West Indies (1st Innings)",
+      "title": "3rd ODI, Bangladesh v West Indies (2nd Innings)",
       "date_time": "NOW",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/kry0ziqxril1cw1k7r4j",
-      "event_url": "https://www.icc-cricket.com/videos/3rd-odi-bangladesh-v-west-indies-1st-innings",
-      "stream_data_url": "MPD Link Nahi Mila",
-      "drm_key": "DRM Key Nahi Mili"
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/uiaq8zartodrep6ofmwp",
+      "event_url": "https://www.icc-cricket.com/videos/3rd-odi-bangladesh-v-west-indies-2nd-innings",
+      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1761219735~acl=/variant/v1blackout/vcg-01-d/*~hmac=c3f08fcce8c819455129c31c41a999cd4772553a80b575df2e907d8760e621fe/manifest.mpd",
+      "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
     }
   ],
   "upcoming_events": [
-    {
-      "isStart": "Upcoming",
-      "tournament": "West Indies in Bangladesh, 3 ODI Series, 2025",
-      "title": "3rd ODI, Bangladesh v West Indies (2nd Innings)",
-      "date_time": "11:00, 23/10/2025",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/uiaq8zartodrep6ofmwp",
-      "event_url": "#",
-      "stream_data_url": "",
-      "drm_key": ""
-    },
     {
       "isStart": "Upcoming",
       "tournament": "ICC CWC League 2, 2023-27",
