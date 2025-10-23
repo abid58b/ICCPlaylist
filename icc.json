@@ -1,23 +1,24 @@
 {
   "Author": "Abid",
-  "Last_Updated": "06:45:53 AM 23-10-2025",
-  "total_events": 3,
+  "Last_Updated": "06:58:29 AM 23-10-2025",
+  "total_events": 4,
   "totals": {
-    "live": 0,
+    "live": 1,
     "upcoming": 3
   },
-  "live_events": [],
-  "upcoming_events": [
+  "live_events": [
     {
-      "isStart": "Upcoming",
+      "isStart": "Live",
       "tournament": "West Indies in Bangladesh, 3 ODI Series, 2025",
       "title": "3rd ODI, Bangladesh v West Indies (1st Innings)",
-      "date_time": "07:15, 23/10/2025",
+      "date_time": "NOW",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/kry0ziqxril1cw1k7r4j",
-      "event_url": "#",
-      "stream_data_url": "",
-      "drm_key": ""
-    },
+      "event_url": "https://www.icc-cricket.com/videos/3rd-odi-bangladesh-v-west-indies-1st-innings",
+      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1761202739~acl=/variant/v1blackout/vcg-01-d/*~hmac=da39f843246bfad316da8626b3df7344cdb985c7b05c1a74b226940c793deb1c/manifest.mpd",
+      "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
+    }
+  ],
+  "upcoming_events": [
     {
       "isStart": "Upcoming",
       "tournament": "West Indies in Bangladesh, 3 ODI Series, 2025",
@@ -34,6 +35,16 @@
       "title": "Nepal v USA (1st Innings)",
       "date_time": "05:30, 26/10/2025",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/lvmcsccqcn3mhnksdltv",
+      "event_url": "#",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC CWC League 2, 2023-27",
+      "title": "Nepal v USA (2nd Innings)",
+      "date_time": "09:30, 26/10/2025",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/nmrn4ubc9delotfqfxao",
       "event_url": "#",
       "stream_data_url": "",
       "drm_key": ""
