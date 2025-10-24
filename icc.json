@@ -1,10 +1,10 @@
 {
   "Author": "Abid",
-  "Last_Updated": "08:52:10 AM 24-10-2025",
-  "total_events": 2,
+  "Last_Updated": "09:27:35 AM 24-10-2025",
+  "total_events": 3,
   "totals": {
     "live": 0,
-    "upcoming": 2
+    "upcoming": 3
   },
   "live_events": [],
   "upcoming_events": [
@@ -24,6 +24,16 @@
       "title": "Nepal v USA (2nd Innings)",
       "date_time": "09:30, 26/10/2025",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/nmrn4ubc9delotfqfxao",
+      "event_url": "#",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "West Indies in Bangladesh, 3 T20I Series, 2025",
+      "title": "1st T20I, Bangladesh v West Indies",
+      "date_time": "11:30, 27/10/2025",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/za8e8gitrolh4ypiuibr",
       "event_url": "#",
       "stream_data_url": "",
       "drm_key": ""
