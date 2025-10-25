@@ -1,6 +1,1 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/v1761379450/prd/yb0xekpuieywjp1yctfm" group-title="Live",AUS vs SA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
-https://live-d-02-icc-ne.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/manifest.mpd?hdnts=st=1761382821~exp=1761382861~acl=/variant/v1blackout/vcg-01-d/*~hmac=bae6ef24a2553e38e803dad943c2934eab13445395d0332521b5877bb98b093f&hdcore=2.11.3
