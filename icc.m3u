@@ -1,5 +1,2 @@
 #EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
-#EXTINF:-1 tvg-id="ts246" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/nmrn4ubc9delotfqfxao" group-title="Live",Nepal v USA (2nd Innings)
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1761483289~acl=/variant/v1blackout/vcg-01-d/*~hmac=e6a65bc41f2a08a42a0f1137bdf2a51fda9a856819e8b67a383613fec3e5300f/manifest.mpd
+
