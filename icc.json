@@ -1,23 +1,24 @@
 {
   "Author": "Abid",
-  "Last_Updated": "04:58:44 AM 26-10-2025",
-  "total_events": 6,
+  "Last_Updated": "05:28:13 AM 26-10-2025",
+  "total_events": 8,
   "totals": {
-    "live": 0,
-    "upcoming": 6
+    "live": 1,
+    "upcoming": 7
   },
-  "live_events": [],
-  "upcoming_events": [
+  "live_events": [
     {
-      "isStart": "Upcoming",
+      "isStart": "Live",
       "tournament": "ICC CWC League 2, 2023-27",
       "title": "Nepal v USA (1st Innings)",
-      "date_time": "05:30, 26/10/2025",
+      "date_time": "NOW",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/lvmcsccqcn3mhnksdltv",
-      "event_url": "#",
-      "stream_data_url": "",
-      "drm_key": ""
-    },
+      "event_url": "https://www.icc-cricket.com/tournaments/icc-cricket-world-cup-league-2/videos/nepal-v-usa-1st-innings",
+      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1761456523~acl=/variant/v1blackout/vcg-01-d/*~hmac=d793b8edfcbfc096931538ceecbd33702caed7e60eb2a08364976e6d4ac5bfc0/manifest.mpd",
+      "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
+    }
+  ],
+  "upcoming_events": [
     {
       "isStart": "Upcoming",
       "tournament": "ICC CWC League 2, 2023-27",
@@ -64,6 +65,26 @@
       "title": "2nd T20I, Bangladesh v West Indies",
       "date_time": "11:30, 29/10/2025",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/ttollohdguknhp8jzkow",
+      "event_url": "#",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC CWC League 2, 2023-27",
+      "title": "Nepal v United Arab Emirates (1st Innings)",
+      "date_time": "05:30, 30/10/2025",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/umxlvvrz1oitbc177aen",
+      "event_url": "#",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC CWC League 2, 2023-27",
+      "title": "Nepal v United Arab Emirates (2nd Innings)",
+      "date_time": "09:30, 30/10/2025",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/vrmofjnu0ioaiz5imoji",
       "event_url": "#",
       "stream_data_url": "",
       "drm_key": ""
