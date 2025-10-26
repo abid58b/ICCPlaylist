@@ -1,10 +1,10 @@
 {
   "Author": "Abid",
-  "Last_Updated": "04:29:59 AM 26-10-2025",
-  "total_events": 5,
+  "Last_Updated": "04:45:38 AM 26-10-2025",
+  "total_events": 6,
   "totals": {
     "live": 0,
-    "upcoming": 5
+    "upcoming": 6
   },
   "live_events": [],
   "upcoming_events": [
@@ -54,6 +54,16 @@
       "title": "USA v United Arab Emirates (2nd Innings)",
       "date_time": "09:30, 28/10/2025",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/a90chjic45whigrhs6kb",
+      "event_url": "#",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "West Indies in Bangladesh, 3 T20I Series, 2025",
+      "title": "2nd T20I, Bangladesh v West Indies",
+      "date_time": "11:30, 29/10/2025",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/ttollohdguknhp8jzkow",
       "event_url": "#",
       "stream_data_url": "",
       "drm_key": ""
