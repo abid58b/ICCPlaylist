@@ -1,10 +1,10 @@
 {
   "Author": "Abid",
-  "Last_Updated": "03:54:07 PM 26-10-2025",
-  "total_events": 9,
+  "Last_Updated": "04:27:28 PM 26-10-2025",
+  "total_events": 6,
   "totals": {
     "live": 0,
-    "upcoming": 9
+    "upcoming": 6
   },
   "live_events": [],
   "upcoming_events": [
@@ -64,36 +64,6 @@
       "title": "Nepal v United Arab Emirates (2nd Innings)",
       "date_time": "09:30, 30/10/2025",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/vrmofjnu0ioaiz5imoji",
-      "event_url": "#",
-      "stream_data_url": "",
-      "drm_key": ""
-    },
-    {
-      "isStart": "Upcoming",
-      "tournament": "West Indies in Bangladesh, 3 T20I Series, 2025",
-      "title": "3rd T20I, Bangladesh v West Indies",
-      "date_time": "11:30, 31/10/2025",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/jq4rav9jeimqok1ulwls",
-      "event_url": "#",
-      "stream_data_url": "",
-      "drm_key": ""
-    },
-    {
-      "isStart": "Upcoming",
-      "tournament": "ICC CWC League 2, 2023-27",
-      "title": "USA v Nepal (1st Innings)",
-      "date_time": "05:30, 01/11/2025",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/qqb06wouh2xjl1aivhfy",
-      "event_url": "#",
-      "stream_data_url": "",
-      "drm_key": ""
-    },
-    {
-      "isStart": "Upcoming",
-      "tournament": "ICC CWC League 2, 2023-27",
-      "title": "USA v Nepal (2nd Innings)",
-      "date_time": "09:30, 01/11/2025",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/xdhfxmp6ygenfpmu5kyd",
       "event_url": "#",
       "stream_data_url": "",
       "drm_key": ""
