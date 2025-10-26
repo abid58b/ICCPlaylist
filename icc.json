@@ -1,6 +1,6 @@
 {
   "Author": "Abid",
-  "Last_Updated": "09:05:12 AM 26-10-2025",
+  "Last_Updated": "09:29:27 AM 26-10-2025",
   "total_events": 10,
   "totals": {
     "live": 1,
@@ -10,25 +10,15 @@
     {
       "isStart": "Live",
       "tournament": "ICC CWC League 2, 2023-27",
-      "title": "Nepal v USA (1st Innings)",
+      "title": "Nepal v USA (2nd Innings)",
       "date_time": "NOW",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/lvmcsccqcn3mhnksdltv",
-      "event_url": "https://www.icc-cricket.com/tournaments/icc-cricket-world-cup-league-2/videos/nepal-v-usa-1st-innings",
-      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1761469542~acl=/variant/v1blackout/vcg-01-d/*~hmac=35044e4a2993d915b6eb916a68f69c341199a83ad621dffd4299b016996df250/manifest.mpd",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/nmrn4ubc9delotfqfxao",
+      "event_url": "https://www.icc-cricket.com/tournaments/icc-cricket-world-cup-league-2/videos/nepal-v-usa-2nd-innings",
+      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1761470997~acl=/variant/v1blackout/vcg-01-d/*~hmac=9ada84d784fbe23b6f0eee485ce12fbef880f44dcee2f7017663fde073f7d4df/manifest.mpd",
       "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
     }
   ],
   "upcoming_events": [
-    {
-      "isStart": "Upcoming",
-      "tournament": "ICC CWC League 2, 2023-27",
-      "title": "Nepal v USA (2nd Innings)",
-      "date_time": "09:15, 26/10/2025",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/nmrn4ubc9delotfqfxao",
-      "event_url": "#",
-      "stream_data_url": "",
-      "drm_key": ""
-    },
     {
       "isStart": "Upcoming",
       "tournament": "West Indies in Bangladesh, 3 T20I Series, 2025",
@@ -105,6 +95,16 @@
       "title": "USA v Nepal (1st Innings)",
       "date_time": "05:30, 01/11/2025",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/qqb06wouh2xjl1aivhfy",
+      "event_url": "#",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC CWC League 2, 2023-27",
+      "title": "USA v Nepal (2nd Innings)",
+      "date_time": "09:30, 01/11/2025",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/xdhfxmp6ygenfpmu5kyd",
       "event_url": "#",
       "stream_data_url": "",
       "drm_key": ""
