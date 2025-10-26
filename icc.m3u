@@ -1,5 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ts246" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/lvmcsccqcn3mhnksdltv" group-title="Live",Nepal v USA (1st Innings)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
-#EXTINF:-1 tvg-id="ts246" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/lvmcsccqcn3mhnksdltv" group-title="Live",Nepal v USA (1st Innings)
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1761461910~acl=/variant/v1blackout/vcg-01-d/*~hmac=aa8caf060b2ba539400deb8c412cb9fac631bfbb31d7171e8de2133a858eb4e6/manifest.mpd
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1761463368~acl=/variant/v1blackout/vcg-01-d/*~hmac=988fcd49ff75abcc0cb7be7631dc0e004dafb68b2162350173edd87796676413/manifest.mpd
+
