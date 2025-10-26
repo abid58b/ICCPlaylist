@@ -1,6 +1,6 @@
 {
   "Author": "Abid",
-  "Last_Updated": "08:53:01 AM 26-10-2025",
+  "Last_Updated": "09:05:12 AM 26-10-2025",
   "total_events": 10,
   "totals": {
     "live": 1,
@@ -14,7 +14,7 @@
       "date_time": "NOW",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/lvmcsccqcn3mhnksdltv",
       "event_url": "https://www.icc-cricket.com/tournaments/icc-cricket-world-cup-league-2/videos/nepal-v-usa-1st-innings",
-      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1761468811~acl=/variant/v1blackout/vcg-01-d/*~hmac=81eb8eaa38199f6651330ac3b9a4f966d63bd145f75edbd61e7e77b43d35453e/manifest.mpd",
+      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1761469542~acl=/variant/v1blackout/vcg-01-d/*~hmac=35044e4a2993d915b6eb916a68f69c341199a83ad621dffd4299b016996df250/manifest.mpd",
       "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
     }
   ],
@@ -23,7 +23,7 @@
       "isStart": "Upcoming",
       "tournament": "ICC CWC League 2, 2023-27",
       "title": "Nepal v USA (2nd Innings)",
-      "date_time": "09:30, 26/10/2025",
+      "date_time": "09:15, 26/10/2025",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/nmrn4ubc9delotfqfxao",
       "event_url": "#",
       "stream_data_url": "",
