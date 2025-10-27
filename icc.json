@@ -1,6 +1,6 @@
 {
   "Author": "Abid",
-  "Last_Updated": "02:44:44 PM 27-10-2025",
+  "Last_Updated": "02:27:56 PM 27-10-2025",
   "total_events": 7,
   "totals": {
     "live": 1,
@@ -14,7 +14,7 @@
       "date_time": "NOW",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/za8e8gitrolh4ypiuibr",
       "event_url": "https://www.icc-cricket.com/videos/1st-t20i-bangladesh-v-west-indies",
-      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1761576314~acl=/variant/v1blackout/vcg-01-d/*~hmac=f08b3c815039c256d59b2da911466d5c58fe1f16ed0c5c0d269648fad393a3d2/manifest.mpd",
+      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1761575306~acl=/variant/v1blackout/vcg-01-d/*~hmac=397c75932f2a2f91c98314a2ed4384acda9cc1514471e8189ec540a5fe20a79a/manifest.mpd",
       "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
     }
   ],
