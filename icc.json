@@ -1,23 +1,24 @@
 {
   "Author": "Abid",
-  "Last_Updated": "05:14:41 AM 28-10-2025",
-  "total_events": 6,
+  "Last_Updated": "05:40:02 AM 28-10-2025",
+  "total_events": 7,
   "totals": {
-    "live": 0,
+    "live": 1,
     "upcoming": 6
   },
-  "live_events": [],
-  "upcoming_events": [
+  "live_events": [
     {
-      "isStart": "Upcoming",
+      "isStart": "Live",
       "tournament": "ICC CWC League 2, 2023-27",
       "title": "USA v United Arab Emirates (1st Innings)",
-      "date_time": "05:30, 28/10/2025",
+      "date_time": "NOW",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/xt0vofv3wtmthsypkx6c",
-      "event_url": "#",
-      "stream_data_url": "",
-      "drm_key": ""
-    },
+      "event_url": "https://www.icc-cricket.com/tournaments/icc-cricket-world-cup-league-2/videos/usa-v-united-arab-emirates-1st-innings",
+      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1761630032~acl=/variant/v1blackout/vcg-01-d/*~hmac=e07eb3319cee6084403073dc001f0d3946ef467250c26db597d9b1faf0510e31/manifest.mpd",
+      "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
+    }
+  ],
+  "upcoming_events": [
     {
       "isStart": "Upcoming",
       "tournament": "ICC CWC League 2, 2023-27",
@@ -64,6 +65,16 @@
       "title": "3rd T20I, Bangladesh v West Indies",
       "date_time": "11:30, 31/10/2025",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/jq4rav9jeimqok1ulwls",
+      "event_url": "#",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC CWC League 2, 2023-27",
+      "title": "USA v Nepal (1st Innings)",
+      "date_time": "05:30, 01/11/2025",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/qqb06wouh2xjl1aivhfy",
       "event_url": "#",
       "stream_data_url": "",
       "drm_key": ""
