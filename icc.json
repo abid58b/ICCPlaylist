@@ -1,6 +1,6 @@
 {
   "Author": "Abid",
-  "Last_Updated": "09:28:40 AM 28-10-2025",
+  "Last_Updated": "09:46:36 AM 28-10-2025",
   "total_events": 7,
   "totals": {
     "live": 1,
@@ -10,25 +10,15 @@
     {
       "isStart": "Live",
       "tournament": "ICC CWC League 2, 2023-27",
-      "title": "USA v United Arab Emirates (1st Innings)",
+      "title": "USA v United Arab Emirates (2nd Innings)",
       "date_time": "NOW",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/xt0vofv3wtmthsypkx6c",
-      "event_url": "https://www.icc-cricket.com/tournaments/icc-cricket-world-cup-league-2/videos/usa-v-united-arab-emirates-1st-innings",
-      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1761643749~acl=/variant/v1blackout/vcg-01-d/*~hmac=dc112b28a6e4dcc67c948ec94117e175940255700a95e2ad2a2d8bf60c8aac66/manifest.mpd",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/a90chjic45whigrhs6kb",
+      "event_url": "https://www.icc-cricket.com/tournaments/icc-cricket-world-cup-league-2/videos/usa-v-united-arab-emirates-2nd-innings",
+      "stream_data_url": "https://live-d-02-icc-ne.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1761644825~acl=/variant/v1blackout/vcg-01-d/*~hmac=29bdcbc65b6cc11afb27635ea2828c0c2e2e787c6645a0d15ac705a3eea2437f/manifest.mpd",
       "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
     }
   ],
   "upcoming_events": [
-    {
-      "isStart": "Upcoming",
-      "tournament": "ICC CWC League 2, 2023-27",
-      "title": "USA v United Arab Emirates (2nd Innings)",
-      "date_time": "09:15, 28/10/2025",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/a90chjic45whigrhs6kb",
-      "event_url": "#",
-      "stream_data_url": "",
-      "drm_key": ""
-    },
     {
       "isStart": "Upcoming",
       "tournament": "West Indies in Bangladesh, 3 T20I Series, 2025",
@@ -75,6 +65,16 @@
       "title": "USA v Nepal (1st Innings)",
       "date_time": "05:30, 01/11/2025",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/qqb06wouh2xjl1aivhfy",
+      "event_url": "#",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC CWC League 2, 2023-27",
+      "title": "USA v Nepal (2nd Innings)",
+      "date_time": "09:30, 01/11/2025",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/xdhfxmp6ygenfpmu5kyd",
       "event_url": "#",
       "stream_data_url": "",
       "drm_key": ""
