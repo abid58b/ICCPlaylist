@@ -1,10 +1,10 @@
 {
   "Author": "Abid",
-  "Last_Updated": "12:58:05 PM 28-10-2025",
-  "total_events": 7,
+  "Last_Updated": "01:38:17 PM 28-10-2025",
+  "total_events": 5,
   "totals": {
     "live": 1,
-    "upcoming": 6
+    "upcoming": 4
   },
   "live_events": [
     {
@@ -14,7 +14,7 @@
       "date_time": "NOW",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/a90chjic45whigrhs6kb",
       "event_url": "https://www.icc-cricket.com/tournaments/icc-cricket-world-cup-league-2/videos/usa-v-united-arab-emirates-2nd-innings",
-      "stream_data_url": "https://live-d-02-icc-ne.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1761656315~acl=/variant/v1blackout/vcg-01-d/*~hmac=7acb61bde30e4e1460fdbc4a47ce5b8df767a32ec017b23b4f2a163fe17aa491/manifest.mpd",
+      "stream_data_url": "https://live-d-02-icc-ne.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1761658727~acl=/variant/v1blackout/vcg-01-d/*~hmac=aa2ba5b2c8a701a79a261f544f40fabaad4362c6bc0132378c49a670f4ebfae8/manifest.mpd",
       "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
     }
   ],
@@ -55,26 +55,6 @@
       "title": "3rd T20I, Bangladesh v West Indies",
       "date_time": "11:30, 31/10/2025",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/jq4rav9jeimqok1ulwls",
-      "event_url": "#",
-      "stream_data_url": "",
-      "drm_key": ""
-    },
-    {
-      "isStart": "Upcoming",
-      "tournament": "ICC CWC League 2, 2023-27",
-      "title": "USA v Nepal (1st Innings)",
-      "date_time": "05:30, 01/11/2025",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/qqb06wouh2xjl1aivhfy",
-      "event_url": "#",
-      "stream_data_url": "",
-      "drm_key": ""
-    },
-    {
-      "isStart": "Upcoming",
-      "tournament": "ICC CWC League 2, 2023-27",
-      "title": "USA v Nepal (2nd Innings)",
-      "date_time": "09:30, 01/11/2025",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/xdhfxmp6ygenfpmu5kyd",
       "event_url": "#",
       "stream_data_url": "",
       "drm_key": ""
