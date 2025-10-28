@@ -1,6 +1,6 @@
 {
   "Author": "Abid",
-  "Last_Updated": "10:32:24 AM 28-10-2025",
+  "Last_Updated": "10:53:49 AM 28-10-2025",
   "total_events": 7,
   "totals": {
     "live": 1,
@@ -14,7 +14,7 @@
       "date_time": "NOW",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/a90chjic45whigrhs6kb",
       "event_url": "https://www.icc-cricket.com/tournaments/icc-cricket-world-cup-league-2/videos/usa-v-united-arab-emirates-2nd-innings",
-      "stream_data_url": "https://live-d-02-icc-ne.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1761647574~acl=/variant/v1blackout/vcg-01-d/*~hmac=aac88e6a7ba70a72ae7bab1a29b6657d81a026cb4944a017db8c84b973a7dcbf/manifest.mpd",
+      "stream_data_url": "https://live-d-02-icc-ne.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1761648859~acl=/variant/v1blackout/vcg-01-d/*~hmac=91878bdbef4b4623e25e2be8133475c586127252d2a84b36069548649d090191/manifest.mpd",
       "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
     }
   ],
