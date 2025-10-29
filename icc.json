@@ -1,10 +1,10 @@
 {
   "Author": "Abid",
-  "Last_Updated": "10:49:43 AM 29-10-2025",
-  "total_events": 5,
+  "Last_Updated": "11:02:34 AM 29-10-2025",
+  "total_events": 6,
   "totals": {
     "live": 0,
-    "upcoming": 5
+    "upcoming": 6
   },
   "live_events": [],
   "upcoming_events": [
@@ -54,6 +54,16 @@
       "title": "USA v Nepal (1st Innings)",
       "date_time": "05:30, 01/11/2025",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/qqb06wouh2xjl1aivhfy",
+      "event_url": "#",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC CWC League 2, 2023-27",
+      "title": "USA v Nepal (2nd Innings)",
+      "date_time": "09:30, 01/11/2025",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/xdhfxmp6ygenfpmu5kyd",
       "event_url": "#",
       "stream_data_url": "",
       "drm_key": ""
