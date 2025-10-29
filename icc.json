@@ -1,10 +1,10 @@
 {
   "Author": "Abid",
-  "Last_Updated": "12:59:20 PM 29-10-2025",
-  "total_events": 6,
+  "Last_Updated": "01:39:34 PM 29-10-2025",
+  "total_events": 7,
   "totals": {
     "live": 1,
-    "upcoming": 5
+    "upcoming": 6
   },
   "live_events": [
     {
@@ -14,7 +14,7 @@
       "date_time": "NOW",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/ttollohdguknhp8jzkow",
       "event_url": "https://www.icc-cricket.com/videos/2nd-t20i-bangladesh-v-west-indies",
-      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1761742790~acl=/variant/v1blackout/vcg-01-d/*~hmac=97565f05b6f3e5b7b73713ad7fac721c26eac72e6110665be3c6d5a48a211bff/manifest.mpd",
+      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1761745203~acl=/variant/v1blackout/vcg-01-d/*~hmac=f54a845f5a9e25830a36bf4dcf851f86a91d6a378d1b6d8f27ec97407e774f2a/manifest.mpd",
       "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
     }
   ],
@@ -65,6 +65,16 @@
       "title": "USA v Nepal (2nd Innings)",
       "date_time": "09:30, 01/11/2025",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/xdhfxmp6ygenfpmu5kyd",
+      "event_url": "#",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC CWC League 2, 2023-27",
+      "title": "United Arab Emirates v USA (1st Innings)",
+      "date_time": "05:30, 03/11/2025",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/xpeccjjte5n1jejwjya4",
       "event_url": "#",
       "stream_data_url": "",
       "drm_key": ""
