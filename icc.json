@@ -1,23 +1,24 @@
 {
   "Author": "Abid",
-  "Last_Updated": "11:28:55 AM 29-10-2025",
+  "Last_Updated": "11:42:55 AM 29-10-2025",
   "total_events": 6,
   "totals": {
-    "live": 0,
-    "upcoming": 6
+    "live": 1,
+    "upcoming": 5
   },
-  "live_events": [],
-  "upcoming_events": [
+  "live_events": [
     {
-      "isStart": "Upcoming",
+      "isStart": "Live",
       "tournament": "West Indies in Bangladesh, 3 T20I Series, 2025",
       "title": "2nd T20I, Bangladesh v West Indies",
-      "date_time": "11:45, 29/10/2025",
+      "date_time": "NOW",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/ttollohdguknhp8jzkow",
-      "event_url": "#",
-      "stream_data_url": "",
-      "drm_key": ""
-    },
+      "event_url": "https://www.icc-cricket.com/videos/2nd-t20i-bangladesh-v-west-indies",
+      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1761738205~acl=/variant/v1blackout/vcg-01-d/*~hmac=132be53fd6aba079d3d6e0ce973bc5a6422d1b3c914a656e31651215ee33b50d/manifest.mpd",
+      "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
+    }
+  ],
+  "upcoming_events": [
     {
       "isStart": "Upcoming",
       "tournament": "ICC CWC League 2, 2023-27",
