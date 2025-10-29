@@ -1,12 +1,23 @@
 {
   "Author": "Abid",
-  "Last_Updated": "09:30:13 PM 29-10-2025",
-  "total_events": 6,
+  "Last_Updated": "03:33:14 PM 29-10-2025",
+  "total_events": 7,
   "totals": {
-    "live": 0,
+    "live": 1,
     "upcoming": 6
   },
-  "live_events": [],
+  "live_events": [
+    {
+      "isStart": "Live",
+      "tournament": "West Indies in Bangladesh, 3 T20I Series, 2025",
+      "title": "2nd T20I, Bangladesh v West Indies",
+      "date_time": "NOW",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/ttollohdguknhp8jzkow",
+      "event_url": "https://www.icc-cricket.com/videos/2nd-t20i-bangladesh-v-west-indies",
+      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1761752024~acl=/variant/v1blackout/vcg-01-d/*~hmac=080eba82f2adafd333e54415ca2dc1eca8a36ffd138e0361982d7e116e0b714a/manifest.mpd",
+      "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
+    }
+  ],
   "upcoming_events": [
     {
       "isStart": "Upcoming",
