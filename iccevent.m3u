@@ -3,9 +3,9 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/manifest.mpd?hdnts=st=1761823656~exp=1761823696~acl=/variant/v1blackout/vcg-01-d/*~hmac=3b3f9591d2cd3df9d725a890449e50d97691c7731f9e85804b262cbeedb036c6&hdcore=2.11.3
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/manifest.mpd?hdnts=st=1761823807~exp=1761823847~acl=/variant/v1blackout/vcg-01-d/*~hmac=5e0a6dcfcf0d1fcc1ca72ada10ab8f8ce00890211de708a3c62fb7b14fc21167&hdcore=2.11.3
 #EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/prd/vrmofjnu0ioaiz5imoji" group-title="Live",NEP vs UAE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/manifest.mpd?hdnts=st=1761823657~exp=1761823697~acl=/variant/v1blackout/vcg-01-d/*~hmac=542b65abadfe800a2001935d8c69de1840cd59f0f6f37bfec5d4b259d67566fc&hdcore=2.11.3
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/manifest.mpd?hdnts=st=1761823807~exp=1761823847~acl=/variant/v1blackout/vcg-01-d/*~hmac=5e0a6dcfcf0d1fcc1ca72ada10ab8f8ce00890211de708a3c62fb7b14fc21167&hdcore=2.11.3
