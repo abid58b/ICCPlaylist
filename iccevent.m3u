@@ -3,4 +3,4 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/hdntl=exp=1761861693~acl=/variant/v1blackout/vcg-01-d/*~data=hdntl~hmac=60aeca6bc4148200813cd3a98758c23a3db4c882ed4ab4d15e7dbaee86680573/manifest.mpd
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/hdntl=exp=1761863420~acl=/variant/v1blackout/vcg-01-d/*~data=hdntl~hmac=7d7aea61b58e41b7ee28ee0362f551836372624956eee039d284acb9f7101303/manifest.mpd
