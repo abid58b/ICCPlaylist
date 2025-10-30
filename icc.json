@@ -1,10 +1,10 @@
 {
   "Author": "Abid",
-  "Last_Updated": "05:58:29 PM 30-10-2025",
-  "total_events": 8,
+  "Last_Updated": "06:39:47 PM 30-10-2025",
+  "total_events": 6,
   "totals": {
     "live": 0,
-    "upcoming": 8
+    "upcoming": 6
   },
   "live_events": [],
   "upcoming_events": [
@@ -64,26 +64,6 @@
       "title": "United Arab Emirates v Nepal (1st Innings)",
       "date_time": "05:30, 05/11/2025",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/knkopb4wmzz443nopu7v",
-      "event_url": "#",
-      "stream_data_url": "",
-      "drm_key": ""
-    },
-    {
-      "isStart": "Upcoming",
-      "tournament": "ICC CWC League 2, 2023-27",
-      "title": "United Arab Emirates v Nepal (2nd Innings)",
-      "date_time": "09:30, 05/11/2025",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/gzvwci5m7oghuuayusb0",
-      "event_url": "#",
-      "stream_data_url": "",
-      "drm_key": ""
-    },
-    {
-      "isStart": "Upcoming",
-      "tournament": "Bali Bash International Rising East Asia Tri-Series, 2025",
-      "title": "1st T20I: Indonesia v Myanmar",
-      "date_time": "01:30, 06/11/2025",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/ws0go9v9ufcwmqyaell1",
       "event_url": "#",
       "stream_data_url": "",
       "drm_key": ""
