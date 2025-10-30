@@ -1,6 +1,6 @@
 {
   "Author": "Abid",
-  "Last_Updated": "05:29:05 AM 30-10-2025",
+  "Last_Updated": "05:45:35 AM 30-10-2025",
   "total_events": 7,
   "totals": {
     "live": 1,
@@ -14,7 +14,7 @@
       "date_time": "NOW",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/umxlvvrz1oitbc177aen",
       "event_url": "https://www.icc-cricket.com/tournaments/icc-cricket-world-cup-league-2/videos/nepal-v-united-arab-emirates-1st-innings",
-      "stream_data_url": "https://live-d-02-icc-ne.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1761802175~acl=/variant/v1blackout/vcg-01-d/*~hmac=0dcc059718d453ce86683b034635b6454503dd8365eda47905b6fb4fd7097268/manifest.mpd",
+      "stream_data_url": "https://live-d-02-icc-ne.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1761803165~acl=/variant/v1blackout/vcg-01-d/*~hmac=7ac1d26c7ac2e2763e71c30776b042ef14afa496632308b8626924b57729ca9d/manifest.mpd",
       "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
     }
   ],
