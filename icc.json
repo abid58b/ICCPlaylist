@@ -1,23 +1,24 @@
 {
   "Author": "Abid",
-  "Last_Updated": "11:26:12 AM 31-10-2025",
-  "total_events": 7,
+  "Last_Updated": "11:40:13 AM 31-10-2025",
+  "total_events": 8,
   "totals": {
-    "live": 0,
+    "live": 1,
     "upcoming": 7
   },
-  "live_events": [],
-  "upcoming_events": [
+  "live_events": [
     {
-      "isStart": "Upcoming",
+      "isStart": "Live",
       "tournament": "West Indies in Bangladesh, 3 T20I Series, 2025",
       "title": "3rd T20I, Bangladesh v West Indies",
-      "date_time": "11:30, 31/10/2025",
+      "date_time": "NOW",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/jq4rav9jeimqok1ulwls",
-      "event_url": "#",
-      "stream_data_url": "",
-      "drm_key": ""
-    },
+      "event_url": "https://www.icc-cricket.com/videos/3rd-t20i-bangladesh-v-west-indies",
+      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1761910843~acl=/variant/v1blackout/vcg-01-d/*~hmac=807eaf2d7796a8c739b4159652c67a43d38d8ae97912f3485ebe821498c5d53f/manifest.mpd",
+      "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
+    }
+  ],
+  "upcoming_events": [
     {
       "isStart": "Upcoming",
       "tournament": "ICC CWC League 2, 2023-27",
@@ -74,6 +75,16 @@
       "title": "United Arab Emirates v Nepal (2nd Innings)",
       "date_time": "09:30, 05/11/2025",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/gzvwci5m7oghuuayusb0",
+      "event_url": "#",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "Bali Bash International Rising East Asia Tri-Series, 2025",
+      "title": "1st T20I: Indonesia v Myanmar",
+      "date_time": "01:30, 06/11/2025",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/ws0go9v9ufcwmqyaell1",
       "event_url": "#",
       "stream_data_url": "",
       "drm_key": ""
