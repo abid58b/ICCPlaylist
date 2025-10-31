@@ -1,6 +1,6 @@
 {
   "Author": "Abid",
-  "Last_Updated": "02:00:13 PM 31-10-2025",
+  "Last_Updated": "01:49:29 PM 31-10-2025",
   "total_events": 8,
   "totals": {
     "live": 1,
@@ -14,7 +14,7 @@
       "date_time": "NOW",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/jq4rav9jeimqok1ulwls",
       "event_url": "https://www.icc-cricket.com/videos/3rd-t20i-bangladesh-v-west-indies",
-      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1761919243~acl=/variant/v1blackout/vcg-01-d/*~hmac=32c4195e93eb600318a603c2d88b418ef30e8bc53480e964b6347e2b706096df/manifest.mpd",
+      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1761918599~acl=/variant/v1blackout/vcg-01-d/*~hmac=6198a9fdd3fc21515d64bd646593373d94efc623b5d66691bd839488f4391b74/manifest.mpd",
       "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
     }
   ],
