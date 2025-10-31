@@ -3,9 +3,9 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-04)/manifest.mpd?hdnts=st=1761919212~exp=1761919252~acl=/variant/v1blackout/vcg-01-d/*~hmac=5618e91874de40f245e9ef048358b48db6e57fa6d20d79ba79056d170cc09274&hdcore=2.11.3
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-04)/manifest.mpd?hdnts=st=1761919288~exp=1761919328~acl=/variant/v1blackout/vcg-01-d/*~hmac=bcc19d8a7bd4e7cc05a282e5fe09e733583d5b427b60c5a87595e73be1e27a61&hdcore=2.11.3
 #EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/prd/jq4rav9jeimqok1ulwls" group-title="Live",BAN vs WI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/manifest.mpd?hdnts=st=1761919212~exp=1761919252~acl=/variant/v1blackout/vcg-01-d/*~hmac=5618e91874de40f245e9ef048358b48db6e57fa6d20d79ba79056d170cc09274&hdcore=2.11.3
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/manifest.mpd?hdnts=st=1761919288~exp=1761919328~acl=/variant/v1blackout/vcg-01-d/*~hmac=bcc19d8a7bd4e7cc05a282e5fe09e733583d5b427b60c5a87595e73be1e27a61&hdcore=2.11.3
