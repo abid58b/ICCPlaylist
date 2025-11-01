@@ -1,33 +1,24 @@
 {
   "Author": "Abid",
-  "Last_Updated": "02:46:08 AM 01-11-2025",
-  "total_events": 7,
+  "Last_Updated": "09:31:28 AM 01-11-2025",
+  "total_events": 8,
   "totals": {
-    "live": 0,
+    "live": 1,
     "upcoming": 7
   },
-  "live_events": [],
-  "upcoming_events": [
+  "live_events": [
     {
-      "isStart": "Upcoming",
-      "tournament": "ICC CWC League 2, 2023-27",
-      "title": "USA v Nepal (1st Innings)",
-      "date_time": "05:30, 01/11/2025",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/qqb06wouh2xjl1aivhfy",
-      "event_url": "#",
-      "stream_data_url": "",
-      "drm_key": ""
-    },
-    {
-      "isStart": "Upcoming",
+      "isStart": "Live",
       "tournament": "ICC CWC League 2, 2023-27",
       "title": "USA v Nepal (2nd Innings)",
-      "date_time": "09:30, 01/11/2025",
+      "date_time": "NOW",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/xdhfxmp6ygenfpmu5kyd",
-      "event_url": "#",
-      "stream_data_url": "",
-      "drm_key": ""
-    },
+      "event_url": "https://www.icc-cricket.com/tournaments/icc-cricket-world-cup-league-2/videos/usa-v-nepal-2nd-innings",
+      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1761989518~acl=/variant/v1blackout/vcg-01-d/*~hmac=e999831cb1285af2c06d59dd71731a515505e9e00491e98c2a1b1f6b59643dbf/manifest.mpd",
+      "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
+    }
+  ],
+  "upcoming_events": [
     {
       "isStart": "Upcoming",
       "tournament": "ICC CWC League 2, 2023-27",
@@ -74,6 +65,26 @@
       "title": "1st T20I: Indonesia v Myanmar",
       "date_time": "01:30, 06/11/2025",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/ws0go9v9ufcwmqyaell1",
+      "event_url": "#",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "Bali Bash International Rising East Asia Tri-Series, 2025",
+      "title": "2nd T20I: Indonesia v Timor-Leste",
+      "date_time": "06:00, 06/11/2025",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/dcnp772m09rpu3k7xcv2",
+      "event_url": "#",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "Bali Bash International Rising East Asia Tri-Series, 2025",
+      "title": "3rd T20I: Myanmar v Timor-Leste",
+      "date_time": "01:30, 07/11/2025",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/u8nfdpg70a74eixvyhl7",
       "event_url": "#",
       "stream_data_url": "",
       "drm_key": ""
