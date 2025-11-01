@@ -1,23 +1,12 @@
 {
   "Author": "Abid",
-  "Last_Updated": "01:59:14 PM 01-11-2025",
-  "total_events": 8,
+  "Last_Updated": "02:24:58 PM 01-11-2025",
+  "total_events": 7,
   "totals": {
-    "live": 1,
+    "live": 0,
     "upcoming": 7
   },
-  "live_events": [
-    {
-      "isStart": "Live",
-      "tournament": "ICC CWC League 2, 2023-27",
-      "title": "USA v Nepal (2nd Innings)",
-      "date_time": "NOW",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/xdhfxmp6ygenfpmu5kyd",
-      "event_url": "https://www.icc-cricket.com/tournaments/icc-cricket-world-cup-league-2/videos/usa-v-nepal-2nd-innings",
-      "stream_data_url": "https://dvr-d-01-icc-we.akamaized.net/Content/DASH/LLCU/40103a08-4586-4fc1-8c17-644973323e28/manifest.mpdhdntl=exp=1762005584~acl=/Content/DASH/LLCU/40103a08-4586-4fc1-8c17-644973323e28/*~hmac=a7d52eb50f88fdcd418c50bfbdebadc519a537fac2895cfdc2105ebc1c6e55b5/manifest.mpd",
-      "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
-    }
-  ],
+  "live_events": [],
   "upcoming_events": [
     {
       "isStart": "Upcoming",
