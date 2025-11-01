@@ -1,6 +1,6 @@
 {
   "Author": "Abid",
-  "Last_Updated": "01:43:04 PM 01-11-2025",
+  "Last_Updated": "01:59:14 PM 01-11-2025",
   "total_events": 8,
   "totals": {
     "live": 1,
@@ -14,7 +14,7 @@
       "date_time": "NOW",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/xdhfxmp6ygenfpmu5kyd",
       "event_url": "https://www.icc-cricket.com/tournaments/icc-cricket-world-cup-league-2/videos/usa-v-nepal-2nd-innings",
-      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1762004613~acl=/variant/v1blackout/vcg-01-d/*~hmac=7f8d0f3283f73319dfcedfdcb77bf66f1411472a4a91b823e8d989d0412228ab/manifest.mpd",
+      "stream_data_url": "https://dvr-d-01-icc-we.akamaized.net/Content/DASH/LLCU/40103a08-4586-4fc1-8c17-644973323e28/manifest.mpdhdntl=exp=1762005584~acl=/Content/DASH/LLCU/40103a08-4586-4fc1-8c17-644973323e28/*~hmac=a7d52eb50f88fdcd418c50bfbdebadc519a537fac2895cfdc2105ebc1c6e55b5/manifest.mpd",
       "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
     }
   ],
