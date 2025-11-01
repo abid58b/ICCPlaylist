@@ -1,7 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ts246" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/xdhfxmp6ygenfpmu5kyd" group-title="Live",USA v Nepal (2nd Innings)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
+#EXTINF:-1 tvg-id="ts246" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/xdhfxmp6ygenfpmu5kyd" group-title="Live",USA v Nepal (2nd Innings)
 https://dvr-d-01-icc-we.akamaized.net/Content/DASH/LLCU/40103a08-4586-4fc1-8c17-644973323e28/manifest.mpdhdntl=exp=1762005584~acl=/Content/DASH/LLCU/40103a08-4586-4fc1-8c17-644973323e28/*~hmac=a7d52eb50f88fdcd418c50bfbdebadc519a537fac2895cfdc2105ebc1c6e55b5/manifest.mpd
-
