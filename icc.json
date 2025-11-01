@@ -1,10 +1,10 @@
 {
   "Author": "Abid",
-  "Last_Updated": "12:53:22 PM 01-11-2025",
-  "total_events": 9,
+  "Last_Updated": "01:26:53 PM 01-11-2025",
+  "total_events": 8,
   "totals": {
     "live": 1,
-    "upcoming": 8
+    "upcoming": 7
   },
   "live_events": [
     {
@@ -14,7 +14,7 @@
       "date_time": "NOW",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/xdhfxmp6ygenfpmu5kyd",
       "event_url": "https://www.icc-cricket.com/tournaments/icc-cricket-world-cup-league-2/videos/usa-v-nepal-2nd-innings",
-      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1762001631~acl=/variant/v1blackout/vcg-01-d/*~hmac=f855a5d530dbf33439409cc2021508ff0aef69b47077680c1105daa2f182af04/manifest.mpd",
+      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1762003643~acl=/variant/v1blackout/vcg-01-d/*~hmac=7f07d6789ae4b76ede240f40363bedcb1a0f0616044ad12bde5407774774fdb9/manifest.mpd",
       "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
     }
   ],
@@ -86,16 +86,6 @@
       "date_time": "01:30, 07/11/2025",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/u8nfdpg70a74eixvyhl7",
       "event_url": "#",
-      "stream_data_url": "",
-      "drm_key": ""
-    },
-    {
-      "isStart": "Upcoming",
-      "tournament": "ICC CWC League 2, 2023-27",
-      "title": "USA v Nepal (1st Innings)",
-      "date_time": "Date/Time Nahi Mila",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/qqb06wouh2xjl1aivhfy",
-      "event_url": "https://www.icc-cricket.com/tournaments/icc-cricket-world-cup-league-2/videos/usa-v-nepal-1st-innings",
       "stream_data_url": "",
       "drm_key": ""
     }
