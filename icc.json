@@ -1,10 +1,10 @@
 {
   "Author": "Abid",
-  "Last_Updated": "10:58:29 AM 02-11-2025",
-  "total_events": 8,
+  "Last_Updated": "11:21:46 AM 02-11-2025",
+  "total_events": 9,
   "totals": {
     "live": 0,
-    "upcoming": 8
+    "upcoming": 9
   },
   "live_events": [],
   "upcoming_events": [
@@ -84,6 +84,16 @@
       "title": "4th T20I: Timor-Leste v Indonesia",
       "date_time": "01:30, 08/11/2025",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/jsllq5pskhponwsff0cu",
+      "event_url": "#",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "Bali Bash International Rising East Asia Tri-Series, 2025",
+      "title": "5th T20I: Myanmar v Indonesia",
+      "date_time": "06:00, 08/11/2025",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/wwlbsweirffw5y5xbryd",
       "event_url": "#",
       "stream_data_url": "",
       "drm_key": ""
