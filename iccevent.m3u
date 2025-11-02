@@ -3,9 +3,9 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/manifest.mpd?hdnts=st=1762092067~exp=1762092107~acl=/variant/v1blackout/vcg-01-d/*~hmac=38fbdf690ae1efd73c54664b63b0345d8d71d703968017c98f420bdcce0f5c62&hdcore=2.11.3
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/manifest.mpd?hdnts=st=1762093783~exp=1762093823~acl=/variant/v1blackout/vcg-01-d/*~hmac=dc2d629225a4dbc64008b503d3627454df9b78d22c597276277f2d1d9b631dd7&hdcore=2.11.3
 #EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/prd/qcv8dpwy6ojzxow8yosc" group-title="Live",ZIM vs AFG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-04)/manifest.mpd?hdnts=st=1762092067~exp=1762092107~acl=/variant/v1blackout/vcg-01-d/*~hmac=38fbdf690ae1efd73c54664b63b0345d8d71d703968017c98f420bdcce0f5c62&hdcore=2.11.3
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-04)/manifest.mpd?hdnts=st=1762093783~exp=1762093823~acl=/variant/v1blackout/vcg-01-d/*~hmac=dc2d629225a4dbc64008b503d3627454df9b78d22c597276277f2d1d9b631dd7&hdcore=2.11.3
