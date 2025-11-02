@@ -1,10 +1,10 @@
 {
   "Author": "Abid",
-  "Last_Updated": "01:48:35 PM 02-11-2025",
-  "total_events": 9,
+  "Last_Updated": "02:00:45 PM 02-11-2025",
+  "total_events": 10,
   "totals": {
     "live": 0,
-    "upcoming": 9
+    "upcoming": 10
   },
   "live_events": [],
   "upcoming_events": [
@@ -95,6 +95,16 @@
       "date_time": "06:00, 08/11/2025",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/wwlbsweirffw5y5xbryd",
       "event_url": "#",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC Women's Cricket World Cup, 2025",
+      "title": "CWC25: Final, India v South Africa (1st Innings) 1/2",
+      "date_time": "Date/Time Nahi Mila",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/v1762091544/prd/kcocnp2ceibmpk6fpvqz",
+      "event_url": "https://www.icc-cricket.com/tournaments/womens-cricket-worldcup-2025/videos/cwc25-final-india-v-south-africa-1st-innings",
       "stream_data_url": "",
       "drm_key": ""
     }
