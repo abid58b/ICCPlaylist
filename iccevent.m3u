@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/prd/z8mqtr04gtxpdwkfamii" group-title="Live",IND vs SA
+#EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/v1762093276/prd/qgqvd6lxrwbx5vs51rp8" group-title="Live",IND vs SA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/manifest.mpd?hdnts=st=1762095684~exp=1762095724~acl=/variant/v1blackout/vcg-01-d/*~hmac=b3fb3fcdfb881c5be18f41a9518019e29670a1b71e8519a057d5a7a8d2939db8&hdcore=2.11.3
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/manifest.mpd?hdnts=st=1762097272~exp=1762097312~acl=/variant/v1blackout/vcg-01-d/*~hmac=330d281027c4f530b8df8c65609c92bdb049c8c5668008900b4d0943e2c4f616&hdcore=2.11.3
 #EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/prd/qcv8dpwy6ojzxow8yosc" group-title="Live",ZIM vs AFG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-04)/manifest.mpd?hdnts=st=1762095684~exp=1762095724~acl=/variant/v1blackout/vcg-01-d/*~hmac=b3fb3fcdfb881c5be18f41a9518019e29670a1b71e8519a057d5a7a8d2939db8&hdcore=2.11.3
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-04)/manifest.mpd?hdnts=st=1762097273~exp=1762097313~acl=/variant/v1blackout/vcg-01-d/*~hmac=e984f38ae2db1ee7218869c12b1dc27f88648d5b2ea74bf43a98d0ea5a779444&hdcore=2.11.3
