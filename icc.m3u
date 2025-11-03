@@ -1,5 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ts246" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/xpeccjjte5n1jejwjya4" group-title="Live",United Arab Emirates v USA (1st Innings)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
-#EXTINF:-1 tvg-id="ts246" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/xpeccjjte5n1jejwjya4" group-title="Live",United Arab Emirates v USA (1st Innings)
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1762147698~acl=/variant/v1blackout/vcg-01-d/*~hmac=7f92e393221a414e29d3f5883d1dd02f12d18fbb787d8fb778a381b192fb1f28/manifest.mpd
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1762148724~acl=/variant/v1blackout/vcg-01-d/*~hmac=2cb06db9c1567c06de4fda102ca740bc0f00c91c612252ced4c5a2135c0d908e/manifest.mpd
+
