@@ -1,6 +1,6 @@
 {
   "Author": "Abid",
-  "Last_Updated": "07:45:32 AM 03-11-2025",
+  "Last_Updated": "07:59:30 AM 03-11-2025",
   "total_events": 11,
   "totals": {
     "live": 1,
@@ -14,7 +14,7 @@
       "date_time": "NOW",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/xpeccjjte5n1jejwjya4",
       "event_url": "https://www.icc-cricket.com/tournaments/icc-cricket-world-cup-league-2/videos/united-arab-emirates-v-usa-1st-innings",
-      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1762155961~acl=/variant/v1blackout/vcg-01-d/*~hmac=7593d0b00de567fdf353ccf316751aff9cb39230656f126fe9508d4a11de6dea/manifest.mpd",
+      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1762156800~acl=/variant/v1blackout/vcg-01-d/*~hmac=0f7a2a045209c5004262b6f8399c9090ead867f95e5d7b493fbc28df8c57ce13/manifest.mpd",
       "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
     }
   ],
