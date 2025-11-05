@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/prd/knkopb4wmzz443nopu7v" group-title="Live",UAE vs NEP
+#EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/prd/gzvwci5m7oghuuayusb0" group-title="Live",UAE vs NEP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/manifest.mpd?hdnts=st=1762335281~exp=1762335321~acl=/variant/v1blackout/vcg-01-d/*~hmac=4342392b610afc4b433042893a29296859fc27bdf0bea54e12fd5928fd527499&hdcore=2.11.3
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/manifest.mpd?hdnts=st=1762336016~exp=1762336056~acl=/variant/v1blackout/vcg-01-d/*~hmac=d8605134de55f79d48ec3afaed4c87bf146203bc749c500e0d3ce9d93490b8e2&hdcore=2.11.3
