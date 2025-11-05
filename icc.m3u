@@ -1,5 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ts246" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/gzvwci5m7oghuuayusb0" group-title="Live",United Arab Emirates v Nepal (2nd Innings)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
-#EXTINF:-1 tvg-id="ts246" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/gzvwci5m7oghuuayusb0" group-title="Live",United Arab Emirates v Nepal (2nd Innings)
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1762341787~acl=/variant/v1blackout/vcg-01-d/*~hmac=f22a245d5bd1d5c1bce87e4604b9431f1b309835fdc09b39dd2b7763eaf0f0ac/manifest.mpd
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1762343757~acl=/variant/v1blackout/vcg-01-d/*~hmac=b6f3d4acaf2410d383b69494e9c6b0c736b9313150e7d3c2c3c801f3490f9612/manifest.mpd
+
