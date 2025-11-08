@@ -1,23 +1,12 @@
 {
   "Author": "Abid",
-  "Last_Updated": "03:54:49 AM 08-11-2025",
-  "total_events": 11,
+  "Last_Updated": "04:28:48 AM 08-11-2025",
+  "total_events": 10,
   "totals": {
-    "live": 1,
+    "live": 0,
     "upcoming": 10
   },
-  "live_events": [
-    {
-      "isStart": "Live",
-      "tournament": "Bali Bash International Rising East Asia Tri-Series, 2025",
-      "title": "4th T20I: Timor-Leste v Indonesia",
-      "date_time": "NOW",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/jsllq5pskhponwsff0cu",
-      "event_url": "https://www.icc-cricket.com/videos/4th-t20i-timor-leste-v-indonesia",
-      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1762574119~acl=/variant/v1blackout/vcg-01-d/*~hmac=d21b0552e3d7f36fd848302d32147c75a61f475b4b5921f602ead02a50ed8ce1/manifest.mpd",
-      "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
-    }
-  ],
+  "live_events": [],
   "upcoming_events": [
     {
       "isStart": "Upcoming",
