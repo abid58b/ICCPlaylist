@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/prd/kn4jwvcpymdzeinlbkjw" group-title="Live",Leste vs Myanmar
+#EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/prd/cu2serbesowuz9aeh7jv" group-title="Live",Leste vs Myanmar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1762697533~acl=/variant/v1blackout/vcg-01-d/*~data=hdntl~hmac=8d7bacd06cd2c8dfc288e92adaea94e215a3791bb8a3f817cc7a33d2fbb42745/manifest.mpd
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1762698621~acl=/variant/v1blackout/vcg-01-d/*~data=hdntl~hmac=5a8f1394970b50465bcbf103fe966feb0145b5fdd260e77c6cce0d95c5dd6d97/manifest.mpd
