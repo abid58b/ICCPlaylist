@@ -1,6 +1,6 @@
 {
   "Author": "Abid",
-  "Last_Updated": "05:42:58 AM 09-11-2025",
+  "Last_Updated": "05:59:34 AM 09-11-2025",
   "total_events": 11,
   "totals": {
     "live": 1,
@@ -14,7 +14,7 @@
       "date_time": "NOW",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/kn4jwvcpymdzeinlbkjw",
       "event_url": "https://www.icc-cricket.com/videos/6th-t20i-timor-leste-v-myanmar",
-      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1762667008~acl=/variant/v1blackout/vcg-01-d/*~hmac=c7ee98bb539c6845262f9939c2b8f3d15c4f39940775f8c368fb9754634b1867/manifest.mpd",
+      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1762668003~acl=/variant/v1blackout/vcg-01-d/*~hmac=a7ddfd3837a15e35dde356749d66218d0aa5cfb00090b6c69e7fe15e8af24e77/manifest.mpd",
       "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
     }
   ],
