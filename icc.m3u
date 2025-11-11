@@ -1,5 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ts246" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/c3sl7acab23hucgdenul" group-title="Live",7th T20I: Indonesia v Myanmar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
-#EXTINF:-1 tvg-id="ts246" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/c3sl7acab23hucgdenul" group-title="Live",7th T20I: Indonesia v Myanmar
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1762836548~acl=/variant/v1blackout/vcg-01-d/*~hmac=d5fc9ce845fbb80628145d54ae4f76f39f8907c364d205dcd531c8d09000b1c7/manifest.mpd
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1762837280~acl=/variant/v1blackout/vcg-01-d/*~hmac=c9663d1c82387caeb00f4f26c7df336ea7ef08b927e4b458ccd279e89269e56c/manifest.mpd
+
