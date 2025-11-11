@@ -1,6 +1,6 @@
 {
   "Author": "Abid",
-  "Last_Updated": "03:21:39 AM 11-11-2025",
+  "Last_Updated": "03:57:00 AM 11-11-2025",
   "total_events": 11,
   "totals": {
     "live": 1,
@@ -14,7 +14,7 @@
       "date_time": "NOW",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/c3sl7acab23hucgdenul",
       "event_url": "https://www.icc-cricket.com/videos/7th-t20i-indonesia-v-myanmar",
-      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1762831329~acl=/variant/v1blackout/vcg-01-d/*~hmac=d77725d1b257c9c2c2d55d5470dfbaa5c2d9a37040d124b1eb18430d178d6649/manifest.mpd",
+      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1762833450~acl=/variant/v1blackout/vcg-01-d/*~hmac=eab02501d1ef0cf8d9dcc89018dccff2edfc3ab5125a219ba774d046d64150e2/manifest.mpd",
       "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
     }
   ],
