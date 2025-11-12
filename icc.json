@@ -1,13 +1,103 @@
 {
   "Author": "Abid",
-  "Last_Updated": "07:48:48 PM 12-11-2025",
-  "total_events": 10,
+  "Last_Updated": "08:01:02 PM 12-11-2025",
+  "total_events": 28,
   "totals": {
     "live": 0,
-    "upcoming": 10
+    "upcoming": 28
   },
   "live_events": [],
   "upcoming_events": [
+    {
+      "isStart": "Upcoming",
+      "tournament": "Women's Player of the Month",
+      "title": "ICC Women’s Player of the Month for October 2025 revealed",
+      "date_time": "Date/Time Nahi Mila",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/wwauluwjbrdowhehht17",
+      "event_url": "https://www.icc-cricket.com/news/icc-women-s-player-of-the-month-for-october-2025-revealed",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "News",
+      "title": "ICC Men’s Player of the Month for October 2025 unveiled",
+      "date_time": "Date/Time Nahi Mila",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/amvmmizkndg7bav5sfjt",
+      "event_url": "https://www.icc-cricket.com/news/icc-men-s-player-of-the-month-for-october-2025-unveiled",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "News",
+      "title": "Bangladesh speedster fined for breaching ICC Code of Conduct",
+      "date_time": "Date/Time Nahi Mila",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/a3hcqxwkclibzqhh640j",
+      "event_url": "https://www.icc-cricket.com/news/bangladesh-speedster-fined-for-breaching-icc-code-of-conduct",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC Women's T20 World Cup, 2026",
+      "title": "After CWC25 win, Deepti and India shift focus to T20WC 2026",
+      "date_time": "Date/Time Nahi Mila",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/uie5aovma6q2lbz8fsn2",
+      "event_url": "https://www.icc-cricket.com/tournaments/womens-t20-worldcup-2026/news/after-cwc25-win-deepti-and-india-shift-focus-to-t20wc-2026",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "Men’s Rankings",
+      "title": "Batters lead Pakistan’s rankings rise after impressive run",
+      "date_time": "Date/Time Nahi Mila",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/pw9leeuwbkn0tpng2qkk",
+      "event_url": "https://www.icc-cricket.com/news/batters-lead-pakistan-s-rankings-rise-after-impressive-run",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC World Test Championship",
+      "title": "Australia issue update on Hazlewood, Abbott injuries",
+      "date_time": "Date/Time Nahi Mila",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/trmhw3stww4kxxgvrxvm",
+      "event_url": "https://www.icc-cricket.com/news/australia-issue-update-on-hazlewood-abbott-injuries",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC World Test Championship",
+      "title": "England ponder pace barrage for first Ashes Test in Perth",
+      "date_time": "Date/Time Nahi Mila",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/egw4gprj8bd6ot26looo",
+      "event_url": "https://www.icc-cricket.com/news/england-ponder-pace-barrage-for-first-ashes-test-in-perth",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC World Test Championship",
+      "title": "South Africa aiming to match past legends with India triumph",
+      "date_time": "Date/Time Nahi Mila",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/sm61zcvo9jntyqrf0se8",
+      "event_url": "https://www.icc-cricket.com/news/south-africa-aiming-to-match-past-legends-with-india-triumph",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC World Test Championship",
+      "title": "England coach backs Root to break century drought Down Under",
+      "date_time": "Date/Time Nahi Mila",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/jr7g1h5lvpies7wlajhi",
+      "event_url": "https://www.icc-cricket.com/news/england-coach-backs-root-to-break-century-drought-down-under",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
     {
       "isStart": "Upcoming",
       "tournament": "Bali Bash International Rising East Asia Tri-Series, 2025",
@@ -105,6 +195,96 @@
       "date_time": "06:45, 21/11/2025",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/x54dfomm6mqitzpo4fw1",
       "event_url": "#",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC World Test Championship, 2025/27",
+      "title": "Ten Doeschate anticipates mouth-watering tie against Proteas",
+      "date_time": "Date/Time Nahi Mila",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio1_1-size40-webp/prd/hhd17mbrv3jatihp8zb6",
+      "event_url": "https://www.icc-cricket.com/news/ten-doeschate-anticipates-mouth-watering-tie-against-proteas",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "News",
+      "title": "Bangladesh speedster fined for breaching ICC Code of Conduct",
+      "date_time": "Date/Time Nahi Mila",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio1_1-size40-webp/prd/a3hcqxwkclibzqhh640j",
+      "event_url": "https://www.icc-cricket.com/news/bangladesh-speedster-fined-for-breaching-icc-code-of-conduct",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC Women's T20 World Cup, 2026",
+      "title": "After CWC25 win, Deepti and India shift focus to T20WC 2026",
+      "date_time": "Date/Time Nahi Mila",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio1_1-size40-webp/prd/uie5aovma6q2lbz8fsn2",
+      "event_url": "https://www.icc-cricket.com/tournaments/womens-t20-worldcup-2026/news/after-cwc25-win-deepti-and-india-shift-focus-to-t20wc-2026",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "Women's Player of the Month",
+      "title": "ICC Women’s Player of the Month for October 2025 revealed",
+      "date_time": "Date/Time Nahi Mila",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio1_1-size40-webp/prd/wwauluwjbrdowhehht17",
+      "event_url": "https://www.icc-cricket.com/news/icc-women-s-player-of-the-month-for-october-2025-revealed",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "News",
+      "title": "ICC Men’s Player of the Month for October 2025 unveiled",
+      "date_time": "Date/Time Nahi Mila",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio1_1-size40-webp/prd/amvmmizkndg7bav5sfjt",
+      "event_url": "https://www.icc-cricket.com/news/icc-men-s-player-of-the-month-for-october-2025-unveiled",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "Men’s Rankings",
+      "title": "Batters lead Pakistan’s rankings rise after impressive run",
+      "date_time": "Date/Time Nahi Mila",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio1_1-size40-webp/prd/pw9leeuwbkn0tpng2qkk",
+      "event_url": "https://www.icc-cricket.com/news/batters-lead-pakistan-s-rankings-rise-after-impressive-run",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC World Test Championship, 2025/27",
+      "title": "Ten Doeschate anticipates mouth-watering tie against Proteas",
+      "date_time": "Date/Time Nahi Mila",
+      "image_url": "Tasveer Nahi Mili",
+      "event_url": "https://www.icc-cricket.com/news/ten-doeschate-anticipates-mouth-watering-tie-against-proteas",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "News",
+      "title": "Bangladesh speedster fined for breaching ICC Code of Conduct",
+      "date_time": "Date/Time Nahi Mila",
+      "image_url": "Tasveer Nahi Mili",
+      "event_url": "https://www.icc-cricket.com/news/bangladesh-speedster-fined-for-breaching-icc-code-of-conduct",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "Media Release",
+      "title": "Nahid Rana fined for breaching ICC Code of Conduct",
+      "date_time": "Date/Time Nahi Mila",
+      "image_url": "Tasveer Nahi Mili",
+      "event_url": "https://www.icc-cricket.com/media-releases/nahid-rana-fined-for-breaching-icc-code-of-conduct",
       "stream_data_url": "",
       "drm_key": ""
     }
