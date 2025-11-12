@@ -1,5 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ts246" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/noxjty7vjy7nsfqb1xza" group-title="Live",9th T20I: Myanmar v Timor-Leste
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
-#EXTINF:-1 tvg-id="ts246" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/noxjty7vjy7nsfqb1xza" group-title="Live",9th T20I: Myanmar v Timor-Leste
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1762919679~acl=/variant/v1blackout/vcg-01-d/*~hmac=7870c789250636c9b67052b676ea37a7f9a30562a7dba6ac4eb04108ab215367/manifest.mpd
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1762921835~acl=/variant/v1blackout/vcg-01-d/*~hmac=337bb7e5f63af9bff2ed31f3ebb219d24a6c33a1e66a2ab37bbea1def7c54963/manifest.mpd
+
