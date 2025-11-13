@@ -1,6 +1,6 @@
 {
   "Author": "Abid",
-  "Last_Updated": "03:22:27 AM 13-11-2025",
+  "Last_Updated": "04:00:43 AM 13-11-2025",
   "total_events": 11,
   "totals": {
     "live": 1,
@@ -14,7 +14,7 @@
       "date_time": "NOW",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/nvkryeds6vhxe8pmkett",
       "event_url": "https://www.icc-cricket.com/videos/10th-t20i-timor-leste-v-indonesia",
-      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1763004177~acl=/variant/v1blackout/vcg-01-d/*~hmac=61b2deaafab83a3231525837f582eb9c5bdb859b1a305cb0bfa98160e7519019/manifest.mpd",
+      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1763006473~acl=/variant/v1blackout/vcg-01-d/*~hmac=925e0357ed4aa104f5c0abd74caa1dfa21dc3d5e8129b2a5185adf8262ac4ed2/manifest.mpd",
       "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
     }
   ],
