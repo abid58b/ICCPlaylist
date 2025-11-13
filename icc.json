@@ -1,23 +1,24 @@
 {
   "Author": "Abid",
-  "Last_Updated": "05:25:46 AM 13-11-2025",
-  "total_events": 10,
+  "Last_Updated": "05:46:08 AM 13-11-2025",
+  "total_events": 11,
   "totals": {
-    "live": 0,
+    "live": 1,
     "upcoming": 10
   },
-  "live_events": [],
-  "upcoming_events": [
+  "live_events": [
     {
-      "isStart": "Upcoming",
+      "isStart": "Live",
       "tournament": "Bali Bash International Rising East Asia Tri-Series, 2025",
       "title": "11th T20I: Myanmar v Indonesia",
-      "date_time": "06:00, 13/11/2025",
+      "date_time": "NOW",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/iigtxggzzddzfansvrab",
-      "event_url": "#",
-      "stream_data_url": "",
-      "drm_key": ""
-    },
+      "event_url": "https://www.icc-cricket.com/videos/11th-t20i-myanmar-v-indonesia",
+      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1763012798~acl=/variant/v1blackout/vcg-01-d/*~hmac=90183eaab667fe681d7615c2703fa878a3fcc6626633d47d5b88b5bb0e3b636f/manifest.mpd",
+      "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
+    }
+  ],
+  "upcoming_events": [
     {
       "isStart": "Upcoming",
       "tournament": "Bali Bash International Rising East Asia Tri-Series, 2025",
@@ -31,9 +32,9 @@
     {
       "isStart": "Upcoming",
       "tournament": "ICC Women's Emerging Nations Trophy, 2025",
-      "title": "Papua New Guinea v United Arab Emirates",
+      "title": "Thailand v Netherlands",
       "date_time": "02:30, 20/11/2025",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/sws4vtciswbtzeprnpe7",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/tbzfogyhwf6wilhycwv3",
       "event_url": "#",
       "stream_data_url": "",
       "drm_key": ""
@@ -41,9 +42,9 @@
     {
       "isStart": "Upcoming",
       "tournament": "ICC Women's Emerging Nations Trophy, 2025",
-      "title": "Thailand v Netherlands",
+      "title": "Papua New Guinea v United Arab Emirates",
       "date_time": "02:30, 20/11/2025",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/tbzfogyhwf6wilhycwv3",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/sws4vtciswbtzeprnpe7",
       "event_url": "#",
       "stream_data_url": "",
       "drm_key": ""
@@ -71,9 +72,9 @@
     {
       "isStart": "Upcoming",
       "tournament": "ICC Women's Emerging Nations Trophy, 2025",
-      "title": "Netherlands v United Arab Emirates",
+      "title": "Thailand v Papua New Guinea",
       "date_time": "02:30, 21/11/2025",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/s46bvke9t2xkwz3qa1jp",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/cfqqyfxgfpqkwhvcjsav",
       "event_url": "#",
       "stream_data_url": "",
       "drm_key": ""
@@ -81,9 +82,9 @@
     {
       "isStart": "Upcoming",
       "tournament": "ICC Women's Emerging Nations Trophy, 2025",
-      "title": "Thailand v Papua New Guinea",
+      "title": "Netherlands v United Arab Emirates",
       "date_time": "02:30, 21/11/2025",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/cfqqyfxgfpqkwhvcjsav",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/s46bvke9t2xkwz3qa1jp",
       "event_url": "#",
       "stream_data_url": "",
       "drm_key": ""
@@ -104,6 +105,16 @@
       "title": "Scotland v Tanzania",
       "date_time": "06:45, 21/11/2025",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/nqvdi7pygisjpcnt70t0",
+      "event_url": "#",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC Women's Emerging Nations Trophy, 2025",
+      "title": "Uganda v Papua New Guinea",
+      "date_time": "02:30, 23/11/2025",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/we8muyom7wzwvvzn9mvq",
       "event_url": "#",
       "stream_data_url": "",
       "drm_key": ""
