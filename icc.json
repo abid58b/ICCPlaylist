@@ -1,23 +1,12 @@
 {
   "Author": "Abid",
-  "Last_Updated": "08:57:15 AM 13-11-2025",
-  "total_events": 11,
+  "Last_Updated": "09:28:10 AM 13-11-2025",
+  "total_events": 10,
   "totals": {
-    "live": 1,
+    "live": 0,
     "upcoming": 10
   },
-  "live_events": [
-    {
-      "isStart": "Live",
-      "tournament": "Bali Bash International Rising East Asia Tri-Series, 2025",
-      "title": "11th T20I: Myanmar v Indonesia",
-      "date_time": "NOW",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/iigtxggzzddzfansvrab",
-      "event_url": "https://www.icc-cricket.com/videos/11th-t20i-myanmar-v-indonesia",
-      "stream_data_url": "MPD Link Nahi Mila",
-      "drm_key": "DRM Key Nahi Mili"
-    }
-  ],
+  "live_events": [],
   "upcoming_events": [
     {
       "isStart": "Upcoming",
