@@ -1,13 +1,103 @@
 {
   "Author": "Abid",
-  "Last_Updated": "10:53:38 AM 13-11-2025",
-  "total_events": 10,
+  "Last_Updated": "11:22:39 AM 13-11-2025",
+  "total_events": 28,
   "totals": {
     "live": 0,
-    "upcoming": 10
+    "upcoming": 28
   },
   "live_events": [],
   "upcoming_events": [
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC World Test Championship",
+      "title": "Fitness concerns for England speedster ahead of Ashes",
+      "date_time": "Date/Time Nahi Mila",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/zndffvndepkojsmqbhw2",
+      "event_url": "https://www.icc-cricket.com/news/fitness-concerns-for-england-speedster-ahead-of-ashes",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "News",
+      "title": "Big batting shuffle in West Indies squad for New Zealand ODIs",
+      "date_time": "Date/Time Nahi Mila",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/znpvczoi8bkvkyqlvu2w",
+      "event_url": "https://www.icc-cricket.com/news/big-batting-shuffle-in-west-indies-squad-for-new-zealand-odis",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "News",
+      "title": "Litchfield responds to Lanning's call on next Aussie captain",
+      "date_time": "Date/Time Nahi Mila",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/ywq5aumvueth9y5clbyv",
+      "event_url": "https://www.icc-cricket.com/tournaments/womens-cricket-worldcup-2025/news/litchfield-responds-to-lanning-s-call-on-next-aussie-captain",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC CWC League 2, 2023-27",
+      "title": "Cricket World Cup League 2: USA push on as table takes shape",
+      "date_time": "Date/Time Nahi Mila",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/qe8s3y8firhosa08ca6l",
+      "event_url": "https://www.icc-cricket.com/tournaments/icc-cricket-world-cup-league-2/news/cricket-world-cup-league-2-usa-push-on-as-table-takes-shape",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC Men's T20 World Cup, 2026",
+      "title": "New Zealand star won't rush return ahead of T20 World Cup",
+      "date_time": "Date/Time Nahi Mila",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/gnoyegpcis8afuchpshi",
+      "event_url": "https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/news/new-zealand-star-won-t-rush-return-ahead-of-t20-world-cup",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC World Test Championship",
+      "title": "Ten Doeschate anticipates mouth-watering tie against Proteas",
+      "date_time": "Date/Time Nahi Mila",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/fusjs7h1qlas3aa6zorz",
+      "event_url": "https://www.icc-cricket.com/news/ten-doeschate-anticipates-mouth-watering-tie-against-proteas",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "Women's Player of the Month",
+      "title": "ICC Women’s Player of the Month for October 2025 revealed",
+      "date_time": "Date/Time Nahi Mila",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/wwauluwjbrdowhehht17",
+      "event_url": "https://www.icc-cricket.com/news/icc-women-s-player-of-the-month-for-october-2025-revealed",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "News",
+      "title": "ICC Men’s Player of the Month for October 2025 unveiled",
+      "date_time": "Date/Time Nahi Mila",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/amvmmizkndg7bav5sfjt",
+      "event_url": "https://www.icc-cricket.com/news/icc-men-s-player-of-the-month-for-october-2025-unveiled",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC World Test Championship",
+      "title": "Australia issue update on Hazlewood, Abbott injuries",
+      "date_time": "Date/Time Nahi Mila",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/trmhw3stww4kxxgvrxvm",
+      "event_url": "https://www.icc-cricket.com/news/australia-issue-update-on-hazlewood-abbott-injuries",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
     {
       "isStart": "Upcoming",
       "tournament": "Bali Bash International Rising East Asia Tri-Series, 2025",
@@ -105,6 +195,96 @@
       "date_time": "02:30, 23/11/2025",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/we8muyom7wzwvvzn9mvq",
       "event_url": "#",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC World Test Championship",
+      "title": "Gill weighs in on WTC stakes and Shami’s absence for India",
+      "date_time": "Date/Time Nahi Mila",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio1_1-size40-webp/prd/b3czdpcf3ixlddsy2dfs",
+      "event_url": "https://www.icc-cricket.com/news/gill-weighs-in-on-wtc-stakes-and-shami-s-absence-for-india",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC World Test Championship",
+      "title": "Fitness concerns for England speedster ahead of Ashes",
+      "date_time": "Date/Time Nahi Mila",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio1_1-size40-webp/prd/zndffvndepkojsmqbhw2",
+      "event_url": "https://www.icc-cricket.com/news/fitness-concerns-for-england-speedster-ahead-of-ashes",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "News",
+      "title": "Big batting shuffle in West Indies squad for New Zealand ODIs",
+      "date_time": "Date/Time Nahi Mila",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio1_1-size40-webp/prd/znpvczoi8bkvkyqlvu2w",
+      "event_url": "https://www.icc-cricket.com/news/big-batting-shuffle-in-west-indies-squad-for-new-zealand-odis",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC CWC League 2, 2023-27",
+      "title": "Cricket World Cup League 2: USA push on as table takes shape",
+      "date_time": "Date/Time Nahi Mila",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio1_1-size40-webp/prd/qe8s3y8firhosa08ca6l",
+      "event_url": "https://www.icc-cricket.com/tournaments/icc-cricket-world-cup-league-2/news/cricket-world-cup-league-2-usa-push-on-as-table-takes-shape",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "News",
+      "title": "Litchfield responds to Lanning's call on next Aussie captain",
+      "date_time": "Date/Time Nahi Mila",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio1_1-size40-webp/prd/ywq5aumvueth9y5clbyv",
+      "event_url": "https://www.icc-cricket.com/tournaments/womens-cricket-worldcup-2025/news/litchfield-responds-to-lanning-s-call-on-next-aussie-captain",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC Men's T20 World Cup, 2026",
+      "title": "New Zealand star won't rush return ahead of T20 World Cup",
+      "date_time": "Date/Time Nahi Mila",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio1_1-size40-webp/prd/gnoyegpcis8afuchpshi",
+      "event_url": "https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/news/new-zealand-star-won-t-rush-return-ahead-of-t20-world-cup",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC World Test Championship",
+      "title": "Gill weighs in on WTC stakes and Shami’s absence for India",
+      "date_time": "Date/Time Nahi Mila",
+      "image_url": "Tasveer Nahi Mili",
+      "event_url": "https://www.icc-cricket.com/news/gill-weighs-in-on-wtc-stakes-and-shami-s-absence-for-india",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC World Test Championship",
+      "title": "Fitness concerns for England speedster ahead of Ashes",
+      "date_time": "Date/Time Nahi Mila",
+      "image_url": "Tasveer Nahi Mili",
+      "event_url": "https://www.icc-cricket.com/news/fitness-concerns-for-england-speedster-ahead-of-ashes",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "News",
+      "title": "Big batting shuffle in West Indies squad for New Zealand ODIs",
+      "date_time": "Date/Time Nahi Mila",
+      "image_url": "Tasveer Nahi Mili",
+      "event_url": "https://www.icc-cricket.com/news/big-batting-shuffle-in-west-indies-squad-for-new-zealand-odis",
       "stream_data_url": "",
       "drm_key": ""
     }
