@@ -1,23 +1,24 @@
 {
   "Author": "Abid",
-  "Last_Updated": "11:53:33 PM 13-11-2025",
-  "total_events": 10,
+  "Last_Updated": "01:54:02 AM 14-11-2025",
+  "total_events": 11,
   "totals": {
-    "live": 0,
+    "live": 1,
     "upcoming": 10
   },
-  "live_events": [],
-  "upcoming_events": [
+  "live_events": [
     {
-      "isStart": "Upcoming",
+      "isStart": "Live",
       "tournament": "Bali Bash International Rising East Asia Tri-Series, 2025",
       "title": "12th T20I: Timor-Leste v Myanmar",
-      "date_time": "01:30, 14/11/2025",
+      "date_time": "NOW",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/mn9ntfqlbsluphxmzpv3",
-      "event_url": "#",
-      "stream_data_url": "",
-      "drm_key": ""
-    },
+      "event_url": "https://www.icc-cricket.com/videos/12th-t20i-timor-leste-v-myanmar",
+      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1763085272~acl=/variant/v1blackout/vcg-01-d/*~hmac=b9f3417e58e21604575950ddd2da24d2cab3217e86eae670aa4bfc38e0b67c8a/manifest.mpd",
+      "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
+    }
+  ],
+  "upcoming_events": [
     {
       "isStart": "Upcoming",
       "tournament": "ICC Women's Emerging Nations Trophy, 2025",
@@ -41,9 +42,9 @@
     {
       "isStart": "Upcoming",
       "tournament": "ICC Women's Emerging Nations Trophy, 2025",
-      "title": "Scotland v Uganda",
+      "title": "Namibia v Tanzania",
       "date_time": "06:45, 20/11/2025",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/vzcuftynlchxxav5ilmm",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/iovzs8gvyn9cz2fzqcjd",
       "event_url": "#",
       "stream_data_url": "",
       "drm_key": ""
@@ -51,9 +52,9 @@
     {
       "isStart": "Upcoming",
       "tournament": "ICC Women's Emerging Nations Trophy, 2025",
-      "title": "Namibia v Tanzania",
+      "title": "Scotland v Uganda",
       "date_time": "06:45, 20/11/2025",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/iovzs8gvyn9cz2fzqcjd",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/vzcuftynlchxxav5ilmm",
       "event_url": "#",
       "stream_data_url": "",
       "drm_key": ""
@@ -81,16 +82,6 @@
     {
       "isStart": "Upcoming",
       "tournament": "ICC Women's Emerging Nations Trophy, 2025",
-      "title": "Uganda v Namibia",
-      "date_time": "06:45, 21/11/2025",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/x54dfomm6mqitzpo4fw1",
-      "event_url": "#",
-      "stream_data_url": "",
-      "drm_key": ""
-    },
-    {
-      "isStart": "Upcoming",
-      "tournament": "ICC Women's Emerging Nations Trophy, 2025",
       "title": "Scotland v Tanzania",
       "date_time": "06:45, 21/11/2025",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/nqvdi7pygisjpcnt70t0",
@@ -101,9 +92,29 @@
     {
       "isStart": "Upcoming",
       "tournament": "ICC Women's Emerging Nations Trophy, 2025",
+      "title": "Uganda v Namibia",
+      "date_time": "06:45, 21/11/2025",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/x54dfomm6mqitzpo4fw1",
+      "event_url": "#",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC Women's Emerging Nations Trophy, 2025",
       "title": "Uganda v Papua New Guinea",
       "date_time": "02:30, 23/11/2025",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/we8muyom7wzwvvzn9mvq",
+      "event_url": "#",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC Women's Emerging Nations Trophy, 2025",
+      "title": "Tanzania v Netherlands",
+      "date_time": "02:30, 23/11/2025",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/wbmmls6iywk5yarch3n5",
       "event_url": "#",
       "stream_data_url": "",
       "drm_key": ""
