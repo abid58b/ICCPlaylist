@@ -1,103 +1,13 @@
 {
   "Author": "Abid",
-  "Last_Updated": "07:00:36 PM 15-11-2025",
-  "total_events": 28,
+  "Last_Updated": "07:20:27 PM 15-11-2025",
+  "total_events": 10,
   "totals": {
     "live": 0,
-    "upcoming": 28
+    "upcoming": 10
   },
   "live_events": [],
   "upcoming_events": [
-    {
-      "isStart": "Upcoming",
-      "tournament": "ICC World Test Championship",
-      "title": "Australia dealt massive injury blow ahead of Ashes opener",
-      "date_time": "Date/Time Nahi Mila",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/fng83zekfletiolgo9rw",
-      "event_url": "https://www.icc-cricket.com/news/australia-dealt-massive-injury-blow-ahead-of-ashes-opener",
-      "stream_data_url": "",
-      "drm_key": ""
-    },
-    {
-      "isStart": "Upcoming",
-      "tournament": "ICC Women's Cricket World Cup, 2025",
-      "title": "Former coach tips Australia to rally quickly after CWC25",
-      "date_time": "Date/Time Nahi Mila",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/x9yo7jk0cjibglj9k8x5",
-      "event_url": "https://www.icc-cricket.com/tournaments/womens-cricket-worldcup-2025/news/former-coach-tips-australia-to-rally-quickly-after-cwc25",
-      "stream_data_url": "",
-      "drm_key": ""
-    },
-    {
-      "isStart": "Upcoming",
-      "tournament": "ICC World Test Championship",
-      "title": "Rabada out as India reveal selection shock for first Test",
-      "date_time": "Date/Time Nahi Mila",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/zrzvxv4q8mc3fy8lhj1t",
-      "event_url": "https://www.icc-cricket.com/news/rabada-out-as-india-reveal-selection-shock-for-first-test",
-      "stream_data_url": "",
-      "drm_key": ""
-    },
-    {
-      "isStart": "Upcoming",
-      "tournament": "News",
-      "title": "Bangladesh opener reveals reasons behind career-best innings",
-      "date_time": "Date/Time Nahi Mila",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/e6fznncgsn743lvnwl6n",
-      "event_url": "https://www.icc-cricket.com/news/bangladesh-opener-reveals-reasons-behind-career-best-innings",
-      "stream_data_url": "",
-      "drm_key": ""
-    },
-    {
-      "isStart": "Upcoming",
-      "tournament": "ICC World Test Championship",
-      "title": "Gill weighs in on WTC stakes and Shami’s absence for India",
-      "date_time": "Date/Time Nahi Mila",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/b3czdpcf3ixlddsy2dfs",
-      "event_url": "https://www.icc-cricket.com/news/gill-weighs-in-on-wtc-stakes-and-shami-s-absence-for-india",
-      "stream_data_url": "",
-      "drm_key": ""
-    },
-    {
-      "isStart": "Upcoming",
-      "tournament": "News",
-      "title": "Pakistan penalised for slow over-rate against Sri Lanka",
-      "date_time": "Date/Time Nahi Mila",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/kjpksjpkw3epldwcvlbj",
-      "event_url": "https://www.icc-cricket.com/news/pakistan-penalised-for-slow-over-rate-against-sri-lanka",
-      "stream_data_url": "",
-      "drm_key": ""
-    },
-    {
-      "isStart": "Upcoming",
-      "tournament": "ICC World Test Championship",
-      "title": "Fitness concerns for England speedster ahead of Ashes",
-      "date_time": "Date/Time Nahi Mila",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/zndffvndepkojsmqbhw2",
-      "event_url": "https://www.icc-cricket.com/news/fitness-concerns-for-england-speedster-ahead-of-ashes",
-      "stream_data_url": "",
-      "drm_key": ""
-    },
-    {
-      "isStart": "Upcoming",
-      "tournament": "News",
-      "title": "Big batting shuffle in West Indies squad for New Zealand ODIs",
-      "date_time": "Date/Time Nahi Mila",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/znpvczoi8bkvkyqlvu2w",
-      "event_url": "https://www.icc-cricket.com/news/big-batting-shuffle-in-west-indies-squad-for-new-zealand-odis",
-      "stream_data_url": "",
-      "drm_key": ""
-    },
-    {
-      "isStart": "Upcoming",
-      "tournament": "News",
-      "title": "Litchfield responds to Lanning's call on next Aussie captain",
-      "date_time": "Date/Time Nahi Mila",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/ywq5aumvueth9y5clbyv",
-      "event_url": "https://www.icc-cricket.com/tournaments/womens-cricket-worldcup-2025/news/litchfield-responds-to-lanning-s-call-on-next-aussie-captain",
-      "stream_data_url": "",
-      "drm_key": ""
-    },
     {
       "isStart": "Upcoming",
       "tournament": "ICC Women's Emerging Nations Trophy, 2025",
@@ -195,96 +105,6 @@
       "date_time": "02:30, 23/11/2025",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/wbmmls6iywk5yarch3n5",
       "event_url": "#",
-      "stream_data_url": "",
-      "drm_key": ""
-    },
-    {
-      "isStart": "Upcoming",
-      "tournament": "News",
-      "title": "BCCI provide latest update on Gill injury",
-      "date_time": "Date/Time Nahi Mila",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio1_1-size40-webp/prd/e4cqkiqxp62kzrl6jv0n",
-      "event_url": "https://www.icc-cricket.com/news/bcci-provide-latest-update-on-gill-injury",
-      "stream_data_url": "",
-      "drm_key": ""
-    },
-    {
-      "isStart": "Upcoming",
-      "tournament": "ICC Women's Emerging Nations Trophy, 2025",
-      "title": "Inaugural ICC Women’s Emerging Nations Trophy announced",
-      "date_time": "Date/Time Nahi Mila",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio1_1-size40-webp/prd/k5deoclckecfgybx4xa9",
-      "event_url": "https://www.icc-cricket.com/news/inaugural-icc-women-s-emerging-nations-trophy-announced",
-      "stream_data_url": "",
-      "drm_key": ""
-    },
-    {
-      "isStart": "Upcoming",
-      "tournament": "ICC World Test Championship",
-      "title": "Australia dealt massive injury blow ahead of Ashes opener",
-      "date_time": "Date/Time Nahi Mila",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio1_1-size40-webp/prd/fng83zekfletiolgo9rw",
-      "event_url": "https://www.icc-cricket.com/news/australia-dealt-massive-injury-blow-ahead-of-ashes-opener",
-      "stream_data_url": "",
-      "drm_key": ""
-    },
-    {
-      "isStart": "Upcoming",
-      "tournament": "ICC Women's Cricket World Cup, 2025",
-      "title": "Former coach tips Australia to rally quickly after CWC25",
-      "date_time": "Date/Time Nahi Mila",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio1_1-size40-webp/prd/x9yo7jk0cjibglj9k8x5",
-      "event_url": "https://www.icc-cricket.com/tournaments/womens-cricket-worldcup-2025/news/former-coach-tips-australia-to-rally-quickly-after-cwc25",
-      "stream_data_url": "",
-      "drm_key": ""
-    },
-    {
-      "isStart": "Upcoming",
-      "tournament": "ICC World Test Championship",
-      "title": "Rabada out as India reveal selection shock for first Test",
-      "date_time": "Date/Time Nahi Mila",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio1_1-size40-webp/prd/zrzvxv4q8mc3fy8lhj1t",
-      "event_url": "https://www.icc-cricket.com/news/rabada-out-as-india-reveal-selection-shock-for-first-test",
-      "stream_data_url": "",
-      "drm_key": ""
-    },
-    {
-      "isStart": "Upcoming",
-      "tournament": "News",
-      "title": "Bangladesh opener reveals reasons behind career-best innings",
-      "date_time": "Date/Time Nahi Mila",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio1_1-size40-webp/prd/e6fznncgsn743lvnwl6n",
-      "event_url": "https://www.icc-cricket.com/news/bangladesh-opener-reveals-reasons-behind-career-best-innings",
-      "stream_data_url": "",
-      "drm_key": ""
-    },
-    {
-      "isStart": "Upcoming",
-      "tournament": "News",
-      "title": "BCCI provide latest update on Gill injury",
-      "date_time": "Date/Time Nahi Mila",
-      "image_url": "Tasveer Nahi Mili",
-      "event_url": "https://www.icc-cricket.com/news/bcci-provide-latest-update-on-gill-injury",
-      "stream_data_url": "",
-      "drm_key": ""
-    },
-    {
-      "isStart": "Upcoming",
-      "tournament": "Media Release",
-      "title": "ICC launches new global tournament to promote and expand Women’s Cricket around the world",
-      "date_time": "Date/Time Nahi Mila",
-      "image_url": "Tasveer Nahi Mili",
-      "event_url": "https://www.icc-cricket.com/media-releases/icc-launches-new-global-tournament-to-promote-and-expand-women-s-cricket-around-the-world",
-      "stream_data_url": "",
-      "drm_key": ""
-    },
-    {
-      "isStart": "Upcoming",
-      "tournament": "ICC Women's Emerging Nations Trophy, 2025",
-      "title": "Inaugural ICC Women’s Emerging Nations Trophy announced",
-      "date_time": "Date/Time Nahi Mila",
-      "image_url": "Tasveer Nahi Mili",
-      "event_url": "https://www.icc-cricket.com/news/inaugural-icc-women-s-emerging-nations-trophy-announced",
       "stream_data_url": "",
       "drm_key": ""
     }
