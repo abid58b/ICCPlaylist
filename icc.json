@@ -1,23 +1,12 @@
 {
   "Author": "Abid",
-  "Last_Updated": "05:46:36 AM 18-11-2025",
-  "total_events": 11,
+  "Last_Updated": "05:58:14 AM 18-11-2025",
+  "total_events": 10,
   "totals": {
-    "live": 1,
+    "live": 0,
     "upcoming": 10
   },
-  "live_events": [
-    {
-      "isStart": "Live",
-      "tournament": "Bahrain in Indonesia, 3 T20I Series, 2025",
-      "title": "1st T20I: Indonesia v Bahrain",
-      "date_time": "NOW",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/rwsj1fzrmj4fqhvpprxx",
-      "event_url": "https://www.icc-cricket.com/videos/1st-t20i-indonesia-v-bahrain",
-      "stream_data_url": "MPD Link Nahi Mila",
-      "drm_key": "DRM Key Nahi Mili"
-    }
-  ],
+  "live_events": [],
   "upcoming_events": [
     {
       "isStart": "Upcoming",
