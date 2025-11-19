@@ -1,5 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ts246" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/ilnbwyr0pbmxt71oyzi3" group-title="Live",2nd T20I: Indonesia v Bahrain
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
-#EXTINF:-1 tvg-id="ts246" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/ilnbwyr0pbmxt71oyzi3" group-title="Live",2nd T20I: Indonesia v Bahrain
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1763523504~acl=/variant/v1blackout/vcg-01-d/*~hmac=5a4a505e321c4011eb5bf2e264eb60ad1d21730d87e4beecd3ed145ecd27369f/manifest.mpd
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1763524889~acl=/variant/v1blackout/vcg-01-d/*~hmac=c666e7b28ef4b66693f3d31db00165bbabcce3f3921de830667d18215383eebf/manifest.mpd
+
