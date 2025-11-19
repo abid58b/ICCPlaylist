@@ -1,6 +1,6 @@
 {
   "Author": "Abid",
-  "Last_Updated": "02:44:44 AM 19-11-2025",
+  "Last_Updated": "03:37:54 AM 19-11-2025",
   "total_events": 11,
   "totals": {
     "live": 1,
@@ -14,7 +14,7 @@
       "date_time": "NOW",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/ilnbwyr0pbmxt71oyzi3",
       "event_url": "https://www.icc-cricket.com/videos/2nd-t20i-indonesia-v-bahrain",
-      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1763520314~acl=/variant/v1blackout/vcg-01-d/*~hmac=a33ffce7bf292b4476f716789bffb12c9855b0c65d51cc7af88c9cdb79bb325d/manifest.mpd",
+      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1763523504~acl=/variant/v1blackout/vcg-01-d/*~hmac=5a4a505e321c4011eb5bf2e264eb60ad1d21730d87e4beecd3ed145ecd27369f/manifest.mpd",
       "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
     }
   ],
