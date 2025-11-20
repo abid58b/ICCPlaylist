@@ -1,6 +1,6 @@
 {
   "Author": "Abid",
-  "Last_Updated": "08:38:17 AM 20-11-2025",
+  "Last_Updated": "08:56:19 AM 20-11-2025",
   "total_events": 12,
   "totals": {
     "live": 2,
@@ -14,7 +14,7 @@
       "date_time": "NOW",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/vzcuftynlchxxav5ilmm",
       "event_url": "https://www.icc-cricket.com/tournaments/womens-emerging-nations-trophy-2025/videos/scotland-v-uganda",
-      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1763627923~acl=/variant/v1blackout/vcg-01-d/*~hmac=aa60a8efbbb930ea8d314f680ca92934bc60bf6065c09df9a836be17136c5902/manifest.mpd",
+      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1763629006~acl=/variant/v1blackout/vcg-01-d/*~hmac=00a5056fcf77b4a159bcca05dd25098d7d0a7da2de879e31622f51e9556ab2f8/manifest.mpd",
       "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
     },
     {
@@ -24,7 +24,7 @@
       "date_time": "NOW",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/iovzs8gvyn9cz2fzqcjd",
       "event_url": "https://www.icc-cricket.com/tournaments/womens-emerging-nations-trophy-2025/videos/namibia-v-tanzania",
-      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1763627927~acl=/variant/v1blackout/vcg-01-d/*~hmac=25084f75015ef9c2cd01c29ba302dc5ceacd71c81f7348ce6bcf2fc305110a10/manifest.mpd",
+      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1763629009~acl=/variant/v1blackout/vcg-01-d/*~hmac=0bf30f165457123240c271eea11fae16f56fa4ac51ab3c36f7958604a3dc0b88/manifest.mpd",
       "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
     }
   ],
