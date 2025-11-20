@@ -1,9 +1,2 @@
 #EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=DRM Key Nahi Mili
-#EXTINF:-1 tvg-id="ts246" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/vzcuftynlchxxav5ilmm" group-title="Live",Scotland v Uganda
-MPD Link Nahi Mila
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=DRM Key Nahi Mili
-#EXTINF:-1 tvg-id="ts246" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/iovzs8gvyn9cz2fzqcjd" group-title="Live",Namibia v Tanzania
-MPD Link Nahi Mila
+
