@@ -1,9 +1,13 @@
 #EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
 #EXTINF:-1 tvg-id="ts246" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/vzcuftynlchxxav5ilmm" group-title="Live",Scotland v Uganda
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1763621918~acl=/variant/v1blackout/vcg-01-d/*~hmac=9bdec15d7b0a5677976c2d0e33f049fd80fafdbb9c33e41a2d60ed5c0ac04da0/manifest.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1763623702~acl=/variant/v1blackout/vcg-01-d/*~hmac=48632c8fa55c042a6b2bb415a301e6021012d453d17081177ddc1946768fd524/manifest.mpd
+
 #EXTINF:-1 tvg-id="ts246" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/iovzs8gvyn9cz2fzqcjd" group-title="Live",Namibia v Tanzania
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1763621921~acl=/variant/v1blackout/vcg-01-d/*~hmac=332233f2e79e13b3ab31baf3a4da7f65453da142aec2e1560443183bf1a8ae06/manifest.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1763623706~acl=/variant/v1blackout/vcg-01-d/*~hmac=03fa26b6ed8cf57b6a7adc013aed2af6e5718a31391fb6113b5ca4b3982eea1a/manifest.mpd
+
