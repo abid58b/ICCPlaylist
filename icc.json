@@ -1,6 +1,6 @@
 {
   "Author": "Abid",
-  "Last_Updated": "03:51:23 AM 20-11-2025",
+  "Last_Updated": "04:15:15 AM 20-11-2025",
   "total_events": 12,
   "totals": {
     "live": 2,
@@ -14,7 +14,7 @@
       "date_time": "NOW",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/tbzfogyhwf6wilhycwv3",
       "event_url": "https://www.icc-cricket.com/tournaments/womens-emerging-nations-trophy-2025/videos/thailand-v-netherlands",
-      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1763610709~acl=/variant/v1blackout/vcg-01-d/*~hmac=9c5182afe860f7baaca191379b789788c036d605797f7d9e46ed90ef95b3122c/manifest.mpd",
+      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1763612141~acl=/variant/v1blackout/vcg-01-d/*~hmac=ea6e6a9b8f3582727e5d18b018932946993e2fd53485a6e404a721d16fcc20a4/manifest.mpd",
       "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
     },
     {
@@ -24,7 +24,7 @@
       "date_time": "NOW",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/sws4vtciswbtzeprnpe7",
       "event_url": "https://www.icc-cricket.com/tournaments/womens-emerging-nations-trophy-2025/videos/papua-new-guinea-v-united-arab-emirates",
-      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1763610713~acl=/variant/v1blackout/vcg-01-d/*~hmac=cd6f2d052c287a80ff7da697d01605d852aee022027eddedd868201c30d4c816/manifest.mpd",
+      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1763612145~acl=/variant/v1blackout/vcg-01-d/*~hmac=af43b209cc229bde728161732faa37cc2523a4d1b579031ed04896eb92ef4549/manifest.mpd",
       "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
     }
   ],
