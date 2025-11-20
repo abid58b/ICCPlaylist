@@ -1,9 +1,1 @@
 #EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
-#EXTINF:-1 tvg-id="ts246" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/tbzfogyhwf6wilhycwv3" group-title="Live",Thailand v Netherlands
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1763616316~acl=/variant/v1blackout/vcg-01-d/*~hmac=6830f117b76776ee7a510dc9431e1c61a7d6e50d7dd380f4d213000d9869595f/manifest.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
-#EXTINF:-1 tvg-id="ts246" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/sws4vtciswbtzeprnpe7" group-title="Live",Papua New Guinea v United Arab Emirates
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1763616320~acl=/variant/v1blackout/vcg-01-d/*~hmac=110b29aa8e9c4898df045e03b64e395d5e3d244604f9f1ca7a1ff63b5528dfd2/manifest.mpd
