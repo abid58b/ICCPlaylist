@@ -1,33 +1,12 @@
 {
   "Author": "Abid",
-  "Last_Updated": "05:44:41 AM 20-11-2025",
-  "total_events": 12,
+  "Last_Updated": "05:58:43 AM 20-11-2025",
+  "total_events": 10,
   "totals": {
-    "live": 2,
+    "live": 0,
     "upcoming": 10
   },
-  "live_events": [
-    {
-      "isStart": "Live",
-      "tournament": "ICC Women's Emerging Nations Trophy, 2025",
-      "title": "Thailand v Netherlands",
-      "date_time": "NOW",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/tbzfogyhwf6wilhycwv3",
-      "event_url": "https://www.icc-cricket.com/tournaments/womens-emerging-nations-trophy-2025/videos/thailand-v-netherlands",
-      "stream_data_url": "MPD Link Nahi Mila",
-      "drm_key": "DRM Key Nahi Mili"
-    },
-    {
-      "isStart": "Live",
-      "tournament": "ICC Women's Emerging Nations Trophy, 2025",
-      "title": "Papua New Guinea v United Arab Emirates",
-      "date_time": "NOW",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/sws4vtciswbtzeprnpe7",
-      "event_url": "https://www.icc-cricket.com/tournaments/womens-emerging-nations-trophy-2025/videos/papua-new-guinea-v-united-arab-emirates",
-      "stream_data_url": "MPD Link Nahi Mila",
-      "drm_key": "DRM Key Nahi Mili"
-    }
-  ],
+  "live_events": [],
   "upcoming_events": [
     {
       "isStart": "Upcoming",
