@@ -3,4 +3,14 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
-https://live-d-02-icc-ne.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/manifest.mpd?hdnts=st=1763690414~exp=1763690454~acl=/variant/v1blackout/vcg-01-d/*~hmac=8f71580fc92694b2e68d5aa95ed551d30bedb0532d09081e96037051c8b3f9e7&hdcore=2.11.3
+https://live-d-02-icc-ne.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/manifest.mpd?hdnts=st=1763691800~exp=1763691840~acl=/variant/v1blackout/vcg-01-d/*~hmac=25e140d932ac9b1bffff842c4a8a695d7c97e4f071afc3b3a26ad903abd2b951&hdcore=2.11.3
+#EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/prd/s46bvke9t2xkwz3qa1jp" group-title="Live",NED vs UAE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/manifest.mpd?hdnts=st=1763691800~exp=1763691840~acl=/variant/v1blackout/vcg-01-d/*~hmac=25e140d932ac9b1bffff842c4a8a695d7c97e4f071afc3b3a26ad903abd2b951&hdcore=2.11.3
+#EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/prd/cfqqyfxgfpqkwhvcjsav" group-title="Live",Thailand vs Papua New Guinea
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
+https://live-d-02-icc-ne.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/manifest.mpd?hdnts=st=1763691800~exp=1763691840~acl=/variant/v1blackout/vcg-01-d/*~hmac=25e140d932ac9b1bffff842c4a8a695d7c97e4f071afc3b3a26ad903abd2b951&hdcore=2.11.3
