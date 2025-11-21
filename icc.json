@@ -1,6 +1,6 @@
 {
   "Author": "Abid",
-  "Last_Updated": "04:29:35 AM 21-11-2025",
+  "Last_Updated": "04:59:59 AM 21-11-2025",
   "total_events": 13,
   "totals": {
     "live": 3,
@@ -14,7 +14,7 @@
       "date_time": "NOW",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/tapzxu4htt4jxyyua55k",
       "event_url": "https://www.icc-cricket.com/videos/3rd-t20i-indonesia-v-bahrain",
-      "stream_data_url": "https://live-d-02-icc-ne.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1763699392~acl=/variant/v1blackout/vcg-01-d/*~hmac=44b0b386950dd3f8eb9278f6fbbb18b74b73a6471c3e00ebf154792d0aaa290a/manifest.mpd",
+      "stream_data_url": "https://live-d-02-icc-ne.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1763701224~acl=/variant/v1blackout/vcg-01-d/*~hmac=3e5e221e8b90c5cdf798e7c0ad1ba187d2353cd9c86ede987f876787fb09cbe3/manifest.mpd",
       "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
     },
     {
@@ -24,7 +24,7 @@
       "date_time": "NOW",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/cfqqyfxgfpqkwhvcjsav",
       "event_url": "https://www.icc-cricket.com/tournaments/womens-emerging-nations-trophy-2025/videos/thailand-v-papua-new-guinea",
-      "stream_data_url": "https://live-d-02-icc-ne.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1763699402~acl=/variant/v1blackout/vcg-01-d/*~hmac=49d8a91ae6b57b30407b08501be9232756d301f9ebbc01b6f0551212e5a2186a/manifest.mpd",
+      "stream_data_url": "https://live-d-02-icc-ne.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1763701227~acl=/variant/v1blackout/vcg-01-d/*~hmac=055c30e53a073e44ffcf2c8c86d69b5f6eb0ee70baf5646cb8dfd794c9749cbc/manifest.mpd",
       "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
     },
     {
@@ -34,7 +34,7 @@
       "date_time": "NOW",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/s46bvke9t2xkwz3qa1jp",
       "event_url": "https://www.icc-cricket.com/tournaments/womens-emerging-nations-trophy-2025/videos/netherlands-v-united-arab-emirates",
-      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1763699405~acl=/variant/v1blackout/vcg-01-d/*~hmac=77f6b1bbb46c0eb94d08a788acea66aa0bf66aab9c3fc9d839fee095ea7f80ac/manifest.mpd",
+      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1763701229~acl=/variant/v1blackout/vcg-01-d/*~hmac=c4c5b1e4dbbca77df46501b75715208f994e729717bdebde9675481e03cc25d3/manifest.mpd",
       "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
     }
   ],
