@@ -1,22 +1,12 @@
 {
   "Author": "Abid",
-  "Last_Updated": "09:45:22 AM 21-11-2025",
-  "total_events": 12,
+  "Last_Updated": "09:59:14 AM 21-11-2025",
+  "total_events": 11,
   "totals": {
-    "live": 2,
+    "live": 1,
     "upcoming": 10
   },
   "live_events": [
-    {
-      "isStart": "Live",
-      "tournament": "ICC Women's Emerging Nations Trophy, 2025",
-      "title": "Uganda v Namibia",
-      "date_time": "NOW",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/x54dfomm6mqitzpo4fw1",
-      "event_url": "https://www.icc-cricket.com/tournaments/womens-emerging-nations-trophy-2025/videos/uganda-v-namibia",
-      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1763718350~acl=/variant/v1blackout/vcg-01-d/*~hmac=59761af97c55f7c181cfe22ffa808c8bb0ef563c2cfa90c45b65069d6da5ca87/manifest.mpd",
-      "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
-    },
     {
       "isStart": "Live",
       "tournament": "ICC Women's Emerging Nations Trophy, 2025",
@@ -24,7 +14,7 @@
       "date_time": "NOW",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/nqvdi7pygisjpcnt70t0",
       "event_url": "https://www.icc-cricket.com/tournaments/womens-emerging-nations-trophy-2025/videos/scotland-v-tanzania",
-      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1763718352~acl=/variant/v1blackout/vcg-01-d/*~hmac=41e5ecb2215eb67bc20eb7bca5d4e4e9331b1ebc482a93784d5f6a6bfd614550/manifest.mpd",
+      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1763719184~acl=/variant/v1blackout/vcg-01-d/*~hmac=3bc441b39c988699149ef9654f9250191a9e569bfa796719bc913b49bb317710/manifest.mpd",
       "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
     }
   ],
