@@ -3,9 +3,9 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/manifest.mpd?hdnts=st=1763714553~exp=1763714593~acl=/variant/v1blackout/vcg-01-d/*~hmac=8e5009c7fa71aae3879ad05228ba3da682a3caac703de48a8cd028a7b688095d&hdcore=2.11.3
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/manifest.mpd?hdnts=st=1763715615~exp=1763715655~acl=/variant/v1blackout/vcg-01-d/*~hmac=afff56d90542883fc9bd6936654a046182680d9b7630ad878415611efa57212e&hdcore=2.11.3
 #EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/prd/x54dfomm6mqitzpo4fw1" group-title="Live",Uganda vs Namibia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/manifest.mpd?hdnts=st=1763714553~exp=1763714593~acl=/variant/v1blackout/vcg-01-d/*~hmac=8e5009c7fa71aae3879ad05228ba3da682a3caac703de48a8cd028a7b688095d&hdcore=2.11.3
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/manifest.mpd?hdnts=st=1763715615~exp=1763715655~acl=/variant/v1blackout/vcg-01-d/*~hmac=afff56d90542883fc9bd6936654a046182680d9b7630ad878415611efa57212e&hdcore=2.11.3
