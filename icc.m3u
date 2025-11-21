@@ -1,19 +1,13 @@
 #EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
 #EXTINF:-1 tvg-id="ts246" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/tapzxu4htt4jxyyua55k" group-title="Live",3rd T20I: Indonesia v Bahrain
-#EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36
+https://live-d-02-icc-ne.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1763699392~acl=/variant/v1blackout/vcg-01-d/*~hmac=44b0b386950dd3f8eb9278f6fbbb18b74b73a6471c3e00ebf154792d0aaa290a/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
-https://live-d-02-icc-ne.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1763700531~acl=/variant/v1blackout/vcg-01-d/*~hmac=3c227661a94f5824fcc18f035d6e697e0d64afec1c2e37e6a83ed18afc8714e3/manifest.mpd
-
 #EXTINF:-1 tvg-id="ts246" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/cfqqyfxgfpqkwhvcjsav" group-title="Live",Thailand v Papua New Guinea
-#EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36
+https://live-d-02-icc-ne.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1763699402~acl=/variant/v1blackout/vcg-01-d/*~hmac=49d8a91ae6b57b30407b08501be9232756d301f9ebbc01b6f0551212e5a2186a/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
-https://live-d-02-icc-ne.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1763700537~acl=/variant/v1blackout/vcg-01-d/*~hmac=25cff7af051cefc7804221069aebba82eff5097d29735aee8617b2ded121d08f/manifest.mpd
-
 #EXTINF:-1 tvg-id="ts246" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/s46bvke9t2xkwz3qa1jp" group-title="Live",Netherlands v United Arab Emirates
-#EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1763700540~acl=/variant/v1blackout/vcg-01-d/*~hmac=3b3718eb3f8eacfff2a0fa92342be30b6a42c19e5c1d110ec997c347abf303a6/manifest.mpd
-
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1763699405~acl=/variant/v1blackout/vcg-01-d/*~hmac=77f6b1bbb46c0eb94d08a788acea66aa0bf66aab9c3fc9d839fee095ea7f80ac/manifest.mpd
