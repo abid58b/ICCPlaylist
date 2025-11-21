@@ -1,43 +1,12 @@
 {
   "Author": "Abid",
-  "Last_Updated": "05:31:33 AM 21-11-2025",
-  "total_events": 13,
+  "Last_Updated": "05:47:27 AM 21-11-2025",
+  "total_events": 10,
   "totals": {
-    "live": 3,
+    "live": 0,
     "upcoming": 10
   },
-  "live_events": [
-    {
-      "isStart": "Live",
-      "tournament": "ICC Women's Emerging Nations Trophy, 2025",
-      "title": "Thailand v Papua New Guinea",
-      "date_time": "NOW",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/cfqqyfxgfpqkwhvcjsav",
-      "event_url": "https://www.icc-cricket.com/tournaments/womens-emerging-nations-trophy-2025/videos/thailand-v-papua-new-guinea",
-      "stream_data_url": "https://live-d-02-icc-ne.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1763703114~acl=/variant/v1blackout/vcg-01-d/*~hmac=035e7975781b8f2974c89ff08eaecd3a5fd65d6d5d9b221f4d2b28fe70bc0c6e/manifest.mpd",
-      "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
-    },
-    {
-      "isStart": "Live",
-      "tournament": "ICC Women's Emerging Nations Trophy, 2025",
-      "title": "Netherlands v United Arab Emirates",
-      "date_time": "NOW",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/s46bvke9t2xkwz3qa1jp",
-      "event_url": "https://www.icc-cricket.com/tournaments/womens-emerging-nations-trophy-2025/videos/netherlands-v-united-arab-emirates",
-      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1763703117~acl=/variant/v1blackout/vcg-01-d/*~hmac=bd95bd19bfd91479871e46c5f2e5e255e2402b4262b1a1a90563cd91b9b079ad/manifest.mpd",
-      "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
-    },
-    {
-      "isStart": "Live",
-      "tournament": "Indonesia vs Bahrain - 3rd T20I - 11/21/2025",
-      "title": "3rd T20I: Indonesia v Bahrain",
-      "date_time": "NOW",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/zwynqpiynihlanewwxtf",
-      "event_url": "https://www.icc-cricket.com/videos/3rd-t20i-indonesia-v-bahrain",
-      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1763703123~acl=/variant/v1blackout/vcg-01-d/*~hmac=acc3dda3f1bb783f0743f61a5d03c0282996fb04af209c303d75ab76ff5f4292/manifest.mpd",
-      "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
-    }
-  ],
+  "live_events": [],
   "upcoming_events": [
     {
       "isStart": "Upcoming",
