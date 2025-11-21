@@ -1,103 +1,13 @@
 {
   "Author": "Abid",
-  "Last_Updated": "10:48:46 AM 21-11-2025",
-  "total_events": 28,
+  "Last_Updated": "11:00:52 AM 21-11-2025",
+  "total_events": 10,
   "totals": {
     "live": 0,
-    "upcoming": 28
+    "upcoming": 10
   },
   "live_events": [],
   "upcoming_events": [
-    {
-      "isStart": "Upcoming",
-      "tournament": "ICC World Test Championship",
-      "title": "India name stand-in skipper as Gill update drops for Guwahati Test",
-      "date_time": "Date/Time Nahi Mila",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/wcxobinxsaqssjz8lkqp",
-      "event_url": "https://www.icc-cricket.com/news/india-name-stand-in-skipper-as-gill-update-drops-for-guwahati-test",
-      "stream_data_url": "",
-      "drm_key": ""
-    },
-    {
-      "isStart": "Upcoming",
-      "tournament": "ICC World Test Championship",
-      "title": "Rabada status confirmed for India series decider",
-      "date_time": "Date/Time Nahi Mila",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/v1763712596/prd/kwkaypixeoghzxzmfqek",
-      "event_url": "https://www.icc-cricket.com/news/rabada-status-confirmed-for-india-series-decider",
-      "stream_data_url": "",
-      "drm_key": ""
-    },
-    {
-      "isStart": "Upcoming",
-      "tournament": "ICC World Test Championship",
-      "title": "England bat first after opting for pace attack in Perth",
-      "date_time": "Date/Time Nahi Mila",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/n1qtmw96xtughzzm1lrw",
-      "event_url": "https://www.icc-cricket.com/news/england-bat-first-after-opting-for-pace-attack-in-perth",
-      "stream_data_url": "",
-      "drm_key": ""
-    },
-    {
-      "isStart": "Upcoming",
-      "tournament": "ICC World Test Championship",
-      "title": "Key pacer returns to West Indies squad for New Zealand Tests",
-      "date_time": "Date/Time Nahi Mila",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/ogfpkpjl0z4qpagqj9wq",
-      "event_url": "https://www.icc-cricket.com/news/key-pacer-returns-to-west-indies-squad-for-new-zealand-tests",
-      "stream_data_url": "",
-      "drm_key": ""
-    },
-    {
-      "isStart": "Upcoming",
-      "tournament": "ICC Women's Emerging Nations Trophy, 2025",
-      "title": "ICC Women’s Emerging Nations Trophy Day 1 wrap",
-      "date_time": "Date/Time Nahi Mila",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/o0dizovoaalukxnay7tq",
-      "event_url": "https://www.icc-cricket.com/tournaments/womens-emerging-nations-trophy-2025/news/icc-women-s-emerging-nations-trophy-day-1-wrap",
-      "stream_data_url": "",
-      "drm_key": ""
-    },
-    {
-      "isStart": "Upcoming",
-      "tournament": "ICC World Test Championship",
-      "title": "South Africa add pace power for second Test against India",
-      "date_time": "Date/Time Nahi Mila",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/v1763622076/prd/n6uzhwa5p5bbgpbvnscb",
-      "event_url": "https://www.icc-cricket.com/news/south-africa-add-pace-power-for-second-test-against-india",
-      "stream_data_url": "",
-      "drm_key": ""
-    },
-    {
-      "isStart": "Upcoming",
-      "tournament": "ICC World Test Championship",
-      "title": "Smith wary of 'riling up' England ace at Ashes",
-      "date_time": "Date/Time Nahi Mila",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/ufqwzefkw5nsvqlz2lmn",
-      "event_url": "https://www.icc-cricket.com/news/smith-wary-of-riling-up-england-ace-at-ashes",
-      "stream_data_url": "",
-      "drm_key": ""
-    },
-    {
-      "isStart": "Upcoming",
-      "tournament": "ICC World Test Championship, 2025/27",
-      "title": "Stokes aims to create history at the Ashes",
-      "date_time": "Date/Time Nahi Mila",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/r3cjx1mtqqxom2azcaht",
-      "event_url": "https://www.icc-cricket.com/news/stokes-aims-to-create-history-at-the-ashes",
-      "stream_data_url": "",
-      "drm_key": ""
-    },
-    {
-      "isStart": "Upcoming",
-      "tournament": "ICC World Test Championship",
-      "title": "Australia lock in playing XI for first Ashes Test in Perth",
-      "date_time": "Date/Time Nahi Mila",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/zgsuc9ewq4idofkwvxms",
-      "event_url": "https://www.icc-cricket.com/news/australia-lock-in-playing-xi-for-first-ashes-test-in-perth",
-      "stream_data_url": "",
-      "drm_key": ""
-    },
     {
       "isStart": "Upcoming",
       "tournament": "ICC Women's Emerging Nations Trophy, 2025",
@@ -195,96 +105,6 @@
       "date_time": "02:30, 26/11/2025",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/qsuicf5ptweopf2gyc9l",
       "event_url": "#",
-      "stream_data_url": "",
-      "drm_key": ""
-    },
-    {
-      "isStart": "Upcoming",
-      "tournament": "ICC World Test Championship",
-      "title": "Ponting backs India’s stand-in captain Pant for Guwahati Test",
-      "date_time": "Date/Time Nahi Mila",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio1_1-size40-webp/prd/xatscbxi72wmv44othur",
-      "event_url": "https://www.icc-cricket.com/news/ponting-backs-india-s-stand-in-captain-pant-for-guwahati-test",
-      "stream_data_url": "",
-      "drm_key": ""
-    },
-    {
-      "isStart": "Upcoming",
-      "tournament": "ICC World Test Championship",
-      "title": "Rabada status confirmed for India series decider",
-      "date_time": "Date/Time Nahi Mila",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio1_1-size40-webp/v1763712596/prd/kwkaypixeoghzxzmfqek",
-      "event_url": "https://www.icc-cricket.com/news/rabada-status-confirmed-for-india-series-decider",
-      "stream_data_url": "",
-      "drm_key": ""
-    },
-    {
-      "isStart": "Upcoming",
-      "tournament": "ICC World Test Championship",
-      "title": "India name stand-in skipper as Gill update drops for Guwahati Test",
-      "date_time": "Date/Time Nahi Mila",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio1_1-size40-webp/prd/wcxobinxsaqssjz8lkqp",
-      "event_url": "https://www.icc-cricket.com/news/india-name-stand-in-skipper-as-gill-update-drops-for-guwahati-test",
-      "stream_data_url": "",
-      "drm_key": ""
-    },
-    {
-      "isStart": "Upcoming",
-      "tournament": "ICC World Test Championship",
-      "title": "England bat first after opting for pace attack in Perth",
-      "date_time": "Date/Time Nahi Mila",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio1_1-size40-webp/prd/n1qtmw96xtughzzm1lrw",
-      "event_url": "https://www.icc-cricket.com/news/england-bat-first-after-opting-for-pace-attack-in-perth",
-      "stream_data_url": "",
-      "drm_key": ""
-    },
-    {
-      "isStart": "Upcoming",
-      "tournament": "ICC World Test Championship",
-      "title": "Key pacer returns to West Indies squad for New Zealand Tests",
-      "date_time": "Date/Time Nahi Mila",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio1_1-size40-webp/prd/ogfpkpjl0z4qpagqj9wq",
-      "event_url": "https://www.icc-cricket.com/news/key-pacer-returns-to-west-indies-squad-for-new-zealand-tests",
-      "stream_data_url": "",
-      "drm_key": ""
-    },
-    {
-      "isStart": "Upcoming",
-      "tournament": "ICC World Test Championship",
-      "title": "Smith wary of 'riling up' England ace at Ashes",
-      "date_time": "Date/Time Nahi Mila",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio1_1-size40-webp/prd/ufqwzefkw5nsvqlz2lmn",
-      "event_url": "https://www.icc-cricket.com/news/smith-wary-of-riling-up-england-ace-at-ashes",
-      "stream_data_url": "",
-      "drm_key": ""
-    },
-    {
-      "isStart": "Upcoming",
-      "tournament": "ICC World Test Championship",
-      "title": "Ponting backs India’s stand-in captain Pant for Guwahati Test",
-      "date_time": "Date/Time Nahi Mila",
-      "image_url": "Tasveer Nahi Mili",
-      "event_url": "https://www.icc-cricket.com/news/ponting-backs-india-s-stand-in-captain-pant-for-guwahati-test",
-      "stream_data_url": "",
-      "drm_key": ""
-    },
-    {
-      "isStart": "Upcoming",
-      "tournament": "ICC World Test Championship",
-      "title": "Rabada status confirmed for India series decider",
-      "date_time": "Date/Time Nahi Mila",
-      "image_url": "Tasveer Nahi Mili",
-      "event_url": "https://www.icc-cricket.com/news/rabada-status-confirmed-for-india-series-decider",
-      "stream_data_url": "",
-      "drm_key": ""
-    },
-    {
-      "isStart": "Upcoming",
-      "tournament": "ICC World Test Championship",
-      "title": "India name stand-in skipper as Gill update drops for Guwahati Test",
-      "date_time": "Date/Time Nahi Mila",
-      "image_url": "Tasveer Nahi Mili",
-      "event_url": "https://www.icc-cricket.com/news/india-name-stand-in-skipper-as-gill-update-drops-for-guwahati-test",
       "stream_data_url": "",
       "drm_key": ""
     }
