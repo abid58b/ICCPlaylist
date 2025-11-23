@@ -1,29 +1,40 @@
 {
   "Author": "Abid",
-  "Last_Updated": "05:57:41 AM 23-11-2025",
-  "total_events": 10,
+  "Last_Updated": "06:39:34 AM 23-11-2025",
+  "total_events": 12,
   "totals": {
-    "live": 0,
+    "live": 2,
     "upcoming": 10
   },
-  "live_events": [],
+  "live_events": [
+    {
+      "isStart": "Live",
+      "tournament": "ICC Women's Emerging Nations Trophy, 2025",
+      "title": "United Arab Emirates v Scotland",
+      "date_time": "NOW",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/lnompnb3jrfj21dh01ng",
+      "event_url": "https://www.icc-cricket.com/tournaments/womens-emerging-nations-trophy-2025/videos/united-arab-emirates-v-scotland",
+      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1763880000~acl=/variant/v1blackout/vcg-01-d/*~hmac=53e79bb271c61ec85272a7c8013ee0b2dbed4e68fef65183707193756a34be18/manifest.mpd",
+      "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
+    },
+    {
+      "isStart": "Live",
+      "tournament": "ICC Women's Emerging Nations Trophy, 2025",
+      "title": "Thailand v Namibia",
+      "date_time": "NOW",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/o1scjmdiep4nobp2qwlb",
+      "event_url": "https://www.icc-cricket.com/tournaments/womens-emerging-nations-trophy-2025/videos/thailand-v-namibia",
+      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1763880003~acl=/variant/v1blackout/vcg-01-d/*~hmac=c12752541804e8bf1e92b4a84b7f12b9ea050f9f1e6d5a50f31eb104c94cdb12/manifest.mpd",
+      "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
+    }
+  ],
   "upcoming_events": [
     {
       "isStart": "Upcoming",
       "tournament": "ICC Women's Emerging Nations Trophy, 2025",
-      "title": "United Arab Emirates v Scotland",
-      "date_time": "06:45, 23/11/2025",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/lnompnb3jrfj21dh01ng",
-      "event_url": "#",
-      "stream_data_url": "",
-      "drm_key": ""
-    },
-    {
-      "isStart": "Upcoming",
-      "tournament": "ICC Women's Emerging Nations Trophy, 2025",
-      "title": "Thailand v Namibia",
-      "date_time": "06:45, 23/11/2025",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/o1scjmdiep4nobp2qwlb",
+      "title": "Thailand v Tanzania",
+      "date_time": "02:30, 25/11/2025",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/zifpoogtrlfldhuuucda",
       "event_url": "#",
       "stream_data_url": "",
       "drm_key": ""
@@ -41,9 +52,9 @@
     {
       "isStart": "Upcoming",
       "tournament": "ICC Women's Emerging Nations Trophy, 2025",
-      "title": "Thailand v Tanzania",
-      "date_time": "02:30, 25/11/2025",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/zifpoogtrlfldhuuucda",
+      "title": "Namibia v Scotland",
+      "date_time": "06:45, 25/11/2025",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/olb6b4az2iiett4wkpmq",
       "event_url": "#",
       "stream_data_url": "",
       "drm_key": ""
@@ -61,9 +72,9 @@
     {
       "isStart": "Upcoming",
       "tournament": "ICC Women's Emerging Nations Trophy, 2025",
-      "title": "Namibia v Scotland",
-      "date_time": "06:45, 25/11/2025",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/olb6b4az2iiett4wkpmq",
+      "title": "Tanzania v United Arab Emirates",
+      "date_time": "02:30, 26/11/2025",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/uboue3ys2p8slb3tqqeq",
       "event_url": "#",
       "stream_data_url": "",
       "drm_key": ""
@@ -81,9 +92,9 @@
     {
       "isStart": "Upcoming",
       "tournament": "ICC Women's Emerging Nations Trophy, 2025",
-      "title": "Tanzania v United Arab Emirates",
-      "date_time": "02:30, 26/11/2025",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/uboue3ys2p8slb3tqqeq",
+      "title": "Papau New Guinea v Scotland",
+      "date_time": "06:45, 26/11/2025",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/vllpnlwuggetrihgyavz",
       "event_url": "#",
       "stream_data_url": "",
       "drm_key": ""
@@ -101,9 +112,19 @@
     {
       "isStart": "Upcoming",
       "tournament": "ICC Women's Emerging Nations Trophy, 2025",
-      "title": "Papau New Guinea v Scotland",
-      "date_time": "06:45, 26/11/2025",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/vllpnlwuggetrihgyavz",
+      "title": "Thailand v United Arab Emirates",
+      "date_time": "02:30, 28/11/2025",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/b57l5jwuwwmgdmjugfxq",
+      "event_url": "#",
+      "stream_data_url": "",
+      "drm_key": ""
+    },
+    {
+      "isStart": "Upcoming",
+      "tournament": "ICC Women's Emerging Nations Trophy, 2025",
+      "title": "Uganda v Tanzania",
+      "date_time": "02:30, 28/11/2025",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/de7mbmd21ptld8edkdcn",
       "event_url": "#",
       "stream_data_url": "",
       "drm_key": ""
