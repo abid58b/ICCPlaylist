@@ -1,6 +1,1 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/prd/o1scjmdiep4nobp2qwlb" group-title="Live",Thailand vs Namibia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/manifest.mpd?hdnts=st=1763892072~exp=1763892112~acl=/variant/v1blackout/vcg-01-d/*~hmac=0bb28273cba52a3663faf22dcb2d9ba6a22761b4df843fb52ae0a32b1890f6ed&hdcore=2.11.3
