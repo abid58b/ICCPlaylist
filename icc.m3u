@@ -1,9 +1,7 @@
 #EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
 #EXTINF:-1 tvg-id="ts246" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/we8muyom7wzwvvzn9mvq" group-title="Live",Uganda v Papua New Guinea
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1763873677~acl=/variant/v1blackout/vcg-01-d/*~hmac=efb0bfc88adbd4b8b08913ca859821b76deb0d04a6f8697b15f322d6cf3eb755/manifest.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
-#EXTINF:-1 tvg-id="ts246" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/wbmmls6iywk5yarch3n5" group-title="Live",Tanzania v Netherlands
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1763873692~acl=/variant/v1blackout/vcg-01-d/*~hmac=19c2d24f5e59e91c517d7be2a33551be16dea1716f6a2fffffb94729ffd86f09/manifest.mpd
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1763875508~acl=/variant/v1blackout/vcg-01-d/*~hmac=9435477a40a488f52a6803af0a2a149e9cd1b32e1c6594802b7451cbde49eb06/manifest.mpd
+
