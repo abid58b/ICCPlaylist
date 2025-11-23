@@ -1,23 +1,12 @@
 {
   "Author": "Abid",
-  "Last_Updated": "09:59:20 AM 23-11-2025",
-  "total_events": 11,
+  "Last_Updated": "10:28:25 AM 23-11-2025",
+  "total_events": 10,
   "totals": {
-    "live": 1,
+    "live": 0,
     "upcoming": 10
   },
-  "live_events": [
-    {
-      "isStart": "Live",
-      "tournament": "ICC Women's Emerging Nations Trophy, 2025",
-      "title": "Thailand v Namibia",
-      "date_time": "NOW",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/o1scjmdiep4nobp2qwlb",
-      "event_url": "https://www.icc-cricket.com/tournaments/womens-emerging-nations-trophy-2025/videos/thailand-v-namibia",
-      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1763891990~acl=/variant/v1blackout/vcg-01-d/*~hmac=f5844e66dba4368da844399a22c319838bdfbeed8c15689e5aa35589e39d83d3/manifest.mpd",
-      "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
-    }
-  ],
+  "live_events": [],
   "upcoming_events": [
     {
       "isStart": "Upcoming",
