@@ -1,5 +1,2 @@
 #EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
-#EXTINF:-1 tvg-id="ts246" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/o1scjmdiep4nobp2qwlb" group-title="Live",Thailand v Namibia
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1763891990~acl=/variant/v1blackout/vcg-01-d/*~hmac=f5844e66dba4368da844399a22c319838bdfbeed8c15689e5aa35589e39d83d3/manifest.mpd
+
