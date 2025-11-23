@@ -3,9 +3,9 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/manifest.mpd?hdnts=st=1763882906~exp=1763882946~acl=/variant/v1blackout/vcg-01-d/*~hmac=db35ffe8eb2521027c4c217711d4ab1f723379ce925e9581defe13c495befb69&hdcore=2.11.3
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/manifest.mpd?hdnts=st=1763883012~exp=1763883052~acl=/variant/v1blackout/vcg-01-d/*~hmac=44896e8b828f1dbed22ed70e97be53524277384872f5f68e0c5aecc784dafa87&hdcore=2.11.3
 #EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/prd/lnompnb3jrfj21dh01ng" group-title="Live",UAE vs Scotland
 #EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/manifest.mpd?hdnts=st=1763882907~exp=1763882947~acl=/variant/v1blackout/vcg-01-d/*~hmac=3287a1844b8db90e42530a52a9830f5a52af55526751d5eac52feca10d964d29&hdcore=2.11.3
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/manifest.mpd?hdnts=st=1763883013~exp=1763883053~acl=/variant/v1blackout/vcg-01-d/*~hmac=2fc809ae514954dca605226ab9dd2eff0f41f24edef284e62265723ba2dc858d&hdcore=2.11.3
