@@ -3,9 +3,9 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/manifest.mpd?hdnts=st=1763871774~exp=1763871814~acl=/variant/v1blackout/vcg-01-d/*~hmac=a2fdc265edd23af0cd8f88ce7e71e6101fdcc35e79d57f5bacfcb348ec7c546e&hdcore=2.11.3
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/manifest.mpd?hdnts=st=1763870417~exp=1763870457~acl=/variant/v1blackout/vcg-01-d/*~hmac=fa6288554370a044a601b076fe723183c0d31aa27fb4cfd447211f7bbcb2f9c3&hdcore=2.11.3
 #EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/prd/we8muyom7wzwvvzn9mvq" group-title="Live",Uganda vs Papua New Guinea
 #EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/manifest.mpd?hdnts=st=1763871775~exp=1763871815~acl=/variant/v1blackout/vcg-01-d/*~hmac=af0e8dc830d8ed319194ae206aab29e5474b3c3c69234a6d32e0567451e463b7&hdcore=2.11.3
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/manifest.mpd?hdnts=st=1763870418~exp=1763870458~acl=/variant/v1blackout/vcg-01-d/*~hmac=024bf532544984d08902e833d7336c1f680786c2931f93b603f465c97fe90f18&hdcore=2.11.3
