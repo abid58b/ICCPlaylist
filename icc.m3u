@@ -1,7 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ts246" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/we8muyom7wzwvvzn9mvq" group-title="Live",Uganda v Papua New Guinea
-#EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
+#EXTINF:-1 tvg-id="ts246" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/we8muyom7wzwvvzn9mvq" group-title="Live",Uganda v Papua New Guinea
 https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1763875508~acl=/variant/v1blackout/vcg-01-d/*~hmac=9435477a40a488f52a6803af0a2a149e9cd1b32e1c6594802b7451cbde49eb06/manifest.mpd
-
