@@ -1,23 +1,12 @@
 {
   "Author": "Abid",
-  "Last_Updated": "09:53:12 AM 25-11-2025",
-  "total_events": 11,
+  "Last_Updated": "10:29:47 AM 25-11-2025",
+  "total_events": 10,
   "totals": {
-    "live": 1,
+    "live": 0,
     "upcoming": 10
   },
-  "live_events": [
-    {
-      "isStart": "Live",
-      "tournament": "ICC Women's Emerging Nations Trophy, 2025",
-      "title": "Papua New Guinea v Netherlands",
-      "date_time": "NOW",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/phpkot3jx9dlbl6nttia",
-      "event_url": "https://www.icc-cricket.com/tournaments/womens-emerging-nations-trophy-2025/videos/papua-new-guinea-v-netherlands",
-      "stream_data_url": "MPD Link Nahi Mila",
-      "drm_key": "DRM Key Nahi Mili"
-    }
-  ],
+  "live_events": [],
   "upcoming_events": [
     {
       "isStart": "Upcoming",
