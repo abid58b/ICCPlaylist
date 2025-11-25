@@ -3,9 +3,9 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/manifest.mpd?hdnts=st=1764054630~exp=1764054670~acl=/variant/v1blackout/vcg-01-d/*~hmac=3c043a41a8f2b676e19add875d909dd4317d4339d6366421ca35e0f6bbea4273&hdcore=2.11.3
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1764084619~acl=/variant/v1blackout/vcg-01-d/*~data=hdntl~hmac=2ac45514659d56e39981f898ebb4c9ed7a90eb41885e0fd56dea21f14082b684/manifest.mpd
 #EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/prd/phpkot3jx9dlbl6nttia" group-title="Live",Papua New Guinea vs NED
 #EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/manifest.mpd?hdnts=st=1764054630~exp=1764054670~acl=/variant/v1blackout/vcg-01-d/*~hmac=3c043a41a8f2b676e19add875d909dd4317d4339d6366421ca35e0f6bbea4273&hdcore=2.11.3
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1764084620~acl=/variant/v1blackout/vcg-01-d/*~data=hdntl~hmac=d089d9ca6a432ee1316b295847b8d21627469821d72a5329d147fec350b7a9a4/manifest.mpd
