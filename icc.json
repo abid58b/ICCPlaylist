@@ -1,6 +1,6 @@
 {
   "Author": "Abid",
-  "Last_Updated": "07:31:46 AM 25-11-2025",
+  "Last_Updated": "07:48:43 AM 25-11-2025",
   "total_events": 12,
   "totals": {
     "live": 2,
@@ -14,7 +14,7 @@
       "date_time": "NOW",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/phpkot3jx9dlbl6nttia",
       "event_url": "https://www.icc-cricket.com/tournaments/womens-emerging-nations-trophy-2025/videos/papua-new-guinea-v-netherlands",
-      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1764055933~acl=/variant/v1blackout/vcg-01-d/*~hmac=79633587fa0f87af5bf0b4211dcfd7c383a8a52e43ee991ee7763d727b585df6/manifest.mpd",
+      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1764056951~acl=/variant/v1blackout/vcg-01-d/*~hmac=ca7e9daade4018442c2a2a7659c88487ba876b2261898dd68e1369323ed000ff/manifest.mpd",
       "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
     },
     {
@@ -24,7 +24,7 @@
       "date_time": "NOW",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/olb6b4az2iiett4wkpmq",
       "event_url": "https://www.icc-cricket.com/tournaments/womens-emerging-nations-trophy-2025/videos/namibia-v-scotland",
-      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1764055936~acl=/variant/v1blackout/vcg-01-d/*~hmac=60d72e8a1efcf39df4eb60f1522f04c87b7af28f21251d614622cb1cd570c826/manifest.mpd",
+      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1764056953~acl=/variant/v1blackout/vcg-01-d/*~hmac=9f9c19c12d53d5c2daade296d0c69e48764d1e3b87f03de52919e9d06e95620e/manifest.mpd",
       "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
     }
   ],
