@@ -1,9 +1,9 @@
 {
   "Author": "Abid",
-  "Last_Updated": "04:54:25 AM 25-11-2025",
-  "total_events": 12,
+  "Last_Updated": "05:27:06 AM 25-11-2025",
+  "total_events": 11,
   "totals": {
-    "live": 2,
+    "live": 1,
     "upcoming": 10
   },
   "live_events": [
@@ -14,17 +14,7 @@
       "date_time": "NOW",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/zifpoogtrlfldhuuucda",
       "event_url": "https://www.icc-cricket.com/tournaments/womens-emerging-nations-trophy-2025/videos/thailand-v-tanzania",
-      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1764046492~acl=/variant/v1blackout/vcg-01-d/*~hmac=d2a6b0207d12370d0583a3cdac721c20051551f4c3507b41b342704c75197f11/manifest.mpd",
-      "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
-    },
-    {
-      "isStart": "Live",
-      "tournament": "ICC Women's Emerging Nations Trophy, 2025",
-      "title": "United Arab Emirates v Uganda",
-      "date_time": "NOW",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/zoqy4ynjkiwsemvrsmgv",
-      "event_url": "https://www.icc-cricket.com/tournaments/womens-emerging-nations-trophy-2025/videos/united-arab-emirates-v-uganda",
-      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1764046495~acl=/variant/v1blackout/vcg-01-d/*~hmac=9c4de359e793903efd5d7ed14266be9c74e4f3f56d662db80e718edd92f596b1/manifest.mpd",
+      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1764048456~acl=/variant/v1blackout/vcg-01-d/*~hmac=9c2c3038541121af15868c352bcaefb29f8e54eb426c7549c681a71e906bcbde/manifest.mpd",
       "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
     }
   ],
