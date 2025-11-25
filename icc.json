@@ -1,9 +1,9 @@
 {
   "Author": "Abid",
-  "Last_Updated": "09:00:02 AM 25-11-2025",
-  "total_events": 12,
+  "Last_Updated": "09:34:13 AM 25-11-2025",
+  "total_events": 11,
   "totals": {
-    "live": 2,
+    "live": 1,
     "upcoming": 10
   },
   "live_events": [
@@ -14,17 +14,7 @@
       "date_time": "NOW",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/phpkot3jx9dlbl6nttia",
       "event_url": "https://www.icc-cricket.com/tournaments/womens-emerging-nations-trophy-2025/videos/papua-new-guinea-v-netherlands",
-      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1764061228~acl=/variant/v1blackout/vcg-01-d/*~hmac=b065506dfe8b45a34ab0652f66a9e4bc89ca832d270b654be506ef365c556e4c/manifest.mpd",
-      "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
-    },
-    {
-      "isStart": "Live",
-      "tournament": "ICC Women's Emerging Nations Trophy, 2025",
-      "title": "Namibia v Scotland",
-      "date_time": "NOW",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/olb6b4az2iiett4wkpmq",
-      "event_url": "https://www.icc-cricket.com/tournaments/womens-emerging-nations-trophy-2025/videos/namibia-v-scotland",
-      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1764061231~acl=/variant/v1blackout/vcg-01-d/*~hmac=f3c1a16ab854ad4de0ea4b1ee9ced89f72d3358c93379a026a70d8b74367699b/manifest.mpd",
+      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1764063282~acl=/variant/v1blackout/vcg-01-d/*~hmac=9a0b882852e93fce9abf75e1c77ab02cfb88a5fb842c852cee8f4ae2a4a8762c/manifest.mpd",
       "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
     }
   ],
