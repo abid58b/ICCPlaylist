@@ -3,9 +3,9 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/manifest.mpd?hdnts=st=1764045017~exp=1764045057~acl=/variant/v1blackout/vcg-01-d/*~hmac=c3b401d87137f1f18a640556fa9ddc0f85b8df6e8eb880ef386be3722c48926a&hdcore=2.11.3
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/manifest.mpd?hdnts=st=1764045635~exp=1764045675~acl=/variant/v1blackout/vcg-01-d/*~hmac=c8bc0f1ea339c20776750ec9487b435e5198ef60127e76b23687ec4538d383de&hdcore=2.11.3
 #EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/prd/zifpoogtrlfldhuuucda" group-title="Live",Thailand vs Tanzania
 #EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/manifest.mpd?hdnts=st=1764045018~exp=1764045058~acl=/variant/v1blackout/vcg-01-d/*~hmac=81dc41ebcfd930ac5ad7cafb74171893c2bdb558ddd6070357a928a54a230d92&hdcore=2.11.3
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/manifest.mpd?hdnts=st=1764045635~exp=1764045675~acl=/variant/v1blackout/vcg-01-d/*~hmac=c8bc0f1ea339c20776750ec9487b435e5198ef60127e76b23687ec4538d383de&hdcore=2.11.3
