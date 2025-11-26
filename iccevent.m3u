@@ -3,9 +3,9 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/manifest.mpd?hdnts=st=1764126017~exp=1764126057~acl=/variant/v1blackout/vcg-01-d/*~hmac=eaf6b5c618486691c9d5c1f26b3b197670062a6966ccae0a435b5b15de2738f4&hdcore=2.11.3
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/manifest.mpd?hdnts=st=1764127812~exp=1764127852~acl=/variant/v1blackout/vcg-01-d/*~hmac=7cfb2564a0f4b1d36f7d0daa5634eed7e4d3dd37e530b3754c765c4e13bb7a44&hdcore=2.11.3
 #EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/prd/uboue3ys2p8slb3tqqeq" group-title="Live",Tanzania vs UAE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/manifest.mpd?hdnts=st=1764126018~exp=1764126058~acl=/variant/v1blackout/vcg-01-d/*~hmac=4834fa3b23ed8c5e9b4ca6907eab2071f67805a2878e37a8afad7098c4aaaf72&hdcore=2.11.3
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/manifest.mpd?hdnts=st=1764127813~exp=1764127853~acl=/variant/v1blackout/vcg-01-d/*~hmac=0774ab1f6cfba00068c850fbd957e33ae1486a4d2d81902d4c04fb072b32a22a&hdcore=2.11.3
