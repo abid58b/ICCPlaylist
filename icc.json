@@ -1,6 +1,6 @@
 {
   "Author": "Abid",
-  "Last_Updated": "09:49:15 AM 26-11-2025",
+  "Last_Updated": "10:01:54 AM 26-11-2025",
   "total_events": 9,
   "totals": {
     "live": 1,
@@ -14,7 +14,7 @@
       "date_time": "NOW",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/vllpnlwuggetrihgyavz",
       "event_url": "https://www.icc-cricket.com/tournaments/womens-emerging-nations-trophy-2025/videos/papau-new-guinea-v-scotland",
-      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1764150585~acl=/variant/v1blackout/vcg-01-d/*~hmac=101ae330990004dedae937bfd6ad255098547f1cfcef052562ece0ba71918940/manifest.mpd",
+      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1764151344~acl=/variant/v1blackout/vcg-01-d/*~hmac=86bc1195ba0f45430ef455c5ff471a39a80760942b089091e85c981c36637e28/manifest.mpd",
       "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
     }
   ],
