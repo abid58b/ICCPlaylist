@@ -1,23 +1,12 @@
 {
   "Author": "Abid",
-  "Last_Updated": "04:55:42 AM 26-11-2025",
-  "total_events": 11,
+  "Last_Updated": "05:25:22 AM 26-11-2025",
+  "total_events": 10,
   "totals": {
-    "live": 1,
+    "live": 0,
     "upcoming": 10
   },
-  "live_events": [
-    {
-      "isStart": "Live",
-      "tournament": "ICC Women's Emerging Nations Trophy, 2025",
-      "title": "Thailand v Uganda",
-      "date_time": "NOW",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/qsuicf5ptweopf2gyc9l",
-      "event_url": "https://www.icc-cricket.com/tournaments/womens-emerging-nations-trophy-2025/videos/thailand-v-uganda",
-      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1764132971~acl=/variant/v1blackout/vcg-01-d/*~hmac=6c80e3f8e00251a4f35e50127f08ac5d69bb19c77c3a8f5c0f817e819a5a0d6d/manifest.mpd",
-      "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
-    }
-  ],
+  "live_events": [],
   "upcoming_events": [
     {
       "isStart": "Upcoming",
