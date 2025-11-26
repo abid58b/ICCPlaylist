@@ -3,9 +3,9 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/manifest.mpd?hdnts=st=1764146547~exp=1764146587~acl=/variant/v1blackout/vcg-01-d/*~hmac=d5a918b59af99aa15debc86366370a251fb9f82629a09d7d1e1a35c62b21b22e&hdcore=2.11.3
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/manifest.mpd?hdnts=st=1764147619~exp=1764147659~acl=/variant/v1blackout/vcg-01-d/*~hmac=3fa7a78ec042cacd66c95186a7a7d218feb52c8710d3cebe22708e43ed8d0670&hdcore=2.11.3
 #EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/prd/bfzbiubamewm6zyd5jji" group-title="Live",NED vs Namibia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/manifest.mpd?hdnts=st=1764146548~exp=1764146588~acl=/variant/v1blackout/vcg-01-d/*~hmac=e4810789a694fc1f9ec91780b20f2b94e14b238ecbb9b75c75154d46cf4d91f0&hdcore=2.11.3
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/manifest.mpd?hdnts=st=1764147620~exp=1764147660~acl=/variant/v1blackout/vcg-01-d/*~hmac=2e87dbd9119979400d1c4b5591987c77bdbf0362bb023f02a84c2f9497236991&hdcore=2.11.3
