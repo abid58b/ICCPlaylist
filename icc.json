@@ -1,9 +1,9 @@
 {
   "Author": "Abid",
-  "Last_Updated": "05:01:19 AM 28-11-2025",
-  "total_events": 8,
+  "Last_Updated": "05:32:44 AM 28-11-2025",
+  "total_events": 7,
   "totals": {
-    "live": 2,
+    "live": 1,
     "upcoming": 6
   },
   "live_events": [
@@ -14,17 +14,7 @@
       "date_time": "NOW",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/b57l5jwuwwmgdmjugfxq",
       "event_url": "https://www.icc-cricket.com/tournaments/womens-emerging-nations-trophy-2025/videos/thailand-v-united-arab-emirates",
-      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1764306106~acl=/variant/v1blackout/vcg-01-d/*~hmac=07b89704961167629f8cc8c69952da7f7d06f6e1307db63d57aae16af8f5c1e3/manifest.mpd",
-      "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
-    },
-    {
-      "isStart": "Live",
-      "tournament": "ICC Women's Emerging Nations Trophy, 2025",
-      "title": "Uganda v Tanzania",
-      "date_time": "NOW",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/de7mbmd21ptld8edkdcn",
-      "event_url": "https://www.icc-cricket.com/tournaments/womens-emerging-nations-trophy-2025/videos/uganda-v-tanzania",
-      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1764306109~acl=/variant/v1blackout/vcg-01-d/*~hmac=9fa1d1b807490842605e43312a6ea214a6cc3b0f96b142396a3b1faa72df3aa6/manifest.mpd",
+      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1764307994~acl=/variant/v1blackout/vcg-01-d/*~hmac=cc836be043e5ee2406c0abe22842f45ebfca06472ab208f2947dcd24c6403e67/manifest.mpd",
       "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
     }
   ],
