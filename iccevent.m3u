@@ -1,1 +1,11 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/prd/l6zgou8b5iml6lrmll5a" group-title="Live",Namibia vs Papua New Guinea
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/manifest.mpd?hdnts=st=1764311412~exp=1764311452~acl=/variant/v1blackout/vcg-01-d/*~hmac=55dc6ae5cd8e0e07647c17ceae58b924b0d189020e0797411a86bbf7d616419b&hdcore=2.11.3
+#EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/prd/b5cagvica0yl23m4yl0s" group-title="Live",Scotland vs NED
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/manifest.mpd?hdnts=st=1764311413~exp=1764311453~acl=/variant/v1blackout/vcg-01-d/*~hmac=4d014f81e8451fa2fa29b2747238707193dbc9ed03ef3d1af00197a484f2f0d2&hdcore=2.11.3
