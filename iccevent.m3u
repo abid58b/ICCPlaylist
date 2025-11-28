@@ -3,9 +3,9 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/manifest.mpd?hdnts=st=1764315060~exp=1764315100~acl=/variant/v1blackout/vcg-01-d/*~hmac=457cc1c6875dedbf9d3496b9dbafbb6e5cf78586d11d806f2bd6cfc911a945b4&hdcore=2.11.3
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/manifest.mpd?hdnts=st=1764315772~exp=1764315812~acl=/variant/v1blackout/vcg-01-d/*~hmac=8585a2152151fdb5b0feebb283dc071c48f54bce713c8bebb8a8d30138ad5eed&hdcore=2.11.3
 #EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/prd/b5cagvica0yl23m4yl0s" group-title="Live",Scotland vs NED
 #EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/manifest.mpd?hdnts=st=1764315061~exp=1764315101~acl=/variant/v1blackout/vcg-01-d/*~hmac=f6eca2a0b619c31a0b79055514364aae54a1e0632999be6f83f08cfb883e2913&hdcore=2.11.3
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/manifest.mpd?hdnts=st=1764315772~exp=1764315812~acl=/variant/v1blackout/vcg-01-d/*~hmac=8585a2152151fdb5b0feebb283dc071c48f54bce713c8bebb8a8d30138ad5eed&hdcore=2.11.3
