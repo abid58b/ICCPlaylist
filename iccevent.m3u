@@ -1,11 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/prd/de7mbmd21ptld8edkdcn" group-title="Live",Uganda vs Tanzania
-#EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/manifest.mpd?hdnts=st=1764304752~exp=1764304792~acl=/variant/v1blackout/vcg-01-d/*~hmac=3944a71e3c5011d295ba7ad1afe89f3342321c728a7ab39b3ab2d48b93498ed7&hdcore=2.11.3
 #EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/prd/b57l5jwuwwmgdmjugfxq" group-title="Live",Thailand vs UAE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/manifest.mpd?hdnts=st=1764304753~exp=1764304793~acl=/variant/v1blackout/vcg-01-d/*~hmac=f9481e47b90195c9fe5197015d6799ae64ff6a47cdf85d4fd7ac2e6efb88d567&hdcore=2.11.3
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/manifest.mpd?hdnts=st=1764306589~exp=1764306629~acl=/variant/v1blackout/vcg-01-d/*~hmac=52e74a576f64148cf7e99071c96d128d590d72a3773991bc5bc305d019b40273&hdcore=2.11.3
