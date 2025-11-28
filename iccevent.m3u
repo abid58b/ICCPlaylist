@@ -3,9 +3,9 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/manifest.mpd?hdnts=st=1764297016~exp=1764297056~acl=/variant/v1blackout/vcg-01-d/*~hmac=7b6f403580504e79a135d9f4fcc4024d71f103f02a27ca119d6d2cf435b469a4&hdcore=2.11.3
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/manifest.mpd?hdnts=st=1764298813~exp=1764298853~acl=/variant/v1blackout/vcg-01-d/*~hmac=a80a7fcb404f138737b15e25e2becdab01ef69995c96754e30f77ecc327daab4&hdcore=2.11.3
 #EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/prd/b57l5jwuwwmgdmjugfxq" group-title="Live",Thailand vs UAE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/manifest.mpd?hdnts=st=1764297017~exp=1764297057~acl=/variant/v1blackout/vcg-01-d/*~hmac=da626de3a59b432155890353eb32f8175c925733aaad82780ef3c11acc35cbd5&hdcore=2.11.3
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/manifest.mpd?hdnts=st=1764298814~exp=1764298854~acl=/variant/v1blackout/vcg-01-d/*~hmac=efe4ff15246127fc7e71101508e79c46698080d88f94a8860d13e84076b6217f&hdcore=2.11.3
