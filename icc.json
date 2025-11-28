@@ -1,33 +1,34 @@
 {
   "Author": "Abid",
-  "Last_Updated": "01:51:35 AM 28-11-2025",
+  "Last_Updated": "03:16:15 AM 28-11-2025",
   "total_events": 8,
   "totals": {
-    "live": 0,
-    "upcoming": 8
+    "live": 2,
+    "upcoming": 6
   },
-  "live_events": [],
-  "upcoming_events": [
+  "live_events": [
     {
-      "isStart": "Upcoming",
+      "isStart": "Live",
       "tournament": "ICC Women's Emerging Nations Trophy, 2025",
       "title": "Thailand v United Arab Emirates",
-      "date_time": "02:30, 28/11/2025",
+      "date_time": "NOW",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/b57l5jwuwwmgdmjugfxq",
-      "event_url": "#",
-      "stream_data_url": "",
-      "drm_key": ""
+      "event_url": "https://www.icc-cricket.com/tournaments/womens-emerging-nations-trophy-2025/videos/thailand-v-united-arab-emirates",
+      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1764299801~acl=/variant/v1blackout/vcg-01-d/*~hmac=956587357b19dd9c07f187d4418a23df193000038d9b2c0311443f2135e9a073/manifest.mpd",
+      "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
     },
     {
-      "isStart": "Upcoming",
+      "isStart": "Live",
       "tournament": "ICC Women's Emerging Nations Trophy, 2025",
       "title": "Uganda v Tanzania",
-      "date_time": "02:30, 28/11/2025",
+      "date_time": "NOW",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/de7mbmd21ptld8edkdcn",
-      "event_url": "#",
-      "stream_data_url": "",
-      "drm_key": ""
-    },
+      "event_url": "https://www.icc-cricket.com/tournaments/womens-emerging-nations-trophy-2025/videos/uganda-v-tanzania",
+      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1764299805~acl=/variant/v1blackout/vcg-01-d/*~hmac=3d4d2cf97932b390e22daa57da3f725d0780f76e43bbfbb800018042806eeb0e/manifest.mpd",
+      "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
+    }
+  ],
+  "upcoming_events": [
     {
       "isStart": "Upcoming",
       "tournament": "ICC Women's Emerging Nations Trophy, 2025",
@@ -71,9 +72,9 @@
     {
       "isStart": "Upcoming",
       "tournament": "ICC Women's Emerging Nations Trophy, 2025",
-      "title": "Tanzania v Papua New Guinea",
+      "title": "Thailand v Scotland",
       "date_time": "06:45, 30/11/2025",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/xmryjg2i0layqsfawye7",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/i691d9lbuqv6xih5fwt6",
       "event_url": "#",
       "stream_data_url": "",
       "drm_key": ""
@@ -81,9 +82,9 @@
     {
       "isStart": "Upcoming",
       "tournament": "ICC Women's Emerging Nations Trophy, 2025",
-      "title": "Thailand v Scotland",
+      "title": "Tanzania v Papua New Guinea",
       "date_time": "06:45, 30/11/2025",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/i691d9lbuqv6xih5fwt6",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/xmryjg2i0layqsfawye7",
       "event_url": "#",
       "stream_data_url": "",
       "drm_key": ""
