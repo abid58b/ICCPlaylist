@@ -1,22 +1,12 @@
 {
   "Author": "Abid",
-  "Last_Updated": "09:46:24 AM 28-11-2025",
-  "total_events": 6,
+  "Last_Updated": "09:58:32 AM 28-11-2025",
+  "total_events": 5,
   "totals": {
-    "live": 2,
+    "live": 1,
     "upcoming": 4
   },
   "live_events": [
-    {
-      "isStart": "Live",
-      "tournament": "ICC Women's Emerging Nations Trophy, 2025",
-      "title": "Scotland v Netherlands",
-      "date_time": "NOW",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/b5cagvica0yl23m4yl0s",
-      "event_url": "https://www.icc-cricket.com/tournaments/womens-emerging-nations-trophy-2025/videos/scotland-v-netherlands",
-      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1764323209~acl=/variant/v1blackout/vcg-01-d/*~hmac=4e0a649bbcd0a81d5dc2a3697c4980e559ff46e6a58680010882fdb6b4e6831e/manifest.mpd",
-      "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
-    },
     {
       "isStart": "Live",
       "tournament": "ICC Women's Emerging Nations Trophy, 2025",
@@ -24,7 +14,7 @@
       "date_time": "NOW",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/l6zgou8b5iml6lrmll5a",
       "event_url": "https://www.icc-cricket.com/tournaments/womens-emerging-nations-trophy-2025/videos/namibia-v-papua-new-guinea",
-      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1764323214~acl=/variant/v1blackout/vcg-01-d/*~hmac=05be8e87d355aa2b7c943e9ad4f94d9cc99c9d0656a5c71c8800f8feb8648f12/manifest.mpd",
+      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1764323942~acl=/variant/v1blackout/vcg-01-d/*~hmac=3f1f911fc167f66fccb72154fda1a73e5e36938c0063ff025fb0c016c93417ae/manifest.mpd",
       "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
     }
   ],
