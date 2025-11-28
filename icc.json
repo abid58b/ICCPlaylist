@@ -1,23 +1,12 @@
 {
   "Author": "Abid",
-  "Last_Updated": "05:32:44 AM 28-11-2025",
-  "total_events": 7,
+  "Last_Updated": "05:51:01 AM 28-11-2025",
+  "total_events": 6,
   "totals": {
-    "live": 1,
+    "live": 0,
     "upcoming": 6
   },
-  "live_events": [
-    {
-      "isStart": "Live",
-      "tournament": "ICC Women's Emerging Nations Trophy, 2025",
-      "title": "Thailand v United Arab Emirates",
-      "date_time": "NOW",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/b57l5jwuwwmgdmjugfxq",
-      "event_url": "https://www.icc-cricket.com/tournaments/womens-emerging-nations-trophy-2025/videos/thailand-v-united-arab-emirates",
-      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1764307994~acl=/variant/v1blackout/vcg-01-d/*~hmac=cc836be043e5ee2406c0abe22842f45ebfca06472ab208f2947dcd24c6403e67/manifest.mpd",
-      "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
-    }
-  ],
+  "live_events": [],
   "upcoming_events": [
     {
       "isStart": "Upcoming",
