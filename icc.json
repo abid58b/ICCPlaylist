@@ -1,22 +1,12 @@
 {
   "Author": "Abid",
-  "Last_Updated": "09:23:22 AM 30-11-2025",
-  "total_events": 2,
+  "Last_Updated": "09:41:11 AM 30-11-2025",
+  "total_events": 1,
   "totals": {
-    "live": 2,
+    "live": 1,
     "upcoming": 0
   },
   "live_events": [
-    {
-      "isStart": "Live",
-      "tournament": "ICC Women's Emerging Nations Trophy, 2025",
-      "title": "Thailand v Scotland",
-      "date_time": "NOW",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/i691d9lbuqv6xih5fwt6",
-      "event_url": "https://www.icc-cricket.com/tournaments/womens-emerging-nations-trophy-2025/videos/thailand-v-scotland",
-      "stream_data_url": "https://dvr-d-01-icc-we.akamaized.net/Content/DASH/LLCU/d8d148d3-a621-4d46-97c0-f69cf02d9970/manifest.mpdhdntl=exp=1764494630~acl=/Content/DASH/LLCU/d8d148d3-a621-4d46-97c0-f69cf02d9970/*~hmac=a73f3a0f3484d5a1523cdfb11cc5afe355c96e6aef2353fb9a823d97b2871136/manifest.mpd",
-      "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
-    },
     {
       "isStart": "Live",
       "tournament": "ICC Women's Emerging Nations Trophy, 2025",
@@ -24,7 +14,7 @@
       "date_time": "NOW",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/xmryjg2i0layqsfawye7",
       "event_url": "https://www.icc-cricket.com/tournaments/womens-emerging-nations-trophy-2025/videos/tanzania-v-papua-new-guinea",
-      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1764494632~acl=/variant/v1blackout/vcg-01-d/*~hmac=8b6a24fda2e1fec24285bbcea12231601a92cf3cae2dc011849109aef3d98184/manifest.mpd",
+      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1764495701~acl=/variant/v1blackout/vcg-01-d/*~hmac=e0f62d3c08bc7ac4b5665f23292085d45d19f4e07f28a5235253015c55f17cce/manifest.mpd",
       "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
     }
   ],
