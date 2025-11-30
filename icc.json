@@ -1,22 +1,12 @@
 {
   "Author": "Abid",
-  "Last_Updated": "04:55:16 AM 30-11-2025",
-  "total_events": 4,
+  "Last_Updated": "05:25:03 AM 30-11-2025",
+  "total_events": 3,
   "totals": {
-    "live": 2,
+    "live": 1,
     "upcoming": 2
   },
   "live_events": [
-    {
-      "isStart": "Live",
-      "tournament": "ICC Women's Emerging Nations Trophy, 2025",
-      "title": "Netherlands v Uganda",
-      "date_time": "NOW",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/comitrddeacxgjo6mhoo",
-      "event_url": "https://www.icc-cricket.com/tournaments/womens-emerging-nations-trophy-2025/videos/netherlands-v-uganda",
-      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1764478543~acl=/variant/v1blackout/vcg-01-d/*~hmac=28df071b1e704fc02ca261de992732af10db436e05b3fff80364a3e63ca3df8d/manifest.mpd",
-      "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
-    },
     {
       "isStart": "Live",
       "tournament": "ICC Women's Emerging Nations Trophy, 2025",
@@ -24,7 +14,7 @@
       "date_time": "NOW",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/cxalddvmyy4yjmvliv0v",
       "event_url": "https://www.icc-cricket.com/tournaments/womens-emerging-nations-trophy-2025/videos/united-arab-emirates-v-namibia",
-      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1764478546~acl=/variant/v1blackout/vcg-01-d/*~hmac=30f76c1cb10383dbb04282bf35972ce8adcd8bd64418073224d452a33616561a/manifest.mpd",
+      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1764480333~acl=/variant/v1blackout/vcg-01-d/*~hmac=6d817bc97ae3b9c6f67f378c20a988b864d021cac3366a808604bbe0baa32b9c/manifest.mpd",
       "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
     }
   ],
