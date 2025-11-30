@@ -1,6 +1,6 @@
 {
   "Author": "Abid",
-  "Last_Updated": "08:41:56 AM 30-11-2025",
+  "Last_Updated": "08:54:45 AM 30-11-2025",
   "total_events": 2,
   "totals": {
     "live": 2,
@@ -14,7 +14,7 @@
       "date_time": "NOW",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/i691d9lbuqv6xih5fwt6",
       "event_url": "https://www.icc-cricket.com/tournaments/womens-emerging-nations-trophy-2025/videos/thailand-v-scotland",
-      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1764492142~acl=/variant/v1blackout/vcg-01-d/*~hmac=4d0444433849bbff62beb5d55dfe6a30260ecc743c7a9e8a23def0ad1e8334ff/manifest.mpd",
+      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1764492913~acl=/variant/v1blackout/vcg-01-d/*~hmac=13b4388321dfe9248fb69dee0a6a24461c82eb89e121a52dadc923eb8b4db480/manifest.mpd",
       "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
     },
     {
@@ -24,7 +24,7 @@
       "date_time": "NOW",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/xmryjg2i0layqsfawye7",
       "event_url": "https://www.icc-cricket.com/tournaments/womens-emerging-nations-trophy-2025/videos/tanzania-v-papua-new-guinea",
-      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1764492146~acl=/variant/v1blackout/vcg-01-d/*~hmac=82c18a30b8ba04a559612bd77d5c35e8bc799d503e6baeb3cc05e1364a3ffe62/manifest.mpd",
+      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1764492915~acl=/variant/v1blackout/vcg-01-d/*~hmac=43aa816ea6f10e473215aeb21475f4e3f336f991599d93a5f6c309eb9112e4ee/manifest.mpd",
       "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
     }
   ],
