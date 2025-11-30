@@ -1,6 +1,6 @@
 {
   "Author": "Abid",
-  "Last_Updated": "09:41:11 AM 30-11-2025",
+  "Last_Updated": "09:53:50 AM 30-11-2025",
   "total_events": 1,
   "totals": {
     "live": 1,
@@ -14,7 +14,7 @@
       "date_time": "NOW",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/xmryjg2i0layqsfawye7",
       "event_url": "https://www.icc-cricket.com/tournaments/womens-emerging-nations-trophy-2025/videos/tanzania-v-papua-new-guinea",
-      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1764495701~acl=/variant/v1blackout/vcg-01-d/*~hmac=e0f62d3c08bc7ac4b5665f23292085d45d19f4e07f28a5235253015c55f17cce/manifest.mpd",
+      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1764496459~acl=/variant/v1blackout/vcg-01-d/*~hmac=8975d7979fc0a859f89cca34d928fa8abe300b15990ba876ea299c757f72a28d/manifest.mpd",
       "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
     }
   ],
