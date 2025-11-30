@@ -1,32 +1,32 @@
 {
   "Author": "Abid",
-  "Last_Updated": "06:40:40 AM 30-11-2025",
+  "Last_Updated": "06:58:06 AM 30-11-2025",
   "total_events": 2,
   "totals": {
-    "live": 0,
-    "upcoming": 2
+    "live": 2,
+    "upcoming": 0
   },
-  "live_events": [],
-  "upcoming_events": [
+  "live_events": [
     {
-      "isStart": "Upcoming",
+      "isStart": "Live",
       "tournament": "ICC Women's Emerging Nations Trophy, 2025",
       "title": "Thailand v Scotland",
-      "date_time": "06:45, 30/11/2025",
+      "date_time": "NOW",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/i691d9lbuqv6xih5fwt6",
-      "event_url": "#",
-      "stream_data_url": "",
-      "drm_key": ""
+      "event_url": "https://www.icc-cricket.com/tournaments/womens-emerging-nations-trophy-2025/videos/thailand-v-scotland",
+      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1764485913~acl=/variant/v1blackout/vcg-01-d/*~hmac=0a38384614561d03fa912b6da4530eba58a62626266aec709af12b5744bdbcf1/manifest.mpd",
+      "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
     },
     {
-      "isStart": "Upcoming",
+      "isStart": "Live",
       "tournament": "ICC Women's Emerging Nations Trophy, 2025",
       "title": "Tanzania v Papua New Guinea",
-      "date_time": "06:45, 30/11/2025",
+      "date_time": "NOW",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/xmryjg2i0layqsfawye7",
-      "event_url": "#",
-      "stream_data_url": "",
-      "drm_key": ""
+      "event_url": "https://www.icc-cricket.com/tournaments/womens-emerging-nations-trophy-2025/videos/tanzania-v-papua-new-guinea",
+      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1764485916~acl=/variant/v1blackout/vcg-01-d/*~hmac=0a42b82a7094c6a708f66d9edc52a346e86406a39b126f74443b097329ddbde5/manifest.mpd",
+      "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
     }
-  ]
+  ],
+  "upcoming_events": []
 }
