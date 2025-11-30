@@ -3,9 +3,9 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/manifest.mpd?hdnts=st=1764492403~exp=1764492443~acl=/variant/v1blackout/vcg-01-d/*~hmac=21b42ef8cd35cdb63412648ef24006ae3d7673e8b481bb274089454ea76779e1&hdcore=2.11.3
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/manifest.mpd?hdnts=st=1764493212~exp=1764493252~acl=/variant/v1blackout/vcg-01-d/*~hmac=abb5a35e403d511ce8de7478e90396c7ab1a65c87ce6f44f175d41cef6adfc0f&hdcore=2.11.3
 #EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/prd/xmryjg2i0layqsfawye7" group-title="Live",Tanzania vs Papua New Guinea
 #EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/manifest.mpd?hdnts=st=1764492403~exp=1764492443~acl=/variant/v1blackout/vcg-01-d/*~hmac=21b42ef8cd35cdb63412648ef24006ae3d7673e8b481bb274089454ea76779e1&hdcore=2.11.3
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/manifest.mpd?hdnts=st=1764493212~exp=1764493252~acl=/variant/v1blackout/vcg-01-d/*~hmac=abb5a35e403d511ce8de7478e90396c7ab1a65c87ce6f44f175d41cef6adfc0f&hdcore=2.11.3
