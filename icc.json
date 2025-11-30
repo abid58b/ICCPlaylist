@@ -1,33 +1,34 @@
 {
   "Author": "Abid",
-  "Last_Updated": "11:58:28 PM 29-11-2025",
+  "Last_Updated": "02:26:03 AM 30-11-2025",
   "total_events": 4,
   "totals": {
-    "live": 0,
-    "upcoming": 4
+    "live": 2,
+    "upcoming": 2
   },
-  "live_events": [],
-  "upcoming_events": [
+  "live_events": [
     {
-      "isStart": "Upcoming",
+      "isStart": "Live",
       "tournament": "ICC Women's Emerging Nations Trophy, 2025",
       "title": "Netherlands v Uganda",
-      "date_time": "02:30, 30/11/2025",
+      "date_time": "NOW",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/comitrddeacxgjo6mhoo",
-      "event_url": "#",
-      "stream_data_url": "",
-      "drm_key": ""
+      "event_url": "https://www.icc-cricket.com/tournaments/womens-emerging-nations-trophy-2025/videos/netherlands-v-uganda",
+      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1764469590~acl=/variant/v1blackout/vcg-01-d/*~hmac=cdcea527f842add68cad06219152bc5cda8cb9916e98ee8b1d974a2a07412567/manifest.mpd",
+      "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
     },
     {
-      "isStart": "Upcoming",
+      "isStart": "Live",
       "tournament": "ICC Women's Emerging Nations Trophy, 2025",
       "title": "United Arab Emirates v Namibia",
-      "date_time": "02:30, 30/11/2025",
+      "date_time": "NOW",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/cxalddvmyy4yjmvliv0v",
-      "event_url": "#",
-      "stream_data_url": "",
-      "drm_key": ""
-    },
+      "event_url": "https://www.icc-cricket.com/tournaments/womens-emerging-nations-trophy-2025/videos/united-arab-emirates-v-namibia",
+      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1764469593~acl=/variant/v1blackout/vcg-01-d/*~hmac=31cc279c5d134c2ef56e01430cfa62872eb6f5ef5a802d1fe2eee5e80ca14c5b/manifest.mpd",
+      "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
+    }
+  ],
+  "upcoming_events": [
     {
       "isStart": "Upcoming",
       "tournament": "ICC Women's Emerging Nations Trophy, 2025",
