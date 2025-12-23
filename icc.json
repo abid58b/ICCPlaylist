@@ -1,33 +1,13 @@
 {
   "Author": "Abid",
-  "Last_Updated": "09:43:43 PM 21-12-2025",
-  "total_events": 8,
+  "Last_Updated": "10:29:12 PM 23-12-2025",
+  "total_events": 6,
   "totals": {
     "live": 0,
-    "upcoming": 8
+    "upcoming": 6
   },
   "live_events": [],
   "upcoming_events": [
-    {
-      "isStart": "Upcoming",
-      "tournament": "Cambodia in Indonesia, 8 T20I Series, 2025",
-      "title": "1st T20I: Indonesia v Cambodia",
-      "date_time": "01:30, 23/12/2025",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/n3yyr5p7yayh3xaravsi",
-      "event_url": "#",
-      "stream_data_url": "",
-      "drm_key": ""
-    },
-    {
-      "isStart": "Upcoming",
-      "tournament": "Cambodia in Indonesia, 8 T20I Series, 2025",
-      "title": "2nd T20I: Indonesia v Cambodia",
-      "date_time": "06:00, 23/12/2025",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/rjpup62oiw1z4vkckpi1",
-      "event_url": "#",
-      "stream_data_url": "",
-      "drm_key": ""
-    },
     {
       "isStart": "Upcoming",
       "tournament": "Cambodia in Indonesia, 8 T20I Series, 2025",
