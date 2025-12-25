@@ -1,2 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ts246" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/itnxvmhpym6hfejpwsf6" group-title="Live",4th T20I: Indonesia v Cambodia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d-nodvr/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1766653360~acl=/variant/v1blackout/vcg-01-d-nodvr/*~hmac=c2d840b022c087a282c7b9aeb3a6a97b2a6f340c6f8df47e4d40f064b8639a50/manifest.mpd
 

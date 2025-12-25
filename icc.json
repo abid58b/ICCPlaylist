@@ -1,33 +1,24 @@
 {
   "Author": "Abid",
-  "Last_Updated": "10:29:12 PM 23-12-2025",
-  "total_events": 6,
+  "Last_Updated": "09:02:10 AM 25-12-2025",
+  "total_events": 5,
   "totals": {
-    "live": 0,
-    "upcoming": 6
+    "live": 1,
+    "upcoming": 4
   },
-  "live_events": [],
-  "upcoming_events": [
+  "live_events": [
     {
-      "isStart": "Upcoming",
-      "tournament": "Cambodia in Indonesia, 8 T20I Series, 2025",
-      "title": "3rd T20I: Indonesia v Cambodia",
-      "date_time": "01:30, 24/12/2025",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/zmp9akuea4hsxldshwvn",
-      "event_url": "#",
-      "stream_data_url": "",
-      "drm_key": ""
-    },
-    {
-      "isStart": "Upcoming",
+      "isStart": "Live",
       "tournament": "Cambodia in Indonesia, 8 T20I Series, 2025",
       "title": "4th T20I: Indonesia v Cambodia",
-      "date_time": "06:00, 25/12/2025",
+      "date_time": "NOW",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/itnxvmhpym6hfejpwsf6",
-      "event_url": "#",
-      "stream_data_url": "",
-      "drm_key": ""
-    },
+      "event_url": "https://www.icc-cricket.com/videos/4th-t20i-indonesia-v-cambodia",
+      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d-nodvr/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1766653360~acl=/variant/v1blackout/vcg-01-d-nodvr/*~hmac=c2d840b022c087a282c7b9aeb3a6a97b2a6f340c6f8df47e4d40f064b8639a50/manifest.mpd",
+      "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
+    }
+  ],
+  "upcoming_events": [
     {
       "isStart": "Upcoming",
       "tournament": "Cambodia in Indonesia, 8 T20I Series, 2025",
