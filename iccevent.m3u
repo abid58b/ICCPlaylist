@@ -1,6 +1,1 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/prd/itnxvmhpym6hfejpwsf6" group-title="Live",Indonesia vs Cambodia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/manifest.mpd?hdnts=st=1766656003~exp=1766656043~acl=/variant/v1blackout/vcg-01-d/*~hmac=b25e5bf3f0c35013a1ecd77e3654d4a9ccff5ba8673e17af1a561ca21d46d37b&hdcore=2.11.3
