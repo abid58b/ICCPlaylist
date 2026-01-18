@@ -1,22 +1,32 @@
 {
   "Author": "Abid",
-  "Last_Updated": "10:59:13 PM 28-12-2025",
-  "total_events": 1,
+  "Last_Updated": "04:00:17 AM 18-01-2026",
+  "total_events": 2,
   "totals": {
-    "live": 0,
-    "upcoming": 1
+    "live": 2,
+    "upcoming": 0
   },
-  "live_events": [],
-  "upcoming_events": [
+  "live_events": [
     {
-      "isStart": "Upcoming",
-      "tournament": "Cambodia in Indonesia, 8 T20I Series, 2025",
-      "title": "8th T20I: Indonesia v Cambodia",
-      "date_time": "01:30, 29/12/2025",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/nhpfno4ztnxrohuulpg2",
-      "event_url": "#",
-      "stream_data_url": "",
-      "drm_key": ""
+      "isStart": "Live",
+      "tournament": "ICC Women's T20 World Cup Global Qualifier, 2026",
+      "title": "Nepal v Thailand",
+      "date_time": "NOW",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/jpb4fv66u5pjy0uibbqe",
+      "event_url": "https://www.icc-cricket.com/videos/nepal-v-thailand",
+      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1768708845~acl=/variant/v1blackout/vcg-01-d/*~hmac=564949da4eafc02ff7da0c7f16f888cd6e891b2b38ba503221dbeb6f88dd76d4/manifest.mpd",
+      "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
+    },
+    {
+      "isStart": "Live",
+      "tournament": "ICC Women's T20 World Cup Global Qualifier, 2026",
+      "title": "USA v Bangladesh",
+      "date_time": "NOW",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/voiexmqxmxqag8ojlgyh",
+      "event_url": "https://www.icc-cricket.com/videos/usa-v-bangladesh",
+      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1768708847~acl=/variant/v1blackout/vcg-01-d/*~hmac=9711a6a70e3d3355f7e7ee0bdddb154b8881b5cbc0a05b2bba6d968c92cf2c9b/manifest.mpd",
+      "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
     }
-  ]
+  ],
+  "upcoming_events": []
 }
