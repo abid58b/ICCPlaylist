@@ -1,9 +1,13 @@
 #EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
 #EXTINF:-1 tvg-id="ts246" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/ztn3etuxgw2htpepdzec" group-title="Live",Zimbabwe v Netherlands
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1768728438~acl=/variant/v1blackout/vcg-01-d/*~hmac=79c0d2e73ccb8a05540c9df572ccffb7ae23e598880f67bd24803ef1abba9c7a/manifest.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1768729525~acl=/variant/v1blackout/vcg-01-d/*~hmac=cb0337f56e57a2249b83b7dfef20a8b55d3c895388c42b18b62f0eb862a2fea7/manifest.mpd
+
 #EXTINF:-1 tvg-id="ts246" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/f8bh6zaiklvbctw249e5" group-title="Live",Ireland v Papua New Guinea
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1768728442~acl=/variant/v1blackout/vcg-01-d/*~hmac=b4130023407a3ec47724889f3961ecf4346f74de2fd193d06c155ab6915234e9/manifest.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1768729527~acl=/variant/v1blackout/vcg-01-d/*~hmac=2dfa2dbc6bfe2f4462a23455e5d7eb1d6308c930a107de43155219d884ad85dc/manifest.mpd
+
