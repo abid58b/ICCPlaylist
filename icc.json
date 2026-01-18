@@ -1,20 +1,30 @@
 {
   "Author": "Abid",
-  "Last_Updated": "06:44:16 AM 18-01-2026",
-  "total_events": 1,
+  "Last_Updated": "07:48:28 AM 18-01-2026",
+  "total_events": 2,
   "totals": {
-    "live": 1,
+    "live": 2,
     "upcoming": 0
   },
   "live_events": [
     {
       "isStart": "Live",
       "tournament": "ICC Women's T20 World Cup Global Qualifier, 2026",
-      "title": "USA v Bangladesh",
+      "title": "Zimbabwe v Netherlands",
       "date_time": "NOW",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/voiexmqxmxqag8ojlgyh",
-      "event_url": "https://www.icc-cricket.com/videos/usa-v-bangladesh",
-      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1768718686~acl=/variant/v1blackout/vcg-01-d/*~hmac=7e39324dc6504b71cd2c3050064bcd3af53e27284176dc7a8eccc2511ff1a3b6/manifest.mpd",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/ztn3etuxgw2htpepdzec",
+      "event_url": "https://www.icc-cricket.com/videos/zimbabwe-v-netherlands",
+      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1768722534~acl=/variant/v1blackout/vcg-01-d/*~hmac=96db783f5f3e4690eba95da9cc1c1dd97c7fd7c0e114689c2fd5a0164e43f407/manifest.mpd",
+      "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
+    },
+    {
+      "isStart": "Live",
+      "tournament": "ICC Women's T20 World Cup Global Qualifier, 2026",
+      "title": "Ireland v Papua New Guinea",
+      "date_time": "NOW",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/f8bh6zaiklvbctw249e5",
+      "event_url": "https://www.icc-cricket.com/videos/ireland-v-papua-new-guinea",
+      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1768722538~acl=/variant/v1blackout/vcg-01-d/*~hmac=8b79523ff91f0acd3bcef4e2dda0b5667e02dbd2f58fe0e6b81d2d9f85e3d181/manifest.mpd",
       "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
     }
   ],
