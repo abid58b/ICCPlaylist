@@ -1,9 +1,7 @@
 #EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
 #EXTINF:-1 tvg-id="ts246" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/scdg17kch4egbpjaiu5s" group-title="Live",Namibia v USA
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1768902812~acl=/variant/v1blackout/vcg-01-d/*~hmac=eb61e3bec757e9f0d3db292cc0f8ed92bf4a4a01b5b159afa4f16f3aa56f17fe/manifest.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
-#EXTINF:-1 tvg-id="ts246" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/du01xe41crphrvvn0chl" group-title="Live",Scotland v Netherlands
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1768902814~acl=/variant/v1blackout/vcg-01-d/*~hmac=a71f51bb527ae24dcb33ae1211bc2f5cef9aae094c0669601b6563dfb7dc9331/manifest.mpd
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1768905316~acl=/variant/v1blackout/vcg-01-d/*~hmac=c6e5adaf7f6fb772ddd90fea0a173c236b86b6d445d774628145e9e3246f0bb4/manifest.mpd
+
