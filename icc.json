@@ -1,6 +1,6 @@
 {
   "Author": "Abid",
-  "Last_Updated": "04:51:17 AM 20-01-2026",
+  "Last_Updated": "05:23:07 AM 20-01-2026",
   "total_events": 2,
   "totals": {
     "live": 2,
@@ -14,7 +14,7 @@
       "date_time": "NOW",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/gpfmgmxc5owfiiwwgwot",
       "event_url": "https://www.icc-cricket.com/videos/papua-new-guinea-v-bangladesh",
-      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1768884704~acl=/variant/v1blackout/vcg-01-d/*~hmac=422807c97d2879f37ad77fdbcb1f14ea8a72e10e626589819489797d73a6d176/manifest.mpd",
+      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1768886614~acl=/variant/v1blackout/vcg-01-d/*~hmac=21e2d883ab60adb4a6c9ef33e57093477f353d082c9afe802a27c7316e809bca/manifest.mpd",
       "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
     },
     {
@@ -24,7 +24,7 @@
       "date_time": "NOW",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/f91npzc96fkoaembxbud",
       "event_url": "https://www.icc-cricket.com/videos/zimbabwe-v-thailand",
-      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1768884707~acl=/variant/v1blackout/vcg-01-d/*~hmac=64961ac0b4ad3ae2c1a8850bd84f5061205e897b529f117d73b58dd7e12a3949/manifest.mpd",
+      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1768886617~acl=/variant/v1blackout/vcg-01-d/*~hmac=c3e19595a88bad6f97bcefc2c7163dd88c32d269bcd1b335fb7a6c775d5dcd77/manifest.mpd",
       "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
     }
   ],
