@@ -1,6 +1,6 @@
 {
   "Author": "Abid",
-  "Last_Updated": "10:31:24 AM 18-01-2026",
+  "Last_Updated": "03:56:25 AM 20-01-2026",
   "total_events": 2,
   "totals": {
     "live": 2,
@@ -10,21 +10,21 @@
     {
       "isStart": "Live",
       "tournament": "ICC Women's T20 World Cup Global Qualifier, 2026",
-      "title": "Zimbabwe v Netherlands",
+      "title": "Papua New Guinea v Bangladesh",
       "date_time": "NOW",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/ztn3etuxgw2htpepdzec",
-      "event_url": "https://www.icc-cricket.com/videos/zimbabwe-v-netherlands",
-      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1768732310~acl=/variant/v1blackout/vcg-01-d/*~hmac=eae240efd1f9a04792435b1f577d4fb043eec7ca8ae02348a31bf68fb5b8f4ea/manifest.mpd",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/gpfmgmxc5owfiiwwgwot",
+      "event_url": "https://www.icc-cricket.com/videos/papua-new-guinea-v-bangladesh",
+      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1768881412~acl=/variant/v1blackout/vcg-01-d/*~hmac=513f240cf7810b4f1baa69a4037cb8afe21abb065567e9ba4eba47562df37b7a/manifest.mpd",
       "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
     },
     {
       "isStart": "Live",
       "tournament": "ICC Women's T20 World Cup Global Qualifier, 2026",
-      "title": "Ireland v Papua New Guinea",
+      "title": "Zimbabwe v Thailand",
       "date_time": "NOW",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/f8bh6zaiklvbctw249e5",
-      "event_url": "https://www.icc-cricket.com/videos/ireland-v-papua-new-guinea",
-      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1768732314~acl=/variant/v1blackout/vcg-01-d/*~hmac=03404647190159eb69e2da74555cee712ccf6da46e0daf5b6a059e538d2651e3/manifest.mpd",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/f91npzc96fkoaembxbud",
+      "event_url": "https://www.icc-cricket.com/videos/zimbabwe-v-thailand",
+      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1768881415~acl=/variant/v1blackout/vcg-01-d/*~hmac=4ee98487116b85526c4f57b383aa6e8eaf78b028c66e11a09b1dba2a88899739/manifest.mpd",
       "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
     }
   ],
