@@ -1,6 +1,6 @@
 {
   "Author": "Abid",
-  "Last_Updated": "05:57:52 AM 22-01-2026",
+  "Last_Updated": "07:18:31 AM 22-01-2026",
   "total_events": 2,
   "totals": {
     "live": 2,
@@ -10,21 +10,21 @@
     {
       "isStart": "Live",
       "tournament": "ICC Women's T20 World Cup Global Qualifier, 2026",
-      "title": "Nepal v Netherlands",
+      "title": "Bangladesh v Namibia",
       "date_time": "NOW",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/nih0qbcnjqjfw1osp2bu",
-      "event_url": "https://www.icc-cricket.com/videos/nepal-v-netherlands",
-      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1769061499~acl=/variant/v1blackout/vcg-01-d/*~hmac=b6d4b78130952c6a78baafb758b98c1ba0da46d321ed3adc5f08d33bf1dafab9/manifest.mpd",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/ns2tjaebmyr9dhnkvggm",
+      "event_url": "https://www.icc-cricket.com/videos/bangladesh-v-namibia",
+      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1769066339~acl=/variant/v1blackout/vcg-01-d/*~hmac=947a1866aa7e70df61404d7c173023c11b8c6b685ce0c633bf3f13d4b0bef093/manifest.mpd",
       "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
     },
     {
       "isStart": "Live",
       "tournament": "ICC Women's T20 World Cup Global Qualifier, 2026",
-      "title": "Ireland v USA",
+      "title": "Scotland v Zimbabwe",
       "date_time": "NOW",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/mako6tt8fdmkwb1ya6mz",
-      "event_url": "https://www.icc-cricket.com/videos/ireland-v-usa",
-      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1769061502~acl=/variant/v1blackout/vcg-01-d/*~hmac=4c128b5c1ab6e72171adef2429904b140cca6eab3ed4e382e69b3d2b08f85145/manifest.mpd",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/zhwyo96jk3muctgxckrd",
+      "event_url": "https://www.icc-cricket.com/videos/scotland-v-zimbabwe",
+      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1769066341~acl=/variant/v1blackout/vcg-01-d/*~hmac=8b30ff56c122f93088dac390cb1187ceccc3cbcf85246841eb0d98adcea817c6/manifest.mpd",
       "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
     }
   ],
