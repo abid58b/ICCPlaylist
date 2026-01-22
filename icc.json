@@ -1,6 +1,6 @@
 {
   "Author": "Abid",
-  "Last_Updated": "07:18:31 AM 22-01-2026",
+  "Last_Updated": "07:45:41 AM 22-01-2026",
   "total_events": 2,
   "totals": {
     "live": 2,
@@ -14,7 +14,7 @@
       "date_time": "NOW",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/ns2tjaebmyr9dhnkvggm",
       "event_url": "https://www.icc-cricket.com/videos/bangladesh-v-namibia",
-      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1769066339~acl=/variant/v1blackout/vcg-01-d/*~hmac=947a1866aa7e70df61404d7c173023c11b8c6b685ce0c633bf3f13d4b0bef093/manifest.mpd",
+      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1769067967~acl=/variant/v1blackout/vcg-01-d/*~hmac=46886054542cc168c70ba4f8d30b69e460e40bb4fec991e6c7d92e03d9d34da2/manifest.mpd",
       "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
     },
     {
@@ -24,7 +24,7 @@
       "date_time": "NOW",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/zhwyo96jk3muctgxckrd",
       "event_url": "https://www.icc-cricket.com/videos/scotland-v-zimbabwe",
-      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1769066341~acl=/variant/v1blackout/vcg-01-d/*~hmac=8b30ff56c122f93088dac390cb1187ceccc3cbcf85246841eb0d98adcea817c6/manifest.mpd",
+      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1769067970~acl=/variant/v1blackout/vcg-01-d/*~hmac=97cdbf940d0ea649d9bf2b7b2d8fed6b2563a2e3406ba759e72024d163e4e125/manifest.mpd",
       "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
     }
   ],
