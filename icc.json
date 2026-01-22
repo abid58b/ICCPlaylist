@@ -1,6 +1,6 @@
 {
   "Author": "Abid",
-  "Last_Updated": "03:56:17 AM 22-01-2026",
+  "Last_Updated": "04:53:07 AM 22-01-2026",
   "total_events": 2,
   "totals": {
     "live": 2,
@@ -14,7 +14,7 @@
       "date_time": "NOW",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/nih0qbcnjqjfw1osp2bu",
       "event_url": "https://www.icc-cricket.com/videos/nepal-v-netherlands",
-      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1769054203~acl=/variant/v1blackout/vcg-01-d/*~hmac=456c8fdd3a1983d9cfbd21ece3dc1a1c0735ac8c19d048f06f694c1f6e5c012f/manifest.mpd",
+      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1769057614~acl=/variant/v1blackout/vcg-01-d/*~hmac=6ce0ceb1822b3d907437562b23ea84712bdf5e6d7c9feb65078c7d617bc9f870/manifest.mpd",
       "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
     },
     {
@@ -24,7 +24,7 @@
       "date_time": "NOW",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/mako6tt8fdmkwb1ya6mz",
       "event_url": "https://www.icc-cricket.com/videos/ireland-v-usa",
-      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1769054206~acl=/variant/v1blackout/vcg-01-d/*~hmac=626cb260aaa7f9fa330d27b9181c996f2b82ad50b84d70164d1242bb211e9ab7/manifest.mpd",
+      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1769057617~acl=/variant/v1blackout/vcg-01-d/*~hmac=b00c5674ce424013ab2f56901beb9709184765e6257eed738a1c14ab346e0afb/manifest.mpd",
       "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
     }
   ],
