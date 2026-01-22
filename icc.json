@@ -1,6 +1,6 @@
 {
   "Author": "Abid",
-  "Last_Updated": "10:35:04 AM 20-01-2026",
+  "Last_Updated": "03:56:17 AM 22-01-2026",
   "total_events": 2,
   "totals": {
     "live": 2,
@@ -10,22 +10,22 @@
     {
       "isStart": "Live",
       "tournament": "ICC Women's T20 World Cup Global Qualifier, 2026",
-      "title": "Namibia v USA",
+      "title": "Nepal v Netherlands",
       "date_time": "NOW",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/scdg17kch4egbpjaiu5s",
-      "event_url": "https://www.icc-cricket.com/videos/namibia-v-usa",
-      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1768905316~acl=/variant/v1blackout/vcg-01-d/*~hmac=c6e5adaf7f6fb772ddd90fea0a173c236b86b6d445d774628145e9e3246f0bb4/manifest.mpd",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/nih0qbcnjqjfw1osp2bu",
+      "event_url": "https://www.icc-cricket.com/videos/nepal-v-netherlands",
+      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1769054203~acl=/variant/v1blackout/vcg-01-d/*~hmac=456c8fdd3a1983d9cfbd21ece3dc1a1c0735ac8c19d048f06f694c1f6e5c012f/manifest.mpd",
       "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
     },
     {
       "isStart": "Live",
       "tournament": "ICC Women's T20 World Cup Global Qualifier, 2026",
-      "title": "Scotland v Netherlands",
+      "title": "Ireland v USA",
       "date_time": "NOW",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/du01xe41crphrvvn0chl",
-      "event_url": "https://www.icc-cricket.com/videos/scotland-v-netherlands",
-      "stream_data_url": "MPD Link Nahi Mila",
-      "drm_key": "DRM Key Nahi Mili"
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/mako6tt8fdmkwb1ya6mz",
+      "event_url": "https://www.icc-cricket.com/videos/ireland-v-usa",
+      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1769054206~acl=/variant/v1blackout/vcg-01-d/*~hmac=626cb260aaa7f9fa330d27b9181c996f2b82ad50b84d70164d1242bb211e9ab7/manifest.mpd",
+      "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
     }
   ],
   "upcoming_events": []
