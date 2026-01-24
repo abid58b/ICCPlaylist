@@ -1,6 +1,6 @@
 {
   "Author": "Abid",
-  "Last_Updated": "09:52:17 AM 22-01-2026",
+  "Last_Updated": "03:43:26 AM 24-01-2026",
   "total_events": 2,
   "totals": {
     "live": 2,
@@ -10,21 +10,21 @@
     {
       "isStart": "Live",
       "tournament": "ICC Women's T20 World Cup Global Qualifier, 2026",
-      "title": "Bangladesh v Namibia",
+      "title": "Thailand v Scotland",
       "date_time": "NOW",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/ns2tjaebmyr9dhnkvggm",
-      "event_url": "https://www.icc-cricket.com/videos/bangladesh-v-namibia",
-      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1769075564~acl=/variant/v1blackout/vcg-01-d/*~hmac=e8d5bfec921e6fed685968b5806c8979cb0531d4cf86cd0e31c24b98ad47a7f1/manifest.mpd",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/qer0thhbjl6q7ehs8py3",
+      "event_url": "https://www.icc-cricket.com/videos/thailand-v-scotland",
+      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1769226232~acl=/variant/v1blackout/vcg-01-d/*~hmac=900e3360c8343f30de473e809eb28d9a2ddae78c719275907b50dfcfe4c2b1b7/manifest.mpd",
       "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
     },
     {
       "isStart": "Live",
       "tournament": "ICC Women's T20 World Cup Global Qualifier, 2026",
-      "title": "Scotland v Zimbabwe",
+      "title": "Papua New Guinea v Namibia",
       "date_time": "NOW",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/zhwyo96jk3muctgxckrd",
-      "event_url": "https://www.icc-cricket.com/videos/scotland-v-zimbabwe",
-      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1769075567~acl=/variant/v1blackout/vcg-01-d/*~hmac=c131f17ea7d76059aab811c5eac630fd73ade05c43e7f081184eaa8019cf91ed/manifest.mpd",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/hig7dhvuss6klgaqmpl8",
+      "event_url": "https://www.icc-cricket.com/videos/papua-new-guinea-v-namibia",
+      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1769226236~acl=/variant/v1blackout/vcg-01-d/*~hmac=e89c4fc1a7bd9aec0310c261c267afdcd42f2cfef6ca4770d34735ae27f2befd/manifest.mpd",
       "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
     }
   ],
