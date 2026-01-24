@@ -1,22 +1,12 @@
 {
   "Author": "Abid",
-  "Last_Updated": "05:59:29 AM 24-01-2026",
-  "total_events": 2,
+  "Last_Updated": "06:45:44 AM 24-01-2026",
+  "total_events": 1,
   "totals": {
-    "live": 2,
+    "live": 1,
     "upcoming": 0
   },
   "live_events": [
-    {
-      "isStart": "Live",
-      "tournament": "ICC Women's T20 World Cup Global Qualifier, 2026",
-      "title": "Thailand v Scotland",
-      "date_time": "NOW",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/qer0thhbjl6q7ehs8py3",
-      "event_url": "https://www.icc-cricket.com/videos/thailand-v-scotland",
-      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1769234396~acl=/variant/v1blackout/vcg-01-d/*~hmac=ff7f776b75ec7709ccb74ac711547c6d190398a87ce0415b6a8ddbbaab29f098/manifest.mpd",
-      "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
-    },
     {
       "isStart": "Live",
       "tournament": "ICC Women's T20 World Cup Global Qualifier, 2026",
@@ -24,8 +14,8 @@
       "date_time": "NOW",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/hig7dhvuss6klgaqmpl8",
       "event_url": "https://www.icc-cricket.com/videos/papua-new-guinea-v-namibia",
-      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1769234399~acl=/variant/v1blackout/vcg-01-d/*~hmac=72e6aa476667cb36debac0322bed12f59413035c5ecead656f9d1bcb5e90644d/manifest.mpd",
-      "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
+      "stream_data_url": "MPD Link Nahi Mila",
+      "drm_key": "DRM Key Nahi Mili"
     }
   ],
   "upcoming_events": []
