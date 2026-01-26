@@ -1,6 +1,6 @@
 {
   "Author": "Abid",
-  "Last_Updated": "06:20:29 AM 26-01-2026",
+  "Last_Updated": "06:59:38 AM 26-01-2026",
   "total_events": 2,
   "totals": {
     "live": 2,
@@ -10,22 +10,22 @@
     {
       "isStart": "Live",
       "tournament": "ICC Women's T20 World Cup Global Qualifier, 2026",
-      "title": "Nepal v Scotland",
+      "title": "Namibia v Ireland",
       "date_time": "NOW",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/tnqdgail5xwogggylnx3",
-      "event_url": "https://www.icc-cricket.com/videos/nepal-v-scotland",
-      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1769408426~acl=/variant/v1blackout/vcg-01-d/*~hmac=669a71f6d4f952f47a838d71ff3124057371dc102da83305876cf57eeb43ba4c/manifest.mpd",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/sgohwrmrpxjjgnqely9k",
+      "event_url": "https://www.icc-cricket.com/videos/namibia-v-ireland",
+      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1769410796~acl=/variant/v1blackout/vcg-01-d/*~hmac=48b7cc01f7da2cd74b8b5a12b607a96026a5838d5c68add697fb75ed7bf69a05/manifest.mpd",
       "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
     },
     {
       "isStart": "Live",
       "tournament": "ICC Women's T20 World Cup Global Qualifier, 2026",
-      "title": "USA v Papua New Guinea",
+      "title": "Netherlands v Thailand",
       "date_time": "NOW",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/atk4jax7kqayygchzuzq",
-      "event_url": "https://www.icc-cricket.com/videos/usa-v-papua-new-guinea",
-      "stream_data_url": "MPD Link Nahi Mila",
-      "drm_key": "DRM Key Nahi Mili"
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/ora1kwgcqbcdm2j88rye",
+      "event_url": "https://www.icc-cricket.com/videos/netherlands-v-thailand",
+      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1769410808~acl=/variant/v1blackout/vcg-01-d/*~hmac=ac43419613a0e15214074a5a5bb0f9cf529a0b2c1cb35b41ef23ff1fcd15e9ba/manifest.mpd",
+      "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
     }
   ],
   "upcoming_events": []
