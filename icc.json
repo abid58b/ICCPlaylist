@@ -1,22 +1,12 @@
 {
   "Author": "Abid",
-  "Last_Updated": "09:49:45 AM 26-01-2026",
-  "total_events": 2,
+  "Last_Updated": "10:14:53 AM 26-01-2026",
+  "total_events": 1,
   "totals": {
-    "live": 2,
+    "live": 1,
     "upcoming": 0
   },
   "live_events": [
-    {
-      "isStart": "Live",
-      "tournament": "ICC Women's T20 World Cup Global Qualifier, 2026",
-      "title": "Namibia v Ireland",
-      "date_time": "NOW",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/sgohwrmrpxjjgnqely9k",
-      "event_url": "https://www.icc-cricket.com/videos/namibia-v-ireland",
-      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1769421010~acl=/variant/v1blackout/vcg-01-d/*~hmac=cda3b229f9e2008eb66c69509b128a7f24b26649dedd685b93f7739b8b936992/manifest.mpd",
-      "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
-    },
     {
       "isStart": "Live",
       "tournament": "ICC Women's T20 World Cup Global Qualifier, 2026",
@@ -24,7 +14,7 @@
       "date_time": "NOW",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/ora1kwgcqbcdm2j88rye",
       "event_url": "https://www.icc-cricket.com/videos/netherlands-v-thailand",
-      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1769421015~acl=/variant/v1blackout/vcg-01-d/*~hmac=b8fe95a31d2def401bd58db2ee41a5309573a177c607375b4d8fb94328d311f6/manifest.mpd",
+      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1769422523~acl=/variant/v1blackout/vcg-01-d/*~hmac=472204c7c76b11d2f2858cebfd145662c9ee5a63af840c4c4ca0fb7192f0bf7f/manifest.mpd",
       "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
     }
   ],
