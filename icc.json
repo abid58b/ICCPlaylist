@@ -1,6 +1,6 @@
 {
   "Author": "Abid",
-  "Last_Updated": "10:31:54 AM 24-01-2026",
+  "Last_Updated": "04:10:56 AM 26-01-2026",
   "total_events": 2,
   "totals": {
     "live": 2,
@@ -10,21 +10,21 @@
     {
       "isStart": "Live",
       "tournament": "ICC Women's T20 World Cup Global Qualifier, 2026",
-      "title": "Nepal v Zimbabwe",
+      "title": "Nepal v Scotland",
       "date_time": "NOW",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/cqa9jwpdn4z7l3tcompm",
-      "event_url": "https://www.icc-cricket.com/videos/nepal-v-zimbabwe",
-      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1769250739~acl=/variant/v1blackout/vcg-01-d/*~hmac=975c4221cef82b0649c3463c9a8f07c2baa5cc82536f8ab7d5d201c50030a5c3/manifest.mpd",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/tnqdgail5xwogggylnx3",
+      "event_url": "https://www.icc-cricket.com/videos/nepal-v-scotland",
+      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1769400684~acl=/variant/v1blackout/vcg-01-d/*~hmac=cde2473dd375fa69705f6defaa05f280f5f670c9b2931c756b5aabb88e03e178/manifest.mpd",
       "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
     },
     {
       "isStart": "Live",
       "tournament": "ICC Women's T20 World Cup Global Qualifier, 2026",
-      "title": "Bangladesh v Ireland",
+      "title": "USA v Papua New Guinea",
       "date_time": "NOW",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/azmcby0fgjquuvepkg1z",
-      "event_url": "https://www.icc-cricket.com/videos/bangladesh-v-ireland",
-      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1769250744~acl=/variant/v1blackout/vcg-01-d/*~hmac=e5945c6f5e508517196ff348ebe1b7f95da34e3127f0f1d48821654439803f37/manifest.mpd",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/atk4jax7kqayygchzuzq",
+      "event_url": "https://www.icc-cricket.com/videos/usa-v-papua-new-guinea",
+      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1769400686~acl=/variant/v1blackout/vcg-01-d/*~hmac=525c727dc7e86ca15555fac77026a5746c2ac7387c6ca40696f3eb9d759ea43a/manifest.mpd",
       "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
     }
   ],

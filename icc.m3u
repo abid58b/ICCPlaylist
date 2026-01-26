@@ -1,9 +1,13 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ts246" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/tnqdgail5xwogggylnx3" group-title="Live",Nepal v Scotland
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
-#EXTINF:-1 tvg-id="ts246" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/cqa9jwpdn4z7l3tcompm" group-title="Live",Nepal v Zimbabwe
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1769250739~acl=/variant/v1blackout/vcg-01-d/*~hmac=975c4221cef82b0649c3463c9a8f07c2baa5cc82536f8ab7d5d201c50030a5c3/manifest.mpd
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1769400684~acl=/variant/v1blackout/vcg-01-d/*~hmac=cde2473dd375fa69705f6defaa05f280f5f670c9b2931c756b5aabb88e03e178/manifest.mpd
+
+#EXTINF:-1 tvg-id="ts246" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/atk4jax7kqayygchzuzq" group-title="Live",USA v Papua New Guinea
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
-#EXTINF:-1 tvg-id="ts246" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/azmcby0fgjquuvepkg1z" group-title="Live",Bangladesh v Ireland
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1769250744~acl=/variant/v1blackout/vcg-01-d/*~hmac=e5945c6f5e508517196ff348ebe1b7f95da34e3127f0f1d48821654439803f37/manifest.mpd
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1769400686~acl=/variant/v1blackout/vcg-01-d/*~hmac=525c727dc7e86ca15555fac77026a5746c2ac7387c6ca40696f3eb9d759ea43a/manifest.mpd
+
