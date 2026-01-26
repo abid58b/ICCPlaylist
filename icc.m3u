@@ -1,9 +1,13 @@
 #EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
 #EXTINF:-1 tvg-id="ts246" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/sgohwrmrpxjjgnqely9k" group-title="Live",Namibia v Ireland
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1769410796~acl=/variant/v1blackout/vcg-01-d/*~hmac=48b7cc01f7da2cd74b8b5a12b607a96026a5838d5c68add697fb75ed7bf69a05/manifest.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1769413059~acl=/variant/v1blackout/vcg-01-d/*~hmac=4cabcf5dcbd0e2520ca20839e429df82f2d09ae3ce59272b7397d456b070d20c/manifest.mpd
+
 #EXTINF:-1 tvg-id="ts246" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/ora1kwgcqbcdm2j88rye" group-title="Live",Netherlands v Thailand
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1769410808~acl=/variant/v1blackout/vcg-01-d/*~hmac=ac43419613a0e15214074a5a5bb0f9cf529a0b2c1cb35b41ef23ff1fcd15e9ba/manifest.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1769413064~acl=/variant/v1blackout/vcg-01-d/*~hmac=42f074577aff4f2b5b98f80ca7d64788d0b55538b69ab41bf721eca7cd4e1d7d/manifest.mpd
+
