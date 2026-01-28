@@ -1,7 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ts246" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/txvrrvkheyqrbmhvcs0y" group-title="Live",USA v Netherlands
-#EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
+#EXTINF:-1 tvg-id="ts246" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/txvrrvkheyqrbmhvcs0y" group-title="Live",USA v Netherlands
 https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1769590089~acl=/variant/v1blackout/vcg-01-d/*~hmac=ec357b8d8a8a911c0894d42fef05e9a3954b39726aa6efbaf07d10c4e51d2e65/manifest.mpd
-
