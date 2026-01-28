@@ -1,6 +1,6 @@
 {
   "Author": "Abid",
-  "Last_Updated": "09:21:15 AM 28-01-2026",
+  "Last_Updated": "09:54:24 AM 28-01-2026",
   "total_events": 1,
   "totals": {
     "live": 1,
@@ -14,7 +14,7 @@
       "date_time": "NOW",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/txvrrvkheyqrbmhvcs0y",
       "event_url": "https://www.icc-cricket.com/videos/usa-v-netherlands",
-      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1769592105~acl=/variant/v1blackout/vcg-01-d/*~hmac=3ed4bc21f772d863496ac5188a8944f4bc84537eeeea7b81332e2a786e37ce91/manifest.mpd",
+      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1769594094~acl=/variant/v1blackout/vcg-01-d/*~hmac=f6310f2f27f0142e8dfa0cccf29893e44770b501f36631469caf5c70c26c6f00/manifest.mpd",
       "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
     }
   ],
