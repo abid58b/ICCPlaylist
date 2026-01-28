@@ -1,6 +1,6 @@
 {
   "Author": "Abid",
-  "Last_Updated": "05:33:38 AM 28-01-2026",
+  "Last_Updated": "05:57:17 AM 28-01-2026",
   "total_events": 2,
   "totals": {
     "live": 2,
@@ -14,7 +14,7 @@
       "date_time": "NOW",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/pynhzv1pi2ul8wb5x5hq",
       "event_url": "https://www.icc-cricket.com/videos/scotland-vs-ireland",
-      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1769578443~acl=/variant/v1blackout/vcg-01-d/*~hmac=0390dfc202fa401276c4915a7c8be61d3becb7c8d6a05dd2d837273feaf369c1/manifest.mpd",
+      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1769579864~acl=/variant/v1blackout/vcg-01-d/*~hmac=131b91926b2ae9097da8208565fb8e5d5fa60587b368e9ae6251bc1d3e352338/manifest.mpd",
       "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
     },
     {
@@ -24,7 +24,7 @@
       "date_time": "NOW",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/wfughroki7jydwjlanuo",
       "event_url": "https://www.icc-cricket.com/videos/thailand-v-bangladesh",
-      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1769578447~acl=/variant/v1blackout/vcg-01-d/*~hmac=b4a144d4f1e9322b709a1c89864efe486b7299826d2b11d0ae17f2312a8e1cbb/manifest.mpd",
+      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1769579866~acl=/variant/v1blackout/vcg-01-d/*~hmac=a716afc3cade88670d09b8066b15e202f14f30251ebdd7afef33367eead3a082/manifest.mpd",
       "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
     }
   ],
