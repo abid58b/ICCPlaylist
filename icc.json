@@ -1,6 +1,6 @@
 {
   "Author": "Abid",
-  "Last_Updated": "07:26:36 AM 30-01-2026",
+  "Last_Updated": "08:01:27 AM 30-01-2026",
   "total_events": 1,
   "totals": {
     "live": 1,
@@ -14,7 +14,7 @@
       "date_time": "NOW",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/jgvrjmmcnvccyvypvpdw",
       "event_url": "https://www.icc-cricket.com/videos/usa-v-thailand",
-      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1769758026~acl=/variant/v1blackout/vcg-01-d/*~id=e8df3ec1-845e-46cb-964a-69695358d590~hmac=b2d006ca2323243d03b0b5771af42524750350947c19213a5ea6d3ca5c9e22d2/manifest.mpd",
+      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1769760117~acl=/variant/v1blackout/vcg-01-d/*~id=e8df3ec1-845e-46cb-964a-69695358d590~hmac=788a8af957cdf7fa44ffa5da3f9e268b387257eea15291c65628d6c11a4cd3a3/manifest.mpd",
       "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
     }
   ],
