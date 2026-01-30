@@ -1,6 +1,6 @@
 {
   "Author": "Abid",
-  "Last_Updated": "06:29:30 AM 30-01-2026",
+  "Last_Updated": "07:26:36 AM 30-01-2026",
   "total_events": 1,
   "totals": {
     "live": 1,
@@ -10,11 +10,11 @@
     {
       "isStart": "Live",
       "tournament": "ICC Women's T20 World Cup Global Qualifier, 2026",
-      "title": "Bangladesh v Scotland",
+      "title": "USA v Thailand",
       "date_time": "NOW",
-      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/ukeh1yasu3nufdwnhj35",
-      "event_url": "https://www.icc-cricket.com/videos/bangladesh-v-scotland",
-      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1769754600~acl=/variant/v1blackout/vcg-01-d/*~id=e8df3ec1-845e-46cb-964a-69695358d590~hmac=f102f2ee7b00984f3914c63a09e16bd57af2f44c73ad0fa949b9c0350045e97f/manifest.mpd",
+      "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/jgvrjmmcnvccyvypvpdw",
+      "event_url": "https://www.icc-cricket.com/videos/usa-v-thailand",
+      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1769758026~acl=/variant/v1blackout/vcg-01-d/*~id=e8df3ec1-845e-46cb-964a-69695358d590~hmac=b2d006ca2323243d03b0b5771af42524750350947c19213a5ea6d3ca5c9e22d2/manifest.mpd",
       "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
     }
   ],

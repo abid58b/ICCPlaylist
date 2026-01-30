@@ -1,5 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ts246" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/jgvrjmmcnvccyvypvpdw" group-title="Live",USA v Thailand
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
-#EXTINF:-1 tvg-id="ts246" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/ukeh1yasu3nufdwnhj35" group-title="Live",Bangladesh v Scotland
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1769754600~acl=/variant/v1blackout/vcg-01-d/*~id=e8df3ec1-845e-46cb-964a-69695358d590~hmac=f102f2ee7b00984f3914c63a09e16bd57af2f44c73ad0fa949b9c0350045e97f/manifest.mpd
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1769758026~acl=/variant/v1blackout/vcg-01-d/*~id=e8df3ec1-845e-46cb-964a-69695358d590~hmac=b2d006ca2323243d03b0b5771af42524750350947c19213a5ea6d3ca5c9e22d2/manifest.mpd
+
