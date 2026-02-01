@@ -1,6 +1,6 @@
 {
   "Author": "Abid",
-  "Last_Updated": "09:58:29 AM 01-02-2026",
+  "Last_Updated": "10:37:57 AM 01-02-2026",
   "total_events": 1,
   "totals": {
     "live": 1,
@@ -14,7 +14,7 @@
       "date_time": "NOW",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/yfbd4hjzd9y2vdmcn8vm",
       "event_url": "https://www.icc-cricket.com/videos/scotland-v-usa",
-      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1769939939~acl=/variant/v1blackout/vcg-01-d/*~id=e8df3ec1-845e-46cb-964a-69695358d590~hmac=ac0c7c3d0fd2dfd7aad14167c6e28ac3910b9a29392204d4c11251df45c15e1e/manifest.mpd",
+      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1769942307~acl=/variant/v1blackout/vcg-01-d/*~id=e8df3ec1-845e-46cb-964a-69695358d590~hmac=2ef731a021470bc697f7fa6777ea3e9c3ac5cf21da65fad51550fa52eb831b3b/manifest.mpd",
       "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
     }
   ],
