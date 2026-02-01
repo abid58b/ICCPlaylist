@@ -1,6 +1,6 @@
 {
   "Author": "Abid",
-  "Last_Updated": "07:49:52 AM 01-02-2026",
+  "Last_Updated": "08:18:05 AM 01-02-2026",
   "total_events": 1,
   "totals": {
     "live": 1,
@@ -14,8 +14,8 @@
       "date_time": "NOW",
       "image_url": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/yfbd4hjzd9y2vdmcn8vm",
       "event_url": "https://www.icc-cricket.com/videos/scotland-v-usa",
-      "stream_data_url": "MPD Link Nahi Mila",
-      "drm_key": "DRM Key Nahi Mili"
+      "stream_data_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1769933915~acl=/variant/v1blackout/vcg-01-d/*~id=e8df3ec1-845e-46cb-964a-69695358d590~hmac=295d0126244b83b23db63d239f130403ae78954ecdff8bf255828291b2cd59e5/manifest.mpd",
+      "drm_key": "ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"
     }
   ],
   "upcoming_events": []
