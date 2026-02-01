@@ -1,1 +1,9 @@
 #EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=DRM Key Nahi Mili
+#EXTINF:-1 tvg-id="ts246" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/dzvkracurcimze8wd0xo" group-title="Live",Ireland v Thailand
+MPD Link Nahi Mila
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=DRM Key Nahi Mili
+#EXTINF:-1 tvg-id="ts246" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/pofeu786skbdsydgarhx" group-title="Live",Bangladesh v Netherlands
+MPD Link Nahi Mila
