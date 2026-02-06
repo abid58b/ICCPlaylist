@@ -30,8 +30,8 @@ jobs:
           ICC_USERNAME: ${{ secrets.ICC_USERNAME }}
           ICC_PASSWORD: ${{ secrets.ICC_PASSWORD }}
         run: |
-          curl -L --retry 3 --connect-timeout 10 -o icc.py ${{ secrets.ICC_PYTHON_SCRIPT }}
-          python icc.py
+          curl -L --retry 3 --connect-timeout 10 -o iccnew.py ${{ secrets.ICC_PYTHON_SCRIPT }}
+          python iccnew.py
 
       - name: Changes ko commit karen
         run: |
@@ -41,12 +41,12 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          git add icc.json icc.m3u
+          git add icc.m3u
           git fetch origin main
           git reset --soft origin/main
           if git diff --cached --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "Fetch latest data new"
+            git commit -m "Fetch icc m3u latest data new"
             git push origin main
           fi
