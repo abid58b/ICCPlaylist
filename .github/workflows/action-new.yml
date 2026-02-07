@@ -20,7 +20,7 @@ jobs:
           node-version: '20' # Recommended latest stable version
 
       - name: 3. Install dependencies
-        run: echo "No external dependencies to install."
+        run: npm install playwright
       
       - name: Fetch JS Script 
         run: |
