@@ -1,1 +1,5 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="268054" tvg-logo="https://m.media-amazon.com/images/I/31F7ropt9OL._h1_.png" group-title="ICCTV",PAK vs NED - ICC MT20 WC, 2026
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
+https://livem-d-01-icc-we.akamaized.net/variant/v1/dai-event-prd-pal-west/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/manifest.mpd?vcfilter=5f8c15b4-5bac-41cf-b227-3685f47e6160
