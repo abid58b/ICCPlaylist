@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="0000" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1770696360/prd/sfycijzqlx8kpj8q8x0f" group-title="ICC TV",MT20: Netherlands v Namibia
+#EXTINF:-1 tvg-id="0000" tvg-logo="" group-title="ICC TV",MT20: Netherlands v Namibia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=79584ff8854536a3829f177423cdf684:e6c7e6a131dea887edf696d50cd24ba9
 https://livem-d-01-icc-we.akamaized.net/variant/v1/dai-event-prd-pal-west/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/manifest.mpd?vcfilter=073da234-0e75-4909-87eb-11df56b9c4c4
