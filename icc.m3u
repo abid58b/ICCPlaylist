@@ -2,8 +2,8 @@
 #EXTINF:-1 tvg-id="0000" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1770905333/prd/nqlhzsm3kkaq0n2ip4xo" group-title="ICC TV",MT20: Australia v Zimbabwe
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=225c55ce3bff3d02b71b5dbd42209860:cb5d16c706bbf565df2afa108eccb879
-https://livem-d-01-icc-we.akamaized.net/variant/v1/dai-event-prd-pal-west/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/manifest.mpd?vcfilter=1c7d0756-7390-4af5-9a8d-4c597286473c
+https://livem-d-02-icc-ne.akamaized.net/variant/v1/dai-event-prd-pal-north/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/manifest.mpd?vcfilter=1c7d0756-7390-4af5-9a8d-4c597286473c
 #EXTINF:-1 tvg-id="0000" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1770905340/prd/kvkudtc8ie9ma3ljchn6" group-title="ICC TV",MT20: Australia v Zimbabwe (HINDI)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=225c55ce3bff3d02b71b5dbd42209860:cb5d16c706bbf565df2afa108eccb879
-https://livem-d-01-icc-we.akamaized.net/variant/v1/dai-event-prd-pal-west/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-04)/manifest.mpd?vcfilter=aae203c8-4ec8-42c8-b9d5-275167c843ee
+https://livem-d-02-icc-ne.akamaized.net/variant/v1/dai-event-prd-pal-north/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-04)/manifest.mpd?vcfilter=aae203c8-4ec8-42c8-b9d5-275167c843ee
