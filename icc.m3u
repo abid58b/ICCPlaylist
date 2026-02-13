@@ -7,3 +7,11 @@ https://livem-d-02-icc-ne.akamaized.net/variant/v1/dai-event-prd-pal-north/vcg-0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=225c55ce3bff3d02b71b5dbd42209860:cb5d16c706bbf565df2afa108eccb879
 https://livem-d-02-icc-ne.akamaized.net/variant/v1/dai-event-prd-pal-north/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-04)/manifest.mpd?vcfilter=aae203c8-4ec8-42c8-b9d5-275167c843ee
+#EXTINF:-1 tvg-id="0000" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1770905387/prd/vh4csubprbmuskgjmzbg" group-title="ICC TV",MT20: Canada v United Arab Emirates
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=225c55ce3bff3d02b71b5dbd42209860:cb5d16c706bbf565df2afa108eccb879
+https://livem-d-01-icc-we.akamaized.net/variant/v1/dai-event-prd-pal-west/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-03)/manifest.mpd?vcfilter=9d725f5b-e0c4-4a80-b6ba-4f71c22827aa
+#EXTINF:-1 tvg-id="0000" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1770905348/prd/btr76ph262f7uhme21mc" group-title="ICC TV",MT20: Canada v United Arab Emirates (HINDI)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=225c55ce3bff3d02b71b5dbd42209860:cb5d16c706bbf565df2afa108eccb879
+https://livem-d-01-icc-we.akamaized.net/variant/v1/dai-event-prd-pal-west/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-05)/manifest.mpd?vcfilter=af827393-bc69-45d3-ba4e-b31405f966e5
