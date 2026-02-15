@@ -1,13 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="0000" tvg-logo="" group-title="ICC TV",MT20: West Indies v Nepal
+#EXTINF:-1 tvg-id="0000" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1771093519/prd/obhnxthsnkcku8dbluda" group-title="ICC TV",MT20: USA v Namibia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bdbde8aa9d6437e1aba7cccc6308ba9b:5b6308bce97037f988835eda63664b0c
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/manifest.mpd?vcfilter=55ba5fef-b46f-494b-b752-abf18d53ef13
-#EXTINF:-1 tvg-id="0000" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1771093485/prd/bsa12ya6swqccazylqjw" group-title="ICC TV",MT20: West Indies v Nepal (NEPALI)
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-03)/manifest.mpd?vcfilter=e2635061-2c66-45e6-8118-0f6726c46889
+#EXTINF:-1 tvg-id="0000" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1771093508/prd/yowep9cm8z2c5w2yhsic" group-title="ICC TV",MT20: USA v Namibia (HINDI)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bdbde8aa9d6437e1aba7cccc6308ba9b:5b6308bce97037f988835eda63664b0c
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/manifest.mpd?vcfilter=56b54d46-c4f7-430c-8749-053b3d9aeaee
-#EXTINF:-1 tvg-id="0000" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1771093513/prd/xpjxgwjlfviqjnfjmp78" group-title="ICC TV",MT20: West Indies v Nepal (HINDI)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bdbde8aa9d6437e1aba7cccc6308ba9b:5b6308bce97037f988835eda63664b0c
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-04)/manifest.mpd?vcfilter=5c4fadc9-7d0f-485f-882b-895ebec2ff57
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-05)/manifest.mpd?vcfilter=afabd48c-0d76-4386-8407-2ab1432a3ba1
