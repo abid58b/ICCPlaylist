@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="0000" tvg-logo="" group-title="ICC TV",MT20: Ireland v Zimbabwe
+#EXTINF:-1 tvg-id="0000" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1771309225/prd/h2ftb60k0lit1yrdhsec" group-title="ICC TV",MT20: Ireland v Zimbabwe
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bdbde8aa9d6437e1aba7cccc6308ba9b:5b6308bce97037f988835eda63664b0c
 https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-03)/manifest.mpd?vcfilter=8a569f04-1a2b-4b16-9063-afe157d54e8d
