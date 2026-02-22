@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="0000" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1771747182/prd/deqdi3vb3boudantan8r" group-title="ICC TV",MT20: India v South Africa
+#EXTINF:-1 tvg-id="0000" tvg-logo="" group-title="ICC TV",MT20: India v South Africa
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bdbde8aa9d6437e1aba7cccc6308ba9b:5b6308bce97037f988835eda63664b0c
 https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-03)/manifest.mpd?vcfilter=8d242f5d-a0de-4965-8729-2a023aeee0c4
