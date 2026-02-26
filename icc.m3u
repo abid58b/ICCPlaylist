@@ -1,5 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="0000" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/prd/ze7sfoklyq7vpstpgtdm" group-title="ICC TV",2nd T20I: Hong Kong, China v Kuwait
+#EXTINF:-1 tvg-id="0000" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1772090226/prd/z1dtzuyc0q25wqdtkvit" group-title="ICC TV",MT20: West Indies v South Africa
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bdbde8aa9d6437e1aba7cccc6308ba9b:5b6308bce97037f988835eda63664b0c
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/manifest.mpd?vcfilter=9e92bb24-daee-428e-9c4b-3e4f9a61fec7
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/manifest.mpd?vcfilter=95ff59db-3649-496a-a3c8-041cc15c74a4
+#EXTINF:-1 tvg-id="0000" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1772090212/prd/dflsnvs4ikeqv0we8ia7" group-title="ICC TV",MT20: West Indies v South Africa (HINDI)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bdbde8aa9d6437e1aba7cccc6308ba9b:5b6308bce97037f988835eda63664b0c
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-04)/manifest.mpd?vcfilter=500b535a-cfb8-4743-9aa3-18220a74d2a3
