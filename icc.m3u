@@ -1,1 +1,5 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="0000" tvg-logo="" group-title="ICC TV",3rd T20I: New Zealand v Zimbabwe
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bdbde8aa9d6437e1aba7cccc6308ba9b:5b6308bce97037f988835eda63664b0c
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-05)/manifest.mpd?vcfilter=22ee9ec4-e6ad-4fe2-960f-d546ec67e3e2
