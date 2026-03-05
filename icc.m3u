@@ -1,1 +1,9 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="0000" tvg-logo="" group-title="ICC TV",MT20: Semi-Final 2: India v England
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bdbde8aa9d6437e1aba7cccc6308ba9b:5b6308bce97037f988835eda63664b0c
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/manifest.mpd?vcfilter=6c25bf85-3fac-48ed-91c3-97a316084d75
+#EXTINF:-1 tvg-id="0000" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1772701299/prd/b8vwpo1s2fdmpxg9ekks" group-title="ICC TV",MT20: Semi-Final 2: India v England (HINDI)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bdbde8aa9d6437e1aba7cccc6308ba9b:5b6308bce97037f988835eda63664b0c
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-05)/manifest.mpd?vcfilter=db525874-eb08-4e0f-aa52-7df752196d0c
